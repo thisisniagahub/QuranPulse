@@ -6,8 +6,8 @@
     "arabicText": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ یَسۡـَٔلُونَكَ عَنِ ٱلۡأَنفَالِۖ قُلِ ٱلۡأَنفَالُ لِلَّهِ وَٱلرَّسُولِۖ فَٱتَّقُوا۟ ٱللَّهَ وَأَصۡلِحُوا۟ ذَاتَ بَیۡنِكُمۡۖ وَأَطِیعُوا۟ ٱللَّهَ وَرَسُولَهُۥۤ إِن كُنتُم مُّؤۡمِنِینَ\n",
     "translations": {
       "en": "HEY WILL ASK thee about the spoils of war. Say: \"All spoils of war belong to God and the Apostle.\" Remain, then, conscious of God, and keep alive the bonds of brotherhood among yourselves, and pay heed unto God and His Apostle, if you are [truly] believers!",
-      "ms": "",
-      "id": "",
+      "ms": "Mereka bertanya kepadamu (wahai Muhammad) tentang harta rampasan perang. Katakanlah: \"Harta rampasan perang itu (terserah) bagi Allah dan bagi RasulNya (untuk menentukan pembahagiannya). Oleh itu, bertaqwalah kamu kepada Allah dan perbaikilah keadaan perhubungan di antara kamu, serta taatlah kepada Allah dan RasulNya, jika betul kamu orang-orang yang beriman\".",
+      "id": "Mereka menanyakan kepadamu tentang (pembagian) harta rampasan perang. Katakanlah: \"Harta rampasan perang kepunyaan Allah dan Rasul, oleh sebab itu bertakwalah kepada Allah dan perbaikilah perhubungan di antara sesamamu; dan taatlah kepada Allah dan Rasul-Nya jika kamu adalah orang-orang yang beriman\".",
       "ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ یَسۡـَٔلُونَكَ عَنِ ٱلۡأَنفَالِۖ قُلِ ٱلۡأَنفَالُ لِلَّهِ وَٱلرَّسُولِۖ فَٱتَّقُوا۟ ٱللَّهَ وَأَصۡلِحُوا۟ ذَاتَ بَیۡنِكُمۡۖ وَأَطِیعُوا۟ ٱللَّهَ وَرَسُولَهُۥۤ إِن كُنتُم مُّؤۡمِنِینَ\n"
     }
   },
@@ -18,8 +18,8 @@
     "arabicText": "إِنَّمَا ٱلۡمُؤۡمِنُونَ ٱلَّذِینَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتۡ قُلُوبُهُمۡ وَإِذَا تُلِیَتۡ عَلَیۡهِمۡ ءَایَـٰتُهُۥ زَادَتۡهُمۡ إِیمَـٰنࣰا وَعَلَىٰ رَبِّهِمۡ یَتَوَكَّلُونَ\n",
     "translations": {
       "en": "Believers are only they whose hearts tremble with awe whenever God is mentioned, and whose faith is strengthened whenever His messages are conveyed unto them, and who in their Sustainer place their trust -",
-      "ms": "",
-      "id": "",
+      "ms": "Sesungguhnya orang-orang yang beriman itu (yang sempurna imannya) ialah mereka yang apabila disebut nama Allah (dan sifat-sifatNya) gementarlah hati mereka; dan apabila dibacakan kepada mereka ayat-ayatNya, menjadikan mereka bertambah iman, dan kepada Tuhan mereka jualah mereka berserah.",
+      "id": "Sesungguhnya orang-orang yang beriman ialah mereka yang bila disebut nama Allah gemetarlah hati mereka, dan apabila dibacakan ayat-ayat-Nya bertambahlah iman mereka (karenanya), dan hanya kepada Tuhanlah mereka bertawakkal.",
       "ar": "إِنَّمَا ٱلۡمُؤۡمِنُونَ ٱلَّذِینَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتۡ قُلُوبُهُمۡ وَإِذَا تُلِیَتۡ عَلَیۡهِمۡ ءَایَـٰتُهُۥ زَادَتۡهُمۡ إِیمَـٰنࣰا وَعَلَىٰ رَبِّهِمۡ یَتَوَكَّلُونَ\n"
     }
   },
@@ -30,8 +30,8 @@
     "arabicText": "ٱلَّذِینَ یُقِیمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَـٰهُمۡ یُنفِقُونَ\n",
     "translations": {
       "en": "those who are constant in prayer and spend on others out of what We provide for them as sustenance:",
-      "ms": "",
-      "id": "",
+      "ms": "Iaitu orang-orang yang mendirikan sembahyang dan yang mendermakan sebahagian dari apa yang Kami kurniakan kepada mereka.",
+      "id": "(yaitu) orang-orang yang mendirikan shalat dan yang menafkahkan sebagian dari rezeki yang Kami berikan kepada mereka.",
       "ar": "ٱلَّذِینَ یُقِیمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَـٰهُمۡ یُنفِقُونَ\n"
     }
   },
@@ -42,8 +42,8 @@
     "arabicText": "أُو۟لَـٰۤىِٕكَ هُمُ ٱلۡمُؤۡمِنُونَ حَقࣰّاۚ لَّهُمۡ دَرَجَـٰتٌ عِندَ رَبِّهِمۡ وَمَغۡفِرَةࣱ وَرِزۡقࣱ كَرِیمࣱ\n",
     "translations": {
       "en": "it is they, they who are truly believers! Theirs shall be great dignity in their Sustainer's sight, and forgiveness of sins, and a most excellent sustenance.",
-      "ms": "",
-      "id": "",
+      "ms": "Merekalah orang-orang yang beriman dengan sebenar-benarnya. Mereka akan mendapat pangkat-pangkat yang tinggi di sisi Tuhan mereka dan keampunan serta limpah kurnia yang mulia (di Syurga).",
+      "id": "Itulah orang-orang yang beriman dengan sebenar-benarnya. Mereka akan memperoleh beberapa derajat ketinggian di sisi Tuhannya dan ampunan serta rezeki (nikmat) yang mulia.",
       "ar": "أُو۟لَـٰۤىِٕكَ هُمُ ٱلۡمُؤۡمِنُونَ حَقࣰّاۚ لَّهُمۡ دَرَجَـٰتٌ عِندَ رَبِّهِمۡ وَمَغۡفِرَةࣱ وَرِزۡقࣱ كَرِیمࣱ\n"
     }
   },
@@ -54,8 +54,8 @@
     "arabicText": "كَمَاۤ أَخۡرَجَكَ رَبُّكَ مِنۢ بَیۡتِكَ بِٱلۡحَقِّ وَإِنَّ فَرِیقࣰا مِّنَ ٱلۡمُؤۡمِنِینَ لَكَـٰرِهُونَ\n",
     "translations": {
       "en": "EVEN AS thy Sustainer brought thee forth from thy home [to fight] in the cause of the truth, although some of the believers were averse to it,",
-      "ms": "",
-      "id": "",
+      "ms": "Sebagaimana (harta rampasan perang ditentukan pembahagiannya dengan kebenaran, maka) Tuhanmu (wahai Muhammad) mengeluarkanmu dari rumahmu (untuk pergi berperang) dengan kebenaran juga, sedang sebahagian dari orang-orang yang beriman itu (sebenarnya) tidak suka (turut berjuang).",
+      "id": "Sebagaimana Tuhanmu menyuruhmu pergi dan rumahmu dengan kebenaran, padahal sesungguhnya sebagian dari orang-orang yang beriman itu tidak menyukainya,",
       "ar": "كَمَاۤ أَخۡرَجَكَ رَبُّكَ مِنۢ بَیۡتِكَ بِٱلۡحَقِّ وَإِنَّ فَرِیقࣰا مِّنَ ٱلۡمُؤۡمِنِینَ لَكَـٰرِهُونَ\n"
     }
   },
@@ -66,8 +66,8 @@
     "arabicText": "یُجَـٰدِلُونَكَ فِی ٱلۡحَقِّ بَعۡدَ مَا تَبَیَّنَ كَأَنَّمَا یُسَاقُونَ إِلَى ٱلۡمَوۡتِ وَهُمۡ یَنظُرُونَ\n",
     "translations": {
       "en": "[so, too,] they would argue with thee about the truth [itself] after it had become manifest - just as if they were being driven towards death and beheld it with their very eyes.",
-      "ms": "",
-      "id": "",
+      "ms": "Mereka membantahmu tentang kebenaran (berjihad) setelah nyata (kepada mereka kemenangan yang engkau janjikan), seolah-olah mereka dihalau kepada kematian, sedang mereka melihat (sebab-sebabnya).",
+      "id": "mereka membantahmu tentang kebenaran sesudah nyata (bahwa mereka pasti menang), seolah-olah mereka dihalau kepada kematian, sedang mereka melihat (sebab-sebab kematian itu).",
       "ar": "یُجَـٰدِلُونَكَ فِی ٱلۡحَقِّ بَعۡدَ مَا تَبَیَّنَ كَأَنَّمَا یُسَاقُونَ إِلَى ٱلۡمَوۡتِ وَهُمۡ یَنظُرُونَ\n"
     }
   },
@@ -78,8 +78,8 @@
     "arabicText": "وَإِذۡ یَعِدُكُمُ ٱللَّهُ إِحۡدَى ٱلطَّاۤىِٕفَتَیۡنِ أَنَّهَا لَكُمۡ وَتَوَدُّونَ أَنَّ غَیۡرَ ذَاتِ ٱلشَّوۡكَةِ تَكُونُ لَكُمۡ وَیُرِیدُ ٱللَّهُ أَن یُحِقَّ ٱلۡحَقَّ بِكَلِمَـٰتِهِۦ وَیَقۡطَعَ دَابِرَ ٱلۡكَـٰفِرِینَ\n",
     "translations": {
       "en": "And, lo, God gave you the promise that one of the two [enemy] hosts would fall to you: and you would have liked to seize the less powerful one, whereas it was God's will to prove the truth to be true in accordance with His words, and to wipe out the last remnant of those who denied the truth -",
-      "ms": "",
-      "id": "",
+      "ms": "Dan (ingatlah) ketika Allah menjanjikan kepada kamu salah satu dari dua angkatan, menjadi untuk kamu (menghadapinya), sedang kamu suka kiranya (angkatan perniagaan) bukan angkatan (perang) yang mempunyai kekuatan itu yang dijadikan untuk kamu (menghadapinya). Padahal Allah menghendaki untuk menetapkan yang benar (ugama Islam) dengan Kalimah-kalimahNya, dan untuk membinasakan kaum yang kafir seluruhnya;",
+      "id": "Dan (ingatlah), ketika Allah menjanjikan kepadamu bahwa salah satu dari dua golongan (yang kamu hadapi) adalah untukmu, sedang kamu menginginkan bahwa yang tidak mempunyai kekekuatan senjatalah yang untukmu, dan Allah menghendaki untuk membenarkan yang benar dengan ayat-ayat-Nya dan memusnahkan orang-orang kafir,",
       "ar": "وَإِذۡ یَعِدُكُمُ ٱللَّهُ إِحۡدَى ٱلطَّاۤىِٕفَتَیۡنِ أَنَّهَا لَكُمۡ وَتَوَدُّونَ أَنَّ غَیۡرَ ذَاتِ ٱلشَّوۡكَةِ تَكُونُ لَكُمۡ وَیُرِیدُ ٱللَّهُ أَن یُحِقَّ ٱلۡحَقَّ بِكَلِمَـٰتِهِۦ وَیَقۡطَعَ دَابِرَ ٱلۡكَـٰفِرِینَ\n"
     }
   },
@@ -90,8 +90,8 @@
     "arabicText": "لِیُحِقَّ ٱلۡحَقَّ وَیُبۡطِلَ ٱلۡبَـٰطِلَ وَلَوۡ كَرِهَ ٱلۡمُجۡرِمُونَ\n",
     "translations": {
       "en": "so that He might prove the truth to be true and the false to be false, however hateful this might be to those who were lost in sin.",
-      "ms": "",
-      "id": "",
+      "ms": "Supaya Allah menegakkan yang benar itu dan menghapuskan yang salah (kufur dan syirik), sekalipun golongan (kafir musyrik) yang berdosa itu tidak menyukainya.",
+      "id": "agar Allah menetapkan yang hak (Islam) dan membatalkan yang batil (syirik) walaupun orang-orang yang berdosa (musyrik) itu tidak menyukainya.",
       "ar": "لِیُحِقَّ ٱلۡحَقَّ وَیُبۡطِلَ ٱلۡبَـٰطِلَ وَلَوۡ كَرِهَ ٱلۡمُجۡرِمُونَ\n"
     }
   },
@@ -102,8 +102,8 @@
     "arabicText": "إِذۡ تَسۡتَغِیثُونَ رَبَّكُمۡ فَٱسۡتَجَابَ لَكُمۡ أَنِّی مُمِدُّكُم بِأَلۡفࣲ مِّنَ ٱلۡمَلَـٰۤىِٕكَةِ مُرۡدِفِینَ\n",
     "translations": {
       "en": "Lo! You were praying unto your Sustainer for aid, whereupon He thus responded to you: \"I shall, verily, aid you with a thousand angels following one upon' another!\"",
-      "ms": "",
-      "id": "",
+      "ms": "(Ingatlah) ketika kamu memohon pertolongan kepada tuhan kamu, lalu Ia perkenankan permohonan kamu (dengan firmanNya): \"Sesungguhnya Aku akan membantu kamu dengan seribu (bala tentera) dari malaikat yang datang berturut-turut.",
+      "id": "(Ingatlah), ketika kamu memohon pertolongan kepada Tuhanmu, lalu diperkenankan-Nya bagimu: \"Sesungguhnya Aku akan mendatangkan bala bantuan kepada kamu dengan seribu malaikat yang datang berturut-turut\".",
       "ar": "إِذۡ تَسۡتَغِیثُونَ رَبَّكُمۡ فَٱسۡتَجَابَ لَكُمۡ أَنِّی مُمِدُّكُم بِأَلۡفࣲ مِّنَ ٱلۡمَلَـٰۤىِٕكَةِ مُرۡدِفِینَ\n"
     }
   },
@@ -114,8 +114,8 @@
     "arabicText": "وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشۡرَىٰ وَلِتَطۡمَىِٕنَّ بِهِۦ قُلُوبُكُمۡۚ وَمَا ٱلنَّصۡرُ إِلَّا مِنۡ عِندِ ٱللَّهِۚ إِنَّ ٱللَّهَ عَزِیزٌ حَكِیمٌ\n",
     "translations": {
       "en": "And God ordained this only as a glad tiding, and that your hearts should thereby be set at rest-since no succour can come from any save God: verily, God is almighty, wise!",
-      "ms": "",
-      "id": "",
+      "ms": "Dan Allah tidak menjadikan (bantuan malaikat) itu melainkan sebagai berita gembira dan supaya hati kamu tenang tenteram dengannya. Dan kemenangan itu pula hanyalah dari sisi Allah. Sesungguhnya Allah Maha Kuasa, lagi Maha Bijaksana.",
+      "id": "Dan Allah tidak menjadikannya (mengirim bala bantuan itu), melainkan sebagai kabar gembira dan agar hatimu menjadi tenteram karenanya. Dan kemenangan itu hanyalah dari sisi Allah. Sesungguhnya Allah Maha Perkasa lagi Maha Bijaksana.",
       "ar": "وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشۡرَىٰ وَلِتَطۡمَىِٕنَّ بِهِۦ قُلُوبُكُمۡۚ وَمَا ٱلنَّصۡرُ إِلَّا مِنۡ عِندِ ٱللَّهِۚ إِنَّ ٱللَّهَ عَزِیزٌ حَكِیمٌ\n"
     }
   },
@@ -126,8 +126,8 @@
     "arabicText": "إِذۡ یُغَشِّیكُمُ ٱلنُّعَاسَ أَمَنَةࣰ مِّنۡهُ وَیُنَزِّلُ عَلَیۡكُم مِّنَ ٱلسَّمَاۤءِ مَاۤءࣰ لِّیُطَهِّرَكُم بِهِۦ وَیُذۡهِبَ عَنكُمۡ رِجۡزَ ٱلشَّیۡطَـٰنِ وَلِیَرۡبِطَ عَلَىٰ قُلُوبِكُمۡ وَیُثَبِّتَ بِهِ ٱلۡأَقۡدَامَ\n",
     "translations": {
       "en": "[Remember how it was] when He caused inner calm to enfold you, as an assurance from Him, and sent down upon you water from the skies, so that He might purify you thereby and free you from Satan's unclean whisperings and strengthen your hearts and thus make firm your steps.",
-      "ms": "",
-      "id": "",
+      "ms": "(Ingatlah) ketika kamu diliputi perasaan mengantuk sebagai satu (pemberian) aman dari Allah (untuk menghapuskan kecemasan kamu). Dan (ingatlah ketika) Ia menurunkan kepada kamu hujan dari langit untuk mensucikan kamu dengannya dan menghapuskan dari kamu gangguan Syaitan, dan juga untuk menguatkan hati kamu dan menetapkan dengannya tapak pendirian (kamu di medan perjuangan).",
+      "id": "(Ingatlah), ketika Allah menjadikan kamu mengantuk sebagai suatu penenteraman daripada-Nya, dan Allah menurunkan kepadamu hujan dari langit untuk mensucikan kamu dengan hujan itu dan menghilangkan dari kamu gangguan-gangguan syaitan dan untuk menguatkan hatimu dan mesmperteguh dengannya telapak kaki(mu).",
       "ar": "إِذۡ یُغَشِّیكُمُ ٱلنُّعَاسَ أَمَنَةࣰ مِّنۡهُ وَیُنَزِّلُ عَلَیۡكُم مِّنَ ٱلسَّمَاۤءِ مَاۤءࣰ لِّیُطَهِّرَكُم بِهِۦ وَیُذۡهِبَ عَنكُمۡ رِجۡزَ ٱلشَّیۡطَـٰنِ وَلِیَرۡبِطَ عَلَىٰ قُلُوبِكُمۡ وَیُثَبِّتَ بِهِ ٱلۡأَقۡدَامَ\n"
     }
   },
@@ -138,8 +138,8 @@
     "arabicText": "إِذۡ یُوحِی رَبُّكَ إِلَى ٱلۡمَلَـٰۤىِٕكَةِ أَنِّی مَعَكُمۡ فَثَبِّتُوا۟ ٱلَّذِینَ ءَامَنُوا۟ۚ سَأُلۡقِی فِی قُلُوبِ ٱلَّذِینَ كَفَرُوا۟ ٱلرُّعۡبَ فَٱضۡرِبُوا۟ فَوۡقَ ٱلۡأَعۡنَاقِ وَٱضۡرِبُوا۟ مِنۡهُمۡ كُلَّ بَنَانࣲ\n",
     "translations": {
       "en": "Lo! Thy Sustainer inspired the angels [to convey this His message to the believers]: \"I am with you!\" [And He commanded the angels:] \"And, give firmness unto those who have attained to faith [with these words from Me]: `I shall cast terror into the hearts of those who are bent on denying the truth; strike, then, their necks, [O believers,] and strike off every one of their finger-tips!\"",
-      "ms": "",
-      "id": "",
+      "ms": "(Ingatlah) ketika Tuhanmu wahyukan kepada malaikat: \"Sesungguhnya Aku menyertai kamu (memberi pertolongan), maka tetapkanlah (hati) orang-orang yang beriman. Aku akan mengisi hati orang-orang yang kafir dengan perasaan gerun; oleh itu, pancunglah leher mereka (musuh) dan potonglah tiap-tiap anggota mereka\"",
+      "id": "(Ingatlah), ketika Tuhanmu mewahyukan kepada para malaikat: \"Sesungguhnya Aku bersama kamu, maka teguhkan (pendirian) orang-orang yang telah beriman\". Kelak akan Aku jatuhkan rasa ketakutan ke dalam hati orang-orang kafir, maka penggallah kepala mereka dan pancunglah tiap-tiap ujung jari mereka.",
       "ar": "إِذۡ یُوحِی رَبُّكَ إِلَى ٱلۡمَلَـٰۤىِٕكَةِ أَنِّی مَعَكُمۡ فَثَبِّتُوا۟ ٱلَّذِینَ ءَامَنُوا۟ۚ سَأُلۡقِی فِی قُلُوبِ ٱلَّذِینَ كَفَرُوا۟ ٱلرُّعۡبَ فَٱضۡرِبُوا۟ فَوۡقَ ٱلۡأَعۡنَاقِ وَٱضۡرِبُوا۟ مِنۡهُمۡ كُلَّ بَنَانࣲ\n"
     }
   },
@@ -150,8 +150,8 @@
     "arabicText": "ذَ ٰ⁠لِكَ بِأَنَّهُمۡ شَاۤقُّوا۟ ٱللَّهَ وَرَسُولَهُۥۚ وَمَن یُشَاقِقِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ ٱللَّهَ شَدِیدُ ٱلۡعِقَابِ\n",
     "translations": {
       "en": "This, because they have cut themselves off from God and His Apostle: and as for him who cuts himself off from God and His Apostle - verily, God is severe in retribution.",
-      "ms": "",
-      "id": "",
+      "ms": "(Perintah) yang demikian ialah kerana sesungguhnya mereka menentang Allah dan RasulNya; dan sesiapa yang menentang Allah dan RasulNya, maka sesungguhnya Allah Maha berat azab seksaNya.",
+      "id": "(Ketentuan) yang demikian itu adalah karena sesungguhnya mereka menentang Allah dan Rasul-Nya; dan barangsiapa menentang Allah dan Rasul-Nya, maka sesungguhnya Allah amat keras siksaan-Nya.",
       "ar": "ذَ ٰ⁠لِكَ بِأَنَّهُمۡ شَاۤقُّوا۟ ٱللَّهَ وَرَسُولَهُۥۚ وَمَن یُشَاقِقِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ ٱللَّهَ شَدِیدُ ٱلۡعِقَابِ\n"
     }
   },
@@ -162,8 +162,8 @@
     "arabicText": "ذَ ٰ⁠لِكُمۡ فَذُوقُوهُ وَأَنَّ لِلۡكَـٰفِرِینَ عَذَابَ ٱلنَّارِ\n",
     "translations": {
       "en": "This [for you, O enemies of God]! Taste it, then, [and know] that suffering through fire awaits those who deny the truth!",
-      "ms": "",
-      "id": "",
+      "ms": "Itulah (azab dunia) maka rasalah dia (hai orang-orang kafir). Sesungguhnya orang-orang yang kafir disediakan baginya azab neraka (di akhirat).",
+      "id": "Itulah (hukum dunia yang ditimpakan atasmu), maka rasakanlah hukuman itu. Sesungguhnya bagi orang-orang yang kafir itu ada (lagi) azab neraka.",
       "ar": "ذَ ٰ⁠لِكُمۡ فَذُوقُوهُ وَأَنَّ لِلۡكَـٰفِرِینَ عَذَابَ ٱلنَّارِ\n"
     }
   },
@@ -174,8 +174,8 @@
     "arabicText": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِذَا لَقِیتُمُ ٱلَّذِینَ كَفَرُوا۟ زَحۡفࣰا فَلَا تُوَلُّوهُمُ ٱلۡأَدۡبَارَ\n",
     "translations": {
       "en": "O YOU who have attained to faith! When you meet in battle those who are bent on denying the truth, advancing in great force, do not turn your backs on them:",
-      "ms": "",
-      "id": "",
+      "ms": "Wahai orang-orang yang beriman! Apabila kamu bertemu dengan orang-orang kafir yang sedang mara menyerang, maka janganlah kamu berpaling undur dari menentang mereka.",
+      "id": "Hai orang-orang yang beriman, apabila kamu bertemu dengan orang-orang yang kafir yang sedang menyerangmu, maka janganlah kamu membelakangi mereka (mundur).",
       "ar": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِذَا لَقِیتُمُ ٱلَّذِینَ كَفَرُوا۟ زَحۡفࣰا فَلَا تُوَلُّوهُمُ ٱلۡأَدۡبَارَ\n"
     }
   },
@@ -186,8 +186,8 @@
     "arabicText": "وَمَن یُوَلِّهِمۡ یَوۡمَىِٕذࣲ دُبُرَهُۥۤ إِلَّا مُتَحَرِّفࣰا لِّقِتَالٍ أَوۡ مُتَحَیِّزًا إِلَىٰ فِئَةࣲ فَقَدۡ بَاۤءَ بِغَضَبࣲ مِّنَ ٱللَّهِ وَمَأۡوَىٰهُ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمَصِیرُ\n",
     "translations": {
       "en": "for, whoever on that day turns his back on them-unless it be in a battle manoeuvre or in an endeavour to join another troop [of the believers] - shall indeed have earned the burden of God's condemnation, and his goal shall be hell: and how vile a journey's end!",
-      "ms": "",
-      "id": "",
+      "ms": "Dan sesiapa berpaling undur dari menentang mereka pada ketika itu - kecuali ia bergerak ke arah lain (untuk menjalankan tipu muslihat) peperangan, atau hendak menyatukan diri dengan pasukan yang lain - maka sesungguhnya ia tetaplah mendapat kemurkaan dari Allah, dan tempatnya ialah neraka jahanam; sedang neraka jahanam ialah seburuk-buruk tempat kembali.",
+      "id": "Barangsiapa yang membelakangi mereka (mundur) di waktu itu, kecuali berbelok untuk (sisat) perang atau hendak menggabungkan diri dengan pasukan yang lain, maka sesungguhnya orang itu kembali dengan membawa kemurkaan dari Allah, dan tempatnya ialah neraka Jahannam. Dan amat buruklah tempat kembalinya.",
       "ar": "وَمَن یُوَلِّهِمۡ یَوۡمَىِٕذࣲ دُبُرَهُۥۤ إِلَّا مُتَحَرِّفࣰا لِّقِتَالٍ أَوۡ مُتَحَیِّزًا إِلَىٰ فِئَةࣲ فَقَدۡ بَاۤءَ بِغَضَبࣲ مِّنَ ٱللَّهِ وَمَأۡوَىٰهُ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمَصِیرُ\n"
     }
   },
@@ -198,8 +198,8 @@
     "arabicText": "فَلَمۡ تَقۡتُلُوهُمۡ وَلَـٰكِنَّ ٱللَّهَ قَتَلَهُمۡۚ وَمَا رَمَیۡتَ إِذۡ رَمَیۡتَ وَلَـٰكِنَّ ٱللَّهَ رَمَىٰ وَلِیُبۡلِیَ ٱلۡمُؤۡمِنِینَ مِنۡهُ بَلَاۤءً حَسَنًاۚ إِنَّ ٱللَّهَ سَمِیعٌ عَلِیمࣱ\n",
     "translations": {
       "en": "And yet, [O believers,] it was not you who slew the enemy, but it was God who slew them; and it was not thou who cast [terror into them, O Prophet], when thou didst cast it, but it was God who cast it: and [He did all this] in order that He might test the believers by a goodly test of His Own or daining. Verily, God is all-hearing, all-knowing!",
-      "ms": "",
-      "id": "",
+      "ms": "Maka bukanlah kamu yang membunuh mereka, akan tetapi Allah jualah yang menyebabkan pembunuhan mereka. Dan bukanlah engkau (wahai Muhammad) yang melempar ketika engkau melempar, akan tetapi Allah jualah yang melempar (untuk membinasakan orang-orang kafir), dan untuk mengurniakan orang-orang yang beriman dengan pengurniaan yang baik (kemenangan) daripadaNya. Sesungguhnya Allah Maha Mendengar, lagi Maha Mengetahui.",
+      "id": "Maka (yang sebenarnya) bukan kamu yang membunuh mereka, akan tetapi Allahlah yang membunuh mereka, dan bukan kamu yang melempar ketika kamu melempar, tetapi Allah-lah yang melempar. (Allah berbuat demikian untuk membinasakan mereka) dan untuk memberi kemenangan kepada orang-orang mukmin, dengan kemenangan yang baik. Sesungguhnya Allah Maha Mendengar lagi Maha Mengetahui.",
       "ar": "فَلَمۡ تَقۡتُلُوهُمۡ وَلَـٰكِنَّ ٱللَّهَ قَتَلَهُمۡۚ وَمَا رَمَیۡتَ إِذۡ رَمَیۡتَ وَلَـٰكِنَّ ٱللَّهَ رَمَىٰ وَلِیُبۡلِیَ ٱلۡمُؤۡمِنِینَ مِنۡهُ بَلَاۤءً حَسَنًاۚ إِنَّ ٱللَّهَ سَمِیعٌ عَلِیمࣱ\n"
     }
   },
@@ -210,8 +210,8 @@
     "arabicText": "ذَ ٰ⁠لِكُمۡ وَأَنَّ ٱللَّهَ مُوهِنُ كَیۡدِ ٱلۡكَـٰفِرِینَ\n",
     "translations": {
       "en": "This [was God's purpose] -and also [to show] that God renders vain the artful schemes of those who deny the truth.",
-      "ms": "",
-      "id": "",
+      "ms": "Demikianlah (caranya nikmat yang dikurniakanNya kepada kamu), dan sesungguhnya Allah sentiasa melumpuhkan tipu daya orang-orang yang kafir.",
+      "id": "Itulah (karunia Allah yang dilimpahkan kepadamu), dan sesungguhnya Allah melemahkan tipu daya orang-orang yang kafir.",
       "ar": "ذَ ٰ⁠لِكُمۡ وَأَنَّ ٱللَّهَ مُوهِنُ كَیۡدِ ٱلۡكَـٰفِرِینَ\n"
     }
   },
@@ -222,8 +222,8 @@
     "arabicText": "إِن تَسۡتَفۡتِحُوا۟ فَقَدۡ جَاۤءَكُمُ ٱلۡفَتۡحُۖ وَإِن تَنتَهُوا۟ فَهُوَ خَیۡرࣱ لَّكُمۡۖ وَإِن تَعُودُوا۟ نَعُدۡ وَلَن تُغۡنِیَ عَنكُمۡ فِئَتُكُمۡ شَیۡـࣰٔا وَلَوۡ كَثُرَتۡ وَأَنَّ ٱللَّهَ مَعَ ٱلۡمُؤۡمِنِینَ\n",
     "translations": {
       "en": "If you have been praying for victory, [O believers] - victory has now indeed come unto you. And if you abstain [from sinning], it will be for your own good; but if you revert to it, We shall revoke [Our promise of aid] - and never will your community be of any avail to you, however great its numbers: for, behold, God is [only] with those who believe!",
-      "ms": "",
-      "id": "",
+      "ms": "Jika kamu (hai orang-orang musyrik) memohon supaya diberi kemenangan (bagi pihak yang benar) maka sesungguhnya kemenangan (yang kamu pohonkan) itu telah datang (dan disaksikan oleh) kamu; dan jika kamu berhenti (daripada memusuhi Nabi Muhammad, s.a.w) maka yang demikian amat baik bagi kamu, dan jika kamu kembali (memusuhinya), Kami juga kembali (menolongnya mengalahkan kamu); dan golongan (angkatan perang) kamu tidak sekali-kali akan dapat menyelamatkan kamu sedikitpun, sekalipun ia lebih ramai; dan (yang demikian itu adalah kerana) sesungguhnya Allah beserta orang-orang yang beriman.",
+      "id": "Jika kamu (orang-orang musyrikin) mencari keputusan, maka telah datang keputusan kepadamu; dan jika kamu berhenti; maka itulah yang lehih baik bagimu; dan jika kamu kembali, niscaya Kami kembali (pula); dan angkatan perangmu sekali-kali tidak akan dapat menolak dari kamu sesuatu bahayapun, biarpun dia banyak dan sesungguhnya Allah beserta orang-orang yang beriman.",
       "ar": "إِن تَسۡتَفۡتِحُوا۟ فَقَدۡ جَاۤءَكُمُ ٱلۡفَتۡحُۖ وَإِن تَنتَهُوا۟ فَهُوَ خَیۡرࣱ لَّكُمۡۖ وَإِن تَعُودُوا۟ نَعُدۡ وَلَن تُغۡنِیَ عَنكُمۡ فِئَتُكُمۡ شَیۡـࣰٔا وَلَوۡ كَثُرَتۡ وَأَنَّ ٱللَّهَ مَعَ ٱلۡمُؤۡمِنِینَ\n"
     }
   },
@@ -234,8 +234,8 @@
     "arabicText": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ أَطِیعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَوَلَّوۡا۟ عَنۡهُ وَأَنتُمۡ تَسۡمَعُونَ\n",
     "translations": {
       "en": "[Hence,] O you who have attained to faith, pay heed unto God and His Apostle, and do not turn away from Him now that you hear [His message];",
-      "ms": "",
-      "id": "",
+      "ms": "Wahai orang-orang yang beriman! Taatlah kepada Allah dan RasulNya dan janganlah kamu berpaling daripadanya, sedang kamu mendengar (Al-Quran yang mewajibkan taatnya).",
+      "id": "Hai orang-orang yang beriman, taatlah kepada Allah dan Rasul-Nya, dan janganlah kamu berpaling dari pada-Nya, sedang kamu mendengar (perintah-perintah-Nya),",
       "ar": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ أَطِیعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَوَلَّوۡا۟ عَنۡهُ وَأَنتُمۡ تَسۡمَعُونَ\n"
     }
   },
@@ -246,8 +246,8 @@
     "arabicText": "وَلَا تَكُونُوا۟ كَٱلَّذِینَ قَالُوا۟ سَمِعۡنَا وَهُمۡ لَا یَسۡمَعُونَ\n",
     "translations": {
       "en": "and be not like those who say, \"We have heard\", the while they do not hearken.",
-      "ms": "",
-      "id": "",
+      "ms": "Dan janganlah kamu menjadi seperti orang-orang (kafir dan munafik) yang berkata: \"Kami dengar\", padahal mereka tidak mendengar (tidak mahu menerima dan mematuhinya).",
+      "id": "dan janganlah kamu menjadi seperti orang-orang (munafik) vang berkata \"Kami mendengarkan, padahal mereka tidak mendengarkan.",
       "ar": "وَلَا تَكُونُوا۟ كَٱلَّذِینَ قَالُوا۟ سَمِعۡنَا وَهُمۡ لَا یَسۡمَعُونَ\n"
     }
   },
@@ -258,8 +258,8 @@
     "arabicText": "۞ إِنَّ شَرَّ ٱلدَّوَاۤبِّ عِندَ ٱللَّهِ ٱلصُّمُّ ٱلۡبُكۡمُ ٱلَّذِینَ لَا یَعۡقِلُونَ\n",
     "translations": {
       "en": "Verily, the vilest of all creatures in the sight of God are those deaf, those dumb ones who do not use their reason.",
-      "ms": "",
-      "id": "",
+      "ms": "Sesungguhnya sejahat-jahat makhluk yang melata, pada sisi (hukum dan ketetapan) Allah, ialah orang-orang yang pekak lagi bisu, yang tidak mahu memahami sesuatupun (dengan akal fikirannya).",
+      "id": "Sesungguhnya binatang (makhluk) yang seburuk-buruknya pada sisi Allah ialah; orang-orang yang pekak dan tuli yang tidak mengerti apa-apapun.",
       "ar": "۞ إِنَّ شَرَّ ٱلدَّوَاۤبِّ عِندَ ٱللَّهِ ٱلصُّمُّ ٱلۡبُكۡمُ ٱلَّذِینَ لَا یَعۡقِلُونَ\n"
     }
   },
@@ -270,8 +270,8 @@
     "arabicText": "وَلَوۡ عَلِمَ ٱللَّهُ فِیهِمۡ خَیۡرࣰا لَّأَسۡمَعَهُمۡۖ وَلَوۡ أَسۡمَعَهُمۡ لَتَوَلَّوا۟ وَّهُم مُّعۡرِضُونَ\n",
     "translations": {
       "en": "For, if God had seen any good in them, He would certainly have made them hear: but [as it is,] even if He had made them hear, they would surely have turned away in their obstinacy.",
-      "ms": "",
-      "id": "",
+      "ms": "Dan kalaulah Allah mengetahui ada kebaikan pada mereka, tentulah Ia menjadikan mereka dapat mendengar; dan kalau Allah menjadikan mereka dapat mendengar juga (dengan keadaan yang demikian), nescaya mereka tidak menerimanya sambil memalingkan diri.",
+      "id": "Kalau sekiranya Allah mengetahui kebaikan ada pada mereka, tentulah Allah menjadikan mereka dapat mendengar. Dan jikalau Allah menjadikan mereka dapat mendengar, niscaya mereka pasti berpaling juga, sedang mereka memalingkan diri (dari apa yang mereka dengar itu).",
       "ar": "وَلَوۡ عَلِمَ ٱللَّهُ فِیهِمۡ خَیۡرࣰا لَّأَسۡمَعَهُمۡۖ وَلَوۡ أَسۡمَعَهُمۡ لَتَوَلَّوا۟ وَّهُم مُّعۡرِضُونَ\n"
     }
   },
@@ -282,8 +282,8 @@
     "arabicText": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ ٱسۡتَجِیبُوا۟ لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمۡ لِمَا یُحۡیِیكُمۡۖ وَٱعۡلَمُوۤا۟ أَنَّ ٱللَّهَ یَحُولُ بَیۡنَ ٱلۡمَرۡءِ وَقَلۡبِهِۦ وَأَنَّهُۥۤ إِلَیۡهِ تُحۡشَرُونَ\n",
     "translations": {
       "en": "O you who have attained to faith! Respond to the call of God and the Apostle whenever he calls you unto that which will give you life; and know that God intervenes between man and [the desires of] his heart, and that unto Him you shall be gathered.",
-      "ms": "",
-      "id": "",
+      "ms": "Wahai orang-orang yang beriman, sahut dan sambutlah seruan Allah dan seruan RasulNya apabila Ia menyeru kamu kepada perkara-perkara yang menjadikan kamu hidup sempurna; dan ketahuilah bahawa sesungguhnya Allah berkuasa mengubah atau menyekat di antara seseorang itu dengan (pekerjaan) hatinya, dan sesungguhnya kepadaNyalah kamu akan dihimpunkan.",
+      "id": "Hai orang-orang yang beriman, penuhilah seruan Allah dan seruan Rasul apabila Rasul menyeru kamu kepada suatu yang memberi kehidupan kepada kamu, ketahuilah bahwa sesungguhnya Allah membatasi antara manusia dan hatinya dan sesungguhnya kepada-Nya-lah kamu akan dikumpulkan.",
       "ar": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ ٱسۡتَجِیبُوا۟ لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمۡ لِمَا یُحۡیِیكُمۡۖ وَٱعۡلَمُوۤا۟ أَنَّ ٱللَّهَ یَحُولُ بَیۡنَ ٱلۡمَرۡءِ وَقَلۡبِهِۦ وَأَنَّهُۥۤ إِلَیۡهِ تُحۡشَرُونَ\n"
     }
   },
@@ -294,8 +294,8 @@
     "arabicText": "وَٱتَّقُوا۟ فِتۡنَةࣰ لَّا تُصِیبَنَّ ٱلَّذِینَ ظَلَمُوا۟ مِنكُمۡ خَاۤصَّةࣰۖ وَٱعۡلَمُوۤا۟ أَنَّ ٱللَّهَ شَدِیدُ ٱلۡعِقَابِ\n",
     "translations": {
       "en": "And beware of that temptation to evil which does not befall only those among you who are bent on denying the truth, to the exclusion of others; and know that God is severe in retribution.",
-      "ms": "",
-      "id": "",
+      "ms": "Dan jagalah diri kamu daripada (berlakunya) dosa (yang membawa bala bencana) yang bukan sahaja akan menimpa orang-orang yang zalim di antara kamu secara khusus (tetapi akan menimpa kamu secara umum). Dan ketahuilah bahawa Allah Maha berat azab seksaNya.",
+      "id": "Dan peliharalah dirimu dari pada siksaan yang tidak khusus menimpa orang-orang yang zalim saja di antara kamu. Dan ketahuilah bahwa Allah amat keras siksaan-Nya.",
       "ar": "وَٱتَّقُوا۟ فِتۡنَةࣰ لَّا تُصِیبَنَّ ٱلَّذِینَ ظَلَمُوا۟ مِنكُمۡ خَاۤصَّةࣰۖ وَٱعۡلَمُوۤا۟ أَنَّ ٱللَّهَ شَدِیدُ ٱلۡعِقَابِ\n"
     }
   },
@@ -306,8 +306,8 @@
     "arabicText": "وَٱذۡكُرُوۤا۟ إِذۡ أَنتُمۡ قَلِیلࣱ مُّسۡتَضۡعَفُونَ فِی ٱلۡأَرۡضِ تَخَافُونَ أَن یَتَخَطَّفَكُمُ ٱلنَّاسُ فَـَٔاوَىٰكُمۡ وَأَیَّدَكُم بِنَصۡرِهِۦ وَرَزَقَكُم مِّنَ ٱلطَّیِّبَـٰتِ لَعَلَّكُمۡ تَشۡكُرُونَ\n",
     "translations": {
       "en": "And remember the time when you were few [and] helpless on earth, fearful lest people do away with you - whereupon He sheltered you, and strengthened you with His succour, and provided for you sustenance out of the good things of life, so that you might have cause to be grateful.",
-      "ms": "",
-      "id": "",
+      "ms": "Dan ingatlah ketika kamu sedikit bilangannya serta tertindas di bumi, kamu takut orang-orang menangkap dan melarikan kamu, maka Allah memberi kamu tempat bermustautin dan diperkuatkanNya kamu dengan pertolonganNya, serta dikurniakanNya kamu dari rezeki yang baik-baik, supaya kamu bersyukur.",
+      "id": "Dan ingatlah (hai para muhajirin) ketika kamu masih berjumlah sedikit, lagi tertindas di muka bumi (Mekah), kamu takut orang-orang (Mekah) akan menculik kamu, maka Allah memberi kamu tempat menetap (Madinah) dan dijadikan-Nya kamu kuat dengan pertolongan-Nya dan diberi-Nya kamu rezeki dari yang baik-baik agar kamu bersyukur.",
       "ar": "وَٱذۡكُرُوۤا۟ إِذۡ أَنتُمۡ قَلِیلࣱ مُّسۡتَضۡعَفُونَ فِی ٱلۡأَرۡضِ تَخَافُونَ أَن یَتَخَطَّفَكُمُ ٱلنَّاسُ فَـَٔاوَىٰكُمۡ وَأَیَّدَكُم بِنَصۡرِهِۦ وَرَزَقَكُم مِّنَ ٱلطَّیِّبَـٰتِ لَعَلَّكُمۡ تَشۡكُرُونَ\n"
     }
   },
@@ -318,8 +318,8 @@
     "arabicText": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ لَا تَخُونُوا۟ ٱللَّهَ وَٱلرَّسُولَ وَتَخُونُوۤا۟ أَمَـٰنَـٰتِكُمۡ وَأَنتُمۡ تَعۡلَمُونَ\n",
     "translations": {
       "en": "[Hence,] O you who have attained to faith, do not be false to God and the Apostle, and do not knowingly be false to the trust that has been reposed in you;",
-      "ms": "",
-      "id": "",
+      "ms": "Wahai orang-orang yang beriman! Janganlah kamu mengkhianati (amanah) Allah dan RasulNya, dan (janganlah) kamu mengkhianati amanah-amanah kamu, sedang kamu mengetahui (salahnya).",
+      "id": "Hai orang-orang yang beriman, janganlah kamu mengkhianati Allah dan Rasul (Muhammad) dan (juga) janganlah kamu mengkhianati amanat-amanat yang dipercayakan kepadamu, sedang kamu mengetahui.",
       "ar": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ لَا تَخُونُوا۟ ٱللَّهَ وَٱلرَّسُولَ وَتَخُونُوۤا۟ أَمَـٰنَـٰتِكُمۡ وَأَنتُمۡ تَعۡلَمُونَ\n"
     }
   },
@@ -330,8 +330,8 @@
     "arabicText": "وَٱعۡلَمُوۤا۟ أَنَّمَاۤ أَمۡوَ ٰ⁠لُكُمۡ وَأَوۡلَـٰدُكُمۡ فِتۡنَةࣱ وَأَنَّ ٱللَّهَ عِندَهُۥۤ أَجۡرٌ عَظِیمࣱ\n",
     "translations": {
       "en": "and know that your worldly goods and your children are but a trial and a temptation, and that with God there is a tremendous reward.",
-      "ms": "",
-      "id": "",
+      "ms": "Dan ketahuilah bahawa harta benda kamu dan anak-anak kamu itu hanyalah menjadi ujian, dan sesungguhnya di sisi Allah jualah pahala yang besar.",
+      "id": "Dan ketahuilah, bahwa hartamu dan anak-anakmu itu hanyalah sebagai cobaan dan sesungguhnya di sisi Allah-lah pahala yang besar.",
       "ar": "وَٱعۡلَمُوۤا۟ أَنَّمَاۤ أَمۡوَ ٰ⁠لُكُمۡ وَأَوۡلَـٰدُكُمۡ فِتۡنَةࣱ وَأَنَّ ٱللَّهَ عِندَهُۥۤ أَجۡرٌ عَظِیمࣱ\n"
     }
   },
@@ -342,8 +342,8 @@
     "arabicText": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِن تَتَّقُوا۟ ٱللَّهَ یَجۡعَل لَّكُمۡ فُرۡقَانࣰا وَیُكَفِّرۡ عَنكُمۡ سَیِّـَٔاتِكُمۡ وَیَغۡفِرۡ لَكُمۡۗ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِیمِ\n",
     "translations": {
       "en": "O you who have attained to faith! If you remain conscious of God. He will endow you with a standard by which to discern the true from the false, and will efface your bad deeds, and will forgive you your sins: for God is limitless in His great bounty.",
-      "ms": "",
-      "id": "",
+      "ms": "Wahai orang-orang yang beriman! Jika kamu bertaqwa kepada Allah, nescaya Ia mengadakan bagi kamu (petunjuk) yang membezakan antara yang benar dengan yang salah, dan menghapuskan kesalahan-kesalahan kamu, serta mengampunkan (dosa-dosa) kamu. Dan Allah (sememangnya) mempunyai limpah kurnia yang besar.",
+      "id": "Hai orang-orang beriman, jika kamu bertakwa kepada Allah, Kami akan memberikan kepadamu Furqaan. Dan kami akan jauhkan dirimu dari kesalahan-kesalahanmu, dan mengampuni (dosa-dosa)mu. Dan Allah mempunyai karunia yang besar.",
       "ar": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِن تَتَّقُوا۟ ٱللَّهَ یَجۡعَل لَّكُمۡ فُرۡقَانࣰا وَیُكَفِّرۡ عَنكُمۡ سَیِّـَٔاتِكُمۡ وَیَغۡفِرۡ لَكُمۡۗ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِیمِ\n"
     }
   },
@@ -354,8 +354,8 @@
     "arabicText": "وَإِذۡ یَمۡكُرُ بِكَ ٱلَّذِینَ كَفَرُوا۟ لِیُثۡبِتُوكَ أَوۡ یَقۡتُلُوكَ أَوۡ یُخۡرِجُوكَۚ وَیَمۡكُرُونَ وَیَمۡكُرُ ٱللَّهُۖ وَٱللَّهُ خَیۡرُ ٱلۡمَـٰكِرِینَ\n",
     "translations": {
       "en": "AND [remember, O Prophet,] how those who were bent on denying the truth were scheming against thee, in order to restrain thee [from preaching], or to slay thee, or to drive thee away: thus have they [always] schemed: but God brought their scheming to nought-for God is above all schemers.",
-      "ms": "",
-      "id": "",
+      "ms": "Dan ingatlah (wahai Muhammad), ketika orang-orang kafir musyrik (Makkah) menjalankan tipu daya terhadapmu untuk menahanmu, atau membunuhmu, atau mengusirmu. Mereka menjalankan tipu daya dan Allah menggagalkan tipu daya (mereka), kerana Allah sebaik-baik yang menggagalkan tipu daya.",
+      "id": "Dan (ingatlah), ketika orang-orang kafir (Quraisy) memikirkan daya upaya terhadapmu untuk menangkap dan memenjarakanmu atau membunuhmu, atau mengusirmu. Mereka memikirkan tipu daya dan Allah menggagalkan tipu daya itu. Dan Allah sebaik-baik Pembalas tipu daya.",
       "ar": "وَإِذۡ یَمۡكُرُ بِكَ ٱلَّذِینَ كَفَرُوا۟ لِیُثۡبِتُوكَ أَوۡ یَقۡتُلُوكَ أَوۡ یُخۡرِجُوكَۚ وَیَمۡكُرُونَ وَیَمۡكُرُ ٱللَّهُۖ وَٱللَّهُ خَیۡرُ ٱلۡمَـٰكِرِینَ\n"
     }
   },
@@ -366,8 +366,8 @@
     "arabicText": "وَإِذَا تُتۡلَىٰ عَلَیۡهِمۡ ءَایَـٰتُنَا قَالُوا۟ قَدۡ سَمِعۡنَا لَوۡ نَشَاۤءُ لَقُلۡنَا مِثۡلَ هَـٰذَاۤ إِنۡ هَـٰذَاۤ إِلَّاۤ أَسَـٰطِیرُ ٱلۡأَوَّلِینَ\n",
     "translations": {
       "en": "And whenever Our messages were conveyed to them, they would say, \"We have heard [all this] before; if we wanted, we could certainly compose sayings like these [ourselves]: they are nothing but fables of ancient times!\"",
-      "ms": "",
-      "id": "",
+      "ms": "Dan apabila dibacakan kepada mereka ayat-ayat Kami, mereka berkata: \"Sesungguhnya kami telah mendengarnya. Kalau kami mahu, nescaya kami dapat mengatakan (kata-kata) seperti (Al-Quran) ini. (Al-Quran) ini tidak lain hanyalah cerita cerita dongeng orang-orang dahulu kala\".",
+      "id": "Dan apabila dibacakan kepada mereka ayat-ayat Kami, mereka berkata: \"Sesungguhnya kami telah mendengar (ayat-ayat yang seperti ini), kalau kami menhendaki niscaya kami dapat membacakan yang seperti ini, (Al Quran) ini tidak lain hanyalah dongeng-dongengan orang-orang purbakala\".",
       "ar": "وَإِذَا تُتۡلَىٰ عَلَیۡهِمۡ ءَایَـٰتُنَا قَالُوا۟ قَدۡ سَمِعۡنَا لَوۡ نَشَاۤءُ لَقُلۡنَا مِثۡلَ هَـٰذَاۤ إِنۡ هَـٰذَاۤ إِلَّاۤ أَسَـٰطِیرُ ٱلۡأَوَّلِینَ\n"
     }
   },
@@ -378,8 +378,8 @@
     "arabicText": "وَإِذۡ قَالُوا۟ ٱللَّهُمَّ إِن كَانَ هَـٰذَا هُوَ ٱلۡحَقَّ مِنۡ عِندِكَ فَأَمۡطِرۡ عَلَیۡنَا حِجَارَةࣰ مِّنَ ٱلسَّمَاۤءِ أَوِ ٱئۡتِنَا بِعَذَابٍ أَلِیمࣲ\n",
     "translations": {
       "en": "And, lo, they would say, \"O God! If this. be indeed the truth from Thee, then rain down upon us stones from the skies, or inflict [some other] grievous suffering on us!\"",
-      "ms": "",
-      "id": "",
+      "ms": "Dan (ingatlah) ketika mereka (kaum musyrik Makkah) berkata: \"Wahai tuhan kami! Jika betul (Al-Quran) itu ialah yang benar dari sisimu, maka hujanilah kami dengan batu dari langit, atau datangkanlah kepada kami azab seksa yang tidak terperi sakitnya\".",
+      "id": "Dan (ingatlah), ketika mereka (orang-orang musyrik) berkata: \"Ya Allah, jika betul (Al Quran) ini, dialah yang benar dari sisi Engkau, maka hujanilah kami dengan batu dari langit, atau datangkanlah kepada kami azab yang pedih\".",
       "ar": "وَإِذۡ قَالُوا۟ ٱللَّهُمَّ إِن كَانَ هَـٰذَا هُوَ ٱلۡحَقَّ مِنۡ عِندِكَ فَأَمۡطِرۡ عَلَیۡنَا حِجَارَةࣰ مِّنَ ٱلسَّمَاۤءِ أَوِ ٱئۡتِنَا بِعَذَابٍ أَلِیمࣲ\n"
     }
   },
@@ -390,8 +390,8 @@
     "arabicText": "وَمَا كَانَ ٱللَّهُ لِیُعَذِّبَهُمۡ وَأَنتَ فِیهِمۡۚ وَمَا كَانَ ٱللَّهُ مُعَذِّبَهُمۡ وَهُمۡ یَسۡتَغۡفِرُونَ\n",
     "translations": {
       "en": "But God did not choose thus to chastise them whip thou [O Prophet] wert still among them, nor would God chastise them when they [might yet] ask for forgiveness.",
-      "ms": "",
-      "id": "",
+      "ms": "Dan Allah tidak sekali-kali akan menyeksa mereka, sedang engkau (wahai Muhammad) ada di antara mereka; dan Allah tidak akan menyeksa mereka sedang mereka beristighfar (meminta ampun).",
+      "id": "Dan Allah sekali-kali tidak akan mengazab mereka, sedang kamu berada di antara mereka. Dan tidaklah (pula) Allah akan mengazab mereka, sedang mereka meminta ampun",
       "ar": "وَمَا كَانَ ٱللَّهُ لِیُعَذِّبَهُمۡ وَأَنتَ فِیهِمۡۚ وَمَا كَانَ ٱللَّهُ مُعَذِّبَهُمۡ وَهُمۡ یَسۡتَغۡفِرُونَ\n"
     }
   },
@@ -402,8 +402,8 @@
     "arabicText": "وَمَا لَهُمۡ أَلَّا یُعَذِّبَهُمُ ٱللَّهُ وَهُمۡ یَصُدُّونَ عَنِ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ وَمَا كَانُوۤا۟ أَوۡلِیَاۤءَهُۥۤۚ إِنۡ أَوۡلِیَاۤؤُهُۥۤ إِلَّا ٱلۡمُتَّقُونَ وَلَـٰكِنَّ أَكۡثَرَهُمۡ لَا یَعۡلَمُونَ\n",
     "translations": {
       "en": "But what have they [now] in their favour that God should not chastise them-seeing that they bar [the believers] from the Inviolable House of Worship, although they are not its [rightful] guardians? None but the God-conscious can be its guardians: but of this most of these [evildoers] are unaware;",
-      "ms": "",
-      "id": "",
+      "ms": "Dan mengapa mereka tidak patut diseksa oleh Allah, sedang mereka menyekat (orang-orang Islam) dari masjid Al-Haraam, padahal mereka bukanlah orang-orang yang berhak menguasainya (kerana mereka kafir musyrik)? Sebenarnya orang-orang yang berhak menguasainya hanyalah orang-orang yang bertaqwa, tetapi kebanyakan mereka tidak mengetahui.",
+      "id": "Kenapa Allah tidak mengazab mereka padahal mereka menghalangi orang untuk (mendatangi) Masjidilharam, dan mereka bukanlah orang-orang yang berhak menguasainya? Orang-orang yang berhak menguasai(nya) hanyalah orang-orang yang bertakwa. tetapi kebanyakan mereka tidak mengetahui.",
       "ar": "وَمَا لَهُمۡ أَلَّا یُعَذِّبَهُمُ ٱللَّهُ وَهُمۡ یَصُدُّونَ عَنِ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ وَمَا كَانُوۤا۟ أَوۡلِیَاۤءَهُۥۤۚ إِنۡ أَوۡلِیَاۤؤُهُۥۤ إِلَّا ٱلۡمُتَّقُونَ وَلَـٰكِنَّ أَكۡثَرَهُمۡ لَا یَعۡلَمُونَ\n"
     }
   },
@@ -414,8 +414,8 @@
     "arabicText": "وَمَا كَانَ صَلَاتُهُمۡ عِندَ ٱلۡبَیۡتِ إِلَّا مُكَاۤءࣰ وَتَصۡدِیَةࣰۚ فَذُوقُوا۟ ٱلۡعَذَابَ بِمَا كُنتُمۡ تَكۡفُرُونَ\n",
     "translations": {
       "en": "and their prayers before the Temple are nothing but whistling and clapping of hands. Taste then, [O unbelievers,] this chastisement as an outcome of your persistent denial of the truth!",
-      "ms": "",
-      "id": "",
+      "ms": "Dan tiadalah sembahyang mereka di sisi Baitullah itu melainkan bersiul-siul dan bertepuk tangan. Oleh itu rasalah kamu (wahai orang kafir) akan azab seksa dengan sebab kekufuran kamu.",
+      "id": "Sembahyang mereka di sekitar Baitullah itu, lain tidak hanyalah siulan dan tepukan tangan. Maka rasakanlah azab disebabkan kekafiranmu itu.",
       "ar": "وَمَا كَانَ صَلَاتُهُمۡ عِندَ ٱلۡبَیۡتِ إِلَّا مُكَاۤءࣰ وَتَصۡدِیَةࣰۚ فَذُوقُوا۟ ٱلۡعَذَابَ بِمَا كُنتُمۡ تَكۡفُرُونَ\n"
     }
   },
@@ -426,8 +426,8 @@
     "arabicText": "إِنَّ ٱلَّذِینَ كَفَرُوا۟ یُنفِقُونَ أَمۡوَ ٰ⁠لَهُمۡ لِیَصُدُّوا۟ عَن سَبِیلِ ٱللَّهِۚ فَسَیُنفِقُونَهَا ثُمَّ تَكُونُ عَلَیۡهِمۡ حَسۡرَةࣰ ثُمَّ یُغۡلَبُونَۗ وَٱلَّذِینَ كَفَرُوۤا۟ إِلَىٰ جَهَنَّمَ یُحۡشَرُونَ\n",
     "translations": {
       "en": "Behold, those who are bent on denying the truth are spending their riches in order to turn others away from the path of God; and they will go on spending them until they become [a source of] intense regret for them; and then they will be overcome! And those who [until their death] have denied the truth shall be gathered unto hell,",
-      "ms": "",
-      "id": "",
+      "ms": "Sesungguhnya orang-orang kafir yang selalu membelanjakan harta mereka untuk menghalangi (manusia) dari jalan Allah, maka mereka tetap membelanjakannya kemudian (harta yang dibelanjakan) itu menyebabkan penyesalan kepada mereka, tambahan pula mereka dikalahkan. Dan (ingatlah) orang-orang kafir itu (akhirnya) dihimpunkan dalam neraka jahanam.",
+      "id": "Sesungguhnya orang-orang yang kafir menafkahkan harta mereka untuk menghalangi (orang) dari jalan Allah. Mereka akan menafkahkan harta itu, kemudian menjadi sesalan bagi mereka, dan mereka akan dikalahkan. Dan ke dalam Jahannamlah orang-orang yang kafir itu dikumpulkan,",
       "ar": "إِنَّ ٱلَّذِینَ كَفَرُوا۟ یُنفِقُونَ أَمۡوَ ٰ⁠لَهُمۡ لِیَصُدُّوا۟ عَن سَبِیلِ ٱللَّهِۚ فَسَیُنفِقُونَهَا ثُمَّ تَكُونُ عَلَیۡهِمۡ حَسۡرَةࣰ ثُمَّ یُغۡلَبُونَۗ وَٱلَّذِینَ كَفَرُوۤا۟ إِلَىٰ جَهَنَّمَ یُحۡشَرُونَ\n"
     }
   },
@@ -438,8 +438,8 @@
     "arabicText": "لِیَمِیزَ ٱللَّهُ ٱلۡخَبِیثَ مِنَ ٱلطَّیِّبِ وَیَجۡعَلَ ٱلۡخَبِیثَ بَعۡضَهُۥ عَلَىٰ بَعۡضࣲ فَیَرۡكُمَهُۥ جَمِیعࣰا فَیَجۡعَلَهُۥ فِی جَهَنَّمَۚ أُو۟لَـٰۤىِٕكَ هُمُ ٱلۡخَـٰسِرُونَ\n",
     "translations": {
       "en": "so that God might separate the bad from the good, and join the bad with one another, and link them all together [within His condemnation], and then place them in hell. They, they are the lost!",
-      "ms": "",
-      "id": "",
+      "ms": "Kerana Allah hendak membezakan yang jahat (golongan yang ingkar) dari yang baik (golongan yang beriman), dan menjadikan (golongan) yang jahat itu setengahnya bersatu dengan setengahnya yang lain, lalu ditimbunkannya kesemuanya, serta dimasukkannya ke dalam neraka Jahanam. Mereka itulah orang-orang yang rugi.",
+      "id": "supaya Allah memisahkan (golongan) yang buruk dari yang baik dan menjadikan (golongan) yang buruk itu sebagiannya di atas sebagian yang lain, lalu kesemuanya ditumpukkan-Nya, dan dimasukkan-Nya ke dalam neraka Jahannam. Mereka itulah orang-orang yang merugi.",
       "ar": "لِیَمِیزَ ٱللَّهُ ٱلۡخَبِیثَ مِنَ ٱلطَّیِّبِ وَیَجۡعَلَ ٱلۡخَبِیثَ بَعۡضَهُۥ عَلَىٰ بَعۡضࣲ فَیَرۡكُمَهُۥ جَمِیعࣰا فَیَجۡعَلَهُۥ فِی جَهَنَّمَۚ أُو۟لَـٰۤىِٕكَ هُمُ ٱلۡخَـٰسِرُونَ\n"
     }
   },
@@ -450,8 +450,8 @@
     "arabicText": "قُل لِّلَّذِینَ كَفَرُوۤا۟ إِن یَنتَهُوا۟ یُغۡفَرۡ لَهُم مَّا قَدۡ سَلَفَ وَإِن یَعُودُوا۟ فَقَدۡ مَضَتۡ سُنَّتُ ٱلۡأَوَّلِینَ\n",
     "translations": {
       "en": "Tell those who are bent on denying the truth that if they desist, all that is past shall be forgiven them; but if they revert [to their wrongdoing], let them remember what happened to the like of them in times gone by.",
-      "ms": "",
-      "id": "",
+      "ms": "Katakanlah (wahai Muhammad) kepada orang-orang yang kafir itu, jika mereka berhenti (dari kekufurannya), nescaya akan diampunkan dosa mereka yang telah lalu, dan jika mereka kembali lagi (ingkar maka Kami akan menyeksa mereka), kerana sesungguhnya telah berlakulah kebinasaan orang-orang (yang kufur ingkar) dahulu kala.",
+      "id": "Katakanlah kepada orang-orang yang kafir itu: \"Jika mereka berhenti (dari kekafirannya), niscaya Allah akan mengampuni mereka tentang dosa-dosa mereka yang sudah lalu; dan jika mereka kembali lagi sesungguhnya akan berlaku (kepada mereka) sunnah (Allah tenhadap) orang-orang dahulu\".",
       "ar": "قُل لِّلَّذِینَ كَفَرُوۤا۟ إِن یَنتَهُوا۟ یُغۡفَرۡ لَهُم مَّا قَدۡ سَلَفَ وَإِن یَعُودُوا۟ فَقَدۡ مَضَتۡ سُنَّتُ ٱلۡأَوَّلِینَ\n"
     }
   },
@@ -462,8 +462,8 @@
     "arabicText": "وَقَـٰتِلُوهُمۡ حَتَّىٰ لَا تَكُونَ فِتۡنَةࣱ وَیَكُونَ ٱلدِّینُ كُلُّهُۥ لِلَّهِۚ فَإِنِ ٱنتَهَوۡا۟ فَإِنَّ ٱللَّهَ بِمَا یَعۡمَلُونَ بَصِیرࣱ\n",
     "translations": {
       "en": "And fight against them until there is no more oppression and all worship is devoted to God alone. And if they desist-behold, God sees all that they do;",
-      "ms": "",
-      "id": "",
+      "ms": "Dan perangilah mereka sehingga tidak ada lagi fitnah, dan (sehingga) menjadilah ugama itu seluruhnya (bebas) bagi Allah semata-mata. Kemudian jika mereka berhenti (dari kekufurannya dan gangguannya, nescaya mereka diberikan balasan yang baik) kerana sesungguhnya Allah Maha Melihat akan apa yang mereka kerjakan.",
+      "id": "Dan perangilah mereka, supaya jangan ada fitnah dan supaya agama itu semata-mata untuk Allah. Jika mereka berhenti (dari kekafiran), maka sesungguhnya Allah Maha Melihat apa yang mereka kerjakan.",
       "ar": "وَقَـٰتِلُوهُمۡ حَتَّىٰ لَا تَكُونَ فِتۡنَةࣱ وَیَكُونَ ٱلدِّینُ كُلُّهُۥ لِلَّهِۚ فَإِنِ ٱنتَهَوۡا۟ فَإِنَّ ٱللَّهَ بِمَا یَعۡمَلُونَ بَصِیرࣱ\n"
     }
   },
@@ -474,8 +474,8 @@
     "arabicText": "وَإِن تَوَلَّوۡا۟ فَٱعۡلَمُوۤا۟ أَنَّ ٱللَّهَ مَوۡلَىٰكُمۡۚ نِعۡمَ ٱلۡمَوۡلَىٰ وَنِعۡمَ ٱلنَّصِیرُ\n",
     "translations": {
       "en": "and if they turn away [from righteousness], know that God is your Lord Supreme: [and] how excellent is this Lord Supreme, and how excellent this Giver of Succour!",
-      "ms": "",
-      "id": "",
+      "ms": "Dan jika mereka berpaling (enggan beriman dan tidak berhenti daripada menceroboh) maka ketahuilah bahawasanya Allah Pelindung kamu; Dia lah sebaik-baik Pelindung dan sebaik-baik Penolong (yang menyelamatkan dan menjayakan kamu).",
+      "id": "Dan jika mereka berpaling, maka ketahuilah bahwasanya Allah Pelindungmu. Dia adalah sebaik-baik Pelindung dan sebaik-baik Penolong.",
       "ar": "وَإِن تَوَلَّوۡا۟ فَٱعۡلَمُوۤا۟ أَنَّ ٱللَّهَ مَوۡلَىٰكُمۡۚ نِعۡمَ ٱلۡمَوۡلَىٰ وَنِعۡمَ ٱلنَّصِیرُ\n"
     }
   },
@@ -486,8 +486,8 @@
     "arabicText": "۞ وَٱعۡلَمُوۤا۟ أَنَّمَا غَنِمۡتُم مِّن شَیۡءࣲ فَأَنَّ لِلَّهِ خُمُسَهُۥ وَلِلرَّسُولِ وَلِذِی ٱلۡقُرۡبَىٰ وَٱلۡیَتَـٰمَىٰ وَٱلۡمَسَـٰكِینِ وَٱبۡنِ ٱلسَّبِیلِ إِن كُنتُمۡ ءَامَنتُم بِٱللَّهِ وَمَاۤ أَنزَلۡنَا عَلَىٰ عَبۡدِنَا یَوۡمَ ٱلۡفُرۡقَانِ یَوۡمَ ٱلۡتَقَى ٱلۡجَمۡعَانِۗ وَٱللَّهُ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرٌ\n",
     "translations": {
       "en": "AND KNOW that whatever booty you acquire [in war], one-fifth thereof belongs to God and the Apostle, and the near of kin, and the orphans, and the needy, and the wayfarer. [This you must observe] if you believe in God and in what We bestowed from on high upon Our servant on the day when the true was distinguished from the false - the day when the two hosts met in battle. And God has the power to will anything.",
-      "ms": "",
-      "id": "",
+      "ms": "Dan ketahuilah, bahawa apa sahaja yang kamu dapati sebagai harta rampasan perang, maka sesungguhnya satu perlimanya (dibahagikan) untuk (jalan) Allah, dan untuk RasulNya, dan untuk kerabat (Rasulullah), dan anak-anak yatim, dan orang-orang miskin, serta ibnus-sabil (orang musafir yang keputusan), jika kamu beriman kepada Allah dan kepada apa yang telah diturunkan oleh Kami (Allah) kepada hamba Kami (Muhammad) pada \"Hari Al-Furqaan\", iaitu hari bertemunya dua angkatan tentera (Islam dan kafir, di medan perang Badar). Dan (ingatlah) Allah Maha Kuasa atas tiap-tiap sesuatu.",
+      "id": "Ketahuilah, sesungguhnya apa saja yang dapat kamu peroleh sebagai rampasan perang, maka sesungguhnya seperlima untuk Allah, Rasul, kerabat Rasul, anak-anak yatim, orang-orang miskin dan ibnussabil, jika kamu beriman kepada Allah dan kepada apa yang kami turunkan kepada hamba Kami (Muhammad) di hari Furqaan, yaitu di hari bertemunya dua pasukan. Dan Allah Maha Kuasa atas segala sesuatu.",
       "ar": "۞ وَٱعۡلَمُوۤا۟ أَنَّمَا غَنِمۡتُم مِّن شَیۡءࣲ فَأَنَّ لِلَّهِ خُمُسَهُۥ وَلِلرَّسُولِ وَلِذِی ٱلۡقُرۡبَىٰ وَٱلۡیَتَـٰمَىٰ وَٱلۡمَسَـٰكِینِ وَٱبۡنِ ٱلسَّبِیلِ إِن كُنتُمۡ ءَامَنتُم بِٱللَّهِ وَمَاۤ أَنزَلۡنَا عَلَىٰ عَبۡدِنَا یَوۡمَ ٱلۡفُرۡقَانِ یَوۡمَ ٱلۡتَقَى ٱلۡجَمۡعَانِۗ وَٱللَّهُ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرٌ\n"
     }
   },
@@ -498,8 +498,8 @@
     "arabicText": "إِذۡ أَنتُم بِٱلۡعُدۡوَةِ ٱلدُّنۡیَا وَهُم بِٱلۡعُدۡوَةِ ٱلۡقُصۡوَىٰ وَٱلرَّكۡبُ أَسۡفَلَ مِنكُمۡۚ وَلَوۡ تَوَاعَدتُّمۡ لَٱخۡتَلَفۡتُمۡ فِی ٱلۡمِیعَـٰدِ وَلَـٰكِن لِّیَقۡضِیَ ٱللَّهُ أَمۡرࣰا كَانَ مَفۡعُولࣰا لِّیَهۡلِكَ مَنۡ هَلَكَ عَنۢ بَیِّنَةࣲ وَیَحۡیَىٰ مَنۡ حَیَّ عَنۢ بَیِّنَةࣲۗ وَإِنَّ ٱللَّهَ لَسَمِیعٌ عَلِیمٌ\n",
     "translations": {
       "en": "[Remember that day] when you were at the near end of the valley [of Badr], and they were at its farthest end, while the caravan was below you. And if you had known that a battle was to take place, you would indeed have refused to accept the challenge: but [the battle was brought about none the less,] so that God might accomplish a thing [which He willed] to be done, [and] that he who would perish might perish in clear evidence of the truth, and that he who would remain alive might live in clear evidence of the truth. And, behold, God is indeed all-hearing, all-knowing.",
-      "ms": "",
-      "id": "",
+      "ms": "(Iaitu) ketika kamu berada di tepi lembah yang dekat (ke Madinah) dan mereka (pihak musuh) berada di tepi lembah yang jauh (dari Madinah), sedang Kafilah (pembawa dagangan musuh) berada di tempat yang rendah dari tempat kamu (di tepi laut). Dan kalaulah kamu berjanji (dengan mereka mengenai peperangan itu) nescaya kamu akan berselisih pada menentukan harinya. Akan tetapi (pertemuan angkatan kamu dengan angkatan mereka yang tidak disangka-sangka itu) ialah supaya Allah melakukan suatu perkara (kemenangan Islam) yang telah ditetapkan berlakunya, iaitu supaya orang (kafir musyrik) yang binasa itu, binasa dengan keterangan (yang membuktikan kesalahannya), dan supaya orang (Islam) yang hidup itu, hidup dengan keterangan (yang membuktikan kebenarannya); kerana sesungguhnya Allah Maha Mendengar, lagi Maha Mengetahui.",
+      "id": "(Yaitu di hari) ketika kamu berada di pinggir lembah yang dekat dan mereka berada di pinggir lembah yang jauh sedang kafilah itu berada di bawah kamu. Sekiranya kamu mengadakan persetujuan (untuk menentukan hari pertempuran), pastilah kamu tidak sependapat dalam menentukan hari pertempuran itu, akan tetapi (Allah mempertemukan dua pasukan itu) agar Dia melakukan suatu urusan yang mesti dilaksanakan, yaitu agar orang yang binasa itu binasanya dengan keterangan yang nyata dan agar orang yang hidup itu hidupnya dengan keterangan yang nyata (pula). Sesungguhnya Allah Maha Mendengar lagi Maha Mengetahui,",
       "ar": "إِذۡ أَنتُم بِٱلۡعُدۡوَةِ ٱلدُّنۡیَا وَهُم بِٱلۡعُدۡوَةِ ٱلۡقُصۡوَىٰ وَٱلرَّكۡبُ أَسۡفَلَ مِنكُمۡۚ وَلَوۡ تَوَاعَدتُّمۡ لَٱخۡتَلَفۡتُمۡ فِی ٱلۡمِیعَـٰدِ وَلَـٰكِن لِّیَقۡضِیَ ٱللَّهُ أَمۡرࣰا كَانَ مَفۡعُولࣰا لِّیَهۡلِكَ مَنۡ هَلَكَ عَنۢ بَیِّنَةࣲ وَیَحۡیَىٰ مَنۡ حَیَّ عَنۢ بَیِّنَةࣲۗ وَإِنَّ ٱللَّهَ لَسَمِیعٌ عَلِیمٌ\n"
     }
   },
@@ -510,8 +510,8 @@
     "arabicText": "إِذۡ یُرِیكَهُمُ ٱللَّهُ فِی مَنَامِكَ قَلِیلࣰاۖ وَلَوۡ أَرَىٰكَهُمۡ كَثِیرࣰا لَّفَشِلۡتُمۡ وَلَتَنَـٰزَعۡتُمۡ فِی ٱلۡأَمۡرِ وَلَـٰكِنَّ ٱللَّهَ سَلَّمَۚ إِنَّهُۥ عَلِیمُۢ بِذَاتِ ٱلصُّدُورِ\n",
     "translations": {
       "en": "Lo! God showed them to thee in a dream as few: for, had He shown them to you as many, you would surely have lost heart, and would surely have disagreed with one another about what to do. But God saved [you from this]: verily, He has full knowledge of what is the hearts [of men].",
-      "ms": "",
-      "id": "",
+      "ms": "(Ingatlah wahai Muhammad) ketika Allah memperlihatkan mereka kepadamu dalam mimpimu sedikit bilangannya; dan kalaulah Ia perlihatkan mereka kepadamu ramai bilangannya, tentulah kamu akan merasa gerun dan tentulah kamu akan berbantah-bantahan dalam urusan (perang) itu. Akan tetapi Allah telah menyelamatkan kamu. Sesungguhnya Allah Maha Mengetahui akan segala (isi hati) yang ada di dalam dada.",
+      "id": "(yaitu) ketika Allah menampakkan mereka kepadamu di dalam mimpimu (berjumlah) sedikit. Dan sekiranya Allah memperlihatkan mereka kepada kamu (berjumlah) banyak tentu saja kamu menjadi gentar dan tentu saja kamu akan berbantah-bantahan dalam urusan itu, akan tetapi Allah telah menyelamatkan kamu. Sesungguhnya Allah Maha Mengetahui segala isi hati.",
       "ar": "إِذۡ یُرِیكَهُمُ ٱللَّهُ فِی مَنَامِكَ قَلِیلࣰاۖ وَلَوۡ أَرَىٰكَهُمۡ كَثِیرࣰا لَّفَشِلۡتُمۡ وَلَتَنَـٰزَعۡتُمۡ فِی ٱلۡأَمۡرِ وَلَـٰكِنَّ ٱللَّهَ سَلَّمَۚ إِنَّهُۥ عَلِیمُۢ بِذَاتِ ٱلصُّدُورِ\n"
     }
   },
@@ -522,8 +522,8 @@
     "arabicText": "وَإِذۡ یُرِیكُمُوهُمۡ إِذِ ٱلۡتَقَیۡتُمۡ فِیۤ أَعۡیُنِكُمۡ قَلِیلࣰا وَیُقَلِّلُكُمۡ فِیۤ أَعۡیُنِهِمۡ لِیَقۡضِیَ ٱللَّهُ أَمۡرࣰا كَانَ مَفۡعُولࣰاۗ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ\n",
     "translations": {
       "en": "And so, when you met in battle, He made them appear as few in your eyes -just as He made you appear as of little account in their eyes - so that God might accomplish a thing [which He willed] to be done: for all things go back to God [as their source].",
-      "ms": "",
-      "id": "",
+      "ms": "Dan (ingatlah) ketika Kami memperlihatkan mereka kepada kamu (wahai umat Islam) semasa kamu bertemu dengan mereka: sedikit bilangannya pada pandangan mata kamu, dan kamu pula diperlihatkanNya: sedikit bilangannya pada pandangan mata mereka; kerana Allah hendak melakukan sesuatu perkara (kemenangan Islam) yang telah ditetapkan berlakunya. Dan (ingatlah) kepada Allah jualah dikembalikan segala urusan.",
+      "id": "Dan ketika Allah menampakkan mereka kepada kamu sekalian, ketika kamu berjumpa dengan mereka berjumlah sedikit pada penglihatan matamu dan kamu ditampakkan-Nya berjumlah sedikit pada penglihatan mata mereka, karena Allah hendak melakukan suatu urusan yang mesti dilaksanakan. Dan hanyalah kepada Allahlah dikembalikan segala urusan.",
       "ar": "وَإِذۡ یُرِیكُمُوهُمۡ إِذِ ٱلۡتَقَیۡتُمۡ فِیۤ أَعۡیُنِكُمۡ قَلِیلࣰا وَیُقَلِّلُكُمۡ فِیۤ أَعۡیُنِهِمۡ لِیَقۡضِیَ ٱللَّهُ أَمۡرࣰا كَانَ مَفۡعُولࣰاۗ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ\n"
     }
   },
@@ -534,8 +534,8 @@
     "arabicText": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِذَا لَقِیتُمۡ فِئَةࣰ فَٱثۡبُتُوا۟ وَٱذۡكُرُوا۟ ٱللَّهَ كَثِیرࣰا لَّعَلَّكُمۡ تُفۡلِحُونَ\n",
     "translations": {
       "en": "[Hence,] O you who have attained to faith, when you meet a host in battle, be firm, and remember God often; so that you might attain to a happy state!",
-      "ms": "",
-      "id": "",
+      "ms": "Wahai orang-orang yang beriman! Apabila kamu bertemu dengan sesuatu pasukan (musuh) maka hendaklah kamu tetap teguh menghadapinya, dan sebutlah serta ingatilah Allah (dengan doa) banyak-banyak, supaya kamu berjaya (mencapai kemenangan).",
+      "id": "Hai orang-orang yang beriman. apabila kamu memerangi pasukan (musuh), maka berteguh hatilah kamu dan sebutlah (nama) Allah sebanyak-banyaknya agar kamu beruntung.",
       "ar": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِذَا لَقِیتُمۡ فِئَةࣰ فَٱثۡبُتُوا۟ وَٱذۡكُرُوا۟ ٱللَّهَ كَثِیرࣰا لَّعَلَّكُمۡ تُفۡلِحُونَ\n"
     }
   },
@@ -546,8 +546,8 @@
     "arabicText": "وَأَطِیعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَنَـٰزَعُوا۟ فَتَفۡشَلُوا۟ وَتَذۡهَبَ رِیحُكُمۡۖ وَٱصۡبِرُوۤا۟ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّـٰبِرِینَ\n",
     "translations": {
       "en": "And pay heed unto God and His Apostle, and do not [allow yourselves to] be at variance with one another, lest you lose heart and your moral strength desert you. And be patient in adversity: for, verily, God is with those who are patient in adversity.",
-      "ms": "",
-      "id": "",
+      "ms": "Dan taatlah kamu kepada Allah dan RasulNya, dan janganlah kamu berbantah-bantahan; kalau tidak nescaya kamu menjadi lemah semangat dan hilang kekuatan kamu, dan sabarlah (menghadapi segala kesukaran dengan cekal hati); sesungguhnya Allah beserta orang-orang yang sabar.",
+      "id": "Dan taatlah kepada Allah dan Rasul-Nya dan janganlah kamu berbantah-bantahan, yang menyebabkan kamu menjadi gentar dan hilang kekuatanmu dan bersabarlah. Sesungguhnya Allah beserta orang-orang yang sabar.",
       "ar": "وَأَطِیعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَنَـٰزَعُوا۟ فَتَفۡشَلُوا۟ وَتَذۡهَبَ رِیحُكُمۡۖ وَٱصۡبِرُوۤا۟ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّـٰبِرِینَ\n"
     }
   },
@@ -558,8 +558,8 @@
     "arabicText": "وَلَا تَكُونُوا۟ كَٱلَّذِینَ خَرَجُوا۟ مِن دِیَـٰرِهِم بَطَرࣰا وَرِئَاۤءَ ٱلنَّاسِ وَیَصُدُّونَ عَن سَبِیلِ ٱللَّهِۚ وَٱللَّهُ بِمَا یَعۡمَلُونَ مُحِیطࣱ\n",
     "translations": {
       "en": "And be not like those [unbelievers] who went forth from their homelands full of self-conceit and a desire to be seen and praised by men for they were trying to turn others away from the path of God -the while God encompassed all their doings [with His might].",
-      "ms": "",
-      "id": "",
+      "ms": "Dan janganlah kamu menjadi seperti orang-orang yang keluar dari negerinya dengan berlagak sombong dan menunjuk-nunjuk (kekuatan mereka) kepada orang ramai (kerana hendak meminta dipuji), serta mereka pula menghalang manusia dari jalan Allah dan (ingatlah) Allah Maha Meliputi pengetahuanNya akan apa yang mereka kerjakan.",
+      "id": "Dan janganlah kamu menjadi seperti orang-orang yang keluar dari kampungnya dengan rasa angkuh dan dengan maksud riya' kepada manusia serta menghalangi (orang) dari jalan Allah. Dan (ilmu) Allah meliputi apa yang mereka kerjakan.",
       "ar": "وَلَا تَكُونُوا۟ كَٱلَّذِینَ خَرَجُوا۟ مِن دِیَـٰرِهِم بَطَرࣰا وَرِئَاۤءَ ٱلنَّاسِ وَیَصُدُّونَ عَن سَبِیلِ ٱللَّهِۚ وَٱللَّهُ بِمَا یَعۡمَلُونَ مُحِیطࣱ\n"
     }
   },
@@ -570,8 +570,8 @@
     "arabicText": "وَإِذۡ زَیَّنَ لَهُمُ ٱلشَّیۡطَـٰنُ أَعۡمَـٰلَهُمۡ وَقَالَ لَا غَالِبَ لَكُمُ ٱلۡیَوۡمَ مِنَ ٱلنَّاسِ وَإِنِّی جَارࣱ لَّكُمۡۖ فَلَمَّا تَرَاۤءَتِ ٱلۡفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَیۡهِ وَقَالَ إِنِّی بَرِیۤءࣱ مِّنكُمۡ إِنِّیۤ أَرَىٰ مَا لَا تَرَوۡنَ إِنِّیۤ أَخَافُ ٱللَّهَۚ وَٱللَّهُ شَدِیدُ ٱلۡعِقَابِ\n",
     "translations": {
       "en": "And, lo, Satan made all their doings seem goodly to them, and said, \"No one can overcome you this day, for, behold, I shall be your protector!\" but as soon as the two hosts came within sight of one another, he turned on his heels and said, \"Behold, I am not responsible for you: behold, I see something that you do not see: behold, I fear God-for God is severe in retribution!\"",
-      "ms": "",
-      "id": "",
+      "ms": "Dan (ingatlah) ketika Syaitan memperhiaskan kepada mereka perbuatan mereka (yang salah itu, untuk dipandang elok dan diteruskan), serta menghasut mereka dengan berkata: \"Pada hari ini tidak ada sesiapa pun dari umat manusia yang dapat mengalahkan kamu, dan sesungguhnya aku adalah pelindung dan penolong kamu\". Maka apabila kedua-dua puak (angkatan tentera Islam dan kafir musyrik) masing-masing kelihatan (berhadapan), Syaitan itu berundur ke belakang sambil berkata: \"Aku berlepas diri dari kamu, kerana aku dapat melihat apa yang kamu tidak dapat melihatnya; sesungguhnya aku takut kepada Allah, dan Allah sangat berat azab seksaNya\".",
+      "id": "Dan ketika syaitan menjadikan mereka memandang baik pekerjaan mereka dan mengatakan: \"Tidak ada seorang manusiapun yang dapat menang terhadapmu pada hari ini, dan sesungguhnya saya ini adalah pelindungmu\". Maka tatkala kedua pasukan itu telah dapat saling lihat melihat (berhadapan), syaitan itu balik ke belakang seraya berkata: \"Sesungguhnya saya berlepas diri daripada kamu, sesungguhnya saya dapat melihat apa yang kamu sekalian tidak dapat melihat; sesungguhnya saya takut kepada Allah\". Dan Allah sangat keras siksa-Nya.",
       "ar": "وَإِذۡ زَیَّنَ لَهُمُ ٱلشَّیۡطَـٰنُ أَعۡمَـٰلَهُمۡ وَقَالَ لَا غَالِبَ لَكُمُ ٱلۡیَوۡمَ مِنَ ٱلنَّاسِ وَإِنِّی جَارࣱ لَّكُمۡۖ فَلَمَّا تَرَاۤءَتِ ٱلۡفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَیۡهِ وَقَالَ إِنِّی بَرِیۤءࣱ مِّنكُمۡ إِنِّیۤ أَرَىٰ مَا لَا تَرَوۡنَ إِنِّیۤ أَخَافُ ٱللَّهَۚ وَٱللَّهُ شَدِیدُ ٱلۡعِقَابِ\n"
     }
   },
@@ -582,8 +582,8 @@
     "arabicText": "إِذۡ یَقُولُ ٱلۡمُنَـٰفِقُونَ وَٱلَّذِینَ فِی قُلُوبِهِم مَّرَضٌ غَرَّ هَـٰۤؤُلَاۤءِ دِینُهُمۡۗ وَمَن یَتَوَكَّلۡ عَلَى ٱللَّهِ فَإِنَّ ٱللَّهَ عَزِیزٌ حَكِیمࣱ\n",
     "translations": {
       "en": "At the same time, the hypocrites and those in whose hearts was disease were saying, \"Their faith has deluded these [believers]!\" But he who places his trust in God [knows that], verily, God is almighty, wise.",
-      "ms": "",
-      "id": "",
+      "ms": "(Ingatlah) ketika orang-orang munafik dan orang-orang yang ada penyakit (syak) dalam hatinya berkata: \"Orang-orang (Islam) itu telah diperdayakan oleh ugama mereka (sehingga mereka berani menentang kami yang lebih besar bilangannya)\". Dan (yang sebenarnya) sesiapa yang bertawakal kepada Allah (dengan sepenuh-penuh yakin, maka Allah akan menolongnya untuk mengalahkan musuh yang lebih besar bilangannya), kerana Allah Maha Kuasa, lagi Maha Bijaksana.",
+      "id": "(Ingatlah), ketika orang-orang munafik dan orang-orang yang ada penyakit di dalam hatinya berkata: \"Mereka itu (orang-orang mukmin) ditipu oleh agamanya\". (Allah berfirman): \"Barangsiapa yang bertawakkal kepada Allah, maka sesungguhnya Allah Maha Perkasa lagi Maha Bijaksana\".",
       "ar": "إِذۡ یَقُولُ ٱلۡمُنَـٰفِقُونَ وَٱلَّذِینَ فِی قُلُوبِهِم مَّرَضٌ غَرَّ هَـٰۤؤُلَاۤءِ دِینُهُمۡۗ وَمَن یَتَوَكَّلۡ عَلَى ٱللَّهِ فَإِنَّ ٱللَّهَ عَزِیزٌ حَكِیمࣱ\n"
     }
   },
@@ -594,8 +594,8 @@
     "arabicText": "وَلَوۡ تَرَىٰۤ إِذۡ یَتَوَفَّى ٱلَّذِینَ كَفَرُوا۟ ٱلۡمَلَـٰۤىِٕكَةُ یَضۡرِبُونَ وُجُوهَهُمۡ وَأَدۡبَـٰرَهُمۡ وَذُوقُوا۟ عَذَابَ ٱلۡحَرِیقِ\n",
     "translations": {
       "en": "AND IF thou couldst but see [how it will be] when He causes those who are bent on denying the truth to die: the angels will strike their faces: and their backs, and [will say]: \"Taste suffering through fire",
-      "ms": "",
-      "id": "",
+      "ms": "Dan (amatlah ngerinya) kalau engkau melihat (wahai orang yang memandang), ketika malaikat mengambil nyawa orang-orang kafir dengan memukul muka dan belakang mereka (sambil berkata): \"Rasalah kamu azab seksa neraka yang membakar\".",
+      "id": "Kalau kamu melihat ketika para malaikat mencabut jiwa orang-orang yang kafir seraya memukul muka dan belakang mereka (dan berkata): \"Rasakanlah olehmu siksa neraka yang membakar\", (tentulah kamu akan merasa ngeri).",
       "ar": "وَلَوۡ تَرَىٰۤ إِذۡ یَتَوَفَّى ٱلَّذِینَ كَفَرُوا۟ ٱلۡمَلَـٰۤىِٕكَةُ یَضۡرِبُونَ وُجُوهَهُمۡ وَأَدۡبَـٰرَهُمۡ وَذُوقُوا۟ عَذَابَ ٱلۡحَرِیقِ\n"
     }
   },
@@ -606,8 +606,8 @@
     "arabicText": "ذَ ٰ⁠لِكَ بِمَا قَدَّمَتۡ أَیۡدِیكُمۡ وَأَنَّ ٱللَّهَ لَیۡسَ بِظَلَّـٰمࣲ لِّلۡعَبِیدِ\n",
     "translations": {
       "en": "in return for what your own hands have wrought - for, never does God do the least wrong to His creatures!\"",
-      "ms": "",
-      "id": "",
+      "ms": "(Azab seksa) yang demikian itu ialah disebabkan apa yang telah dilakukan oleh tangan kamu sendiri, kerana sesungguhnya Allah tidak sekali-kali berlaku zalim kepada hamba-hambaNya.",
+      "id": "Demikian itu disebabkan oleh perbuatan tanganmu sendiri. Sesungguhnya Allah sekali-kali tidak menganiaya hamba-Nya,",
       "ar": "ذَ ٰ⁠لِكَ بِمَا قَدَّمَتۡ أَیۡدِیكُمۡ وَأَنَّ ٱللَّهَ لَیۡسَ بِظَلَّـٰمࣲ لِّلۡعَبِیدِ\n"
     }
   },
@@ -618,8 +618,8 @@
     "arabicText": "كَدَأۡبِ ءَالِ فِرۡعَوۡنَ وَٱلَّذِینَ مِن قَبۡلِهِمۡۚ كَفَرُوا۟ بِـَٔایَـٰتِ ٱللَّهِ فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمۡۚ إِنَّ ٱللَّهَ قَوِیࣱّ شَدِیدُ ٱلۡعِقَابِ\n",
     "translations": {
       "en": "[To them shall happen.] the like of what happened to Pharaoh's people and those who lived before them: they denied the truth of God's messagesand so God took them to task for their sins. Verily, God is powerful, severe in retribution!",
-      "ms": "",
-      "id": "",
+      "ms": "(Keadaan orang-orang kafir itu) samalah seperti keadaan Firaun dan kaumnya serta orang-orang yang terdahulu dari mereka. Mereka kufur ingkar akan ayat-ayat Allah, lalu Allah menyeksa mereka dengan sebab dosa-dosa mereka. Sesungguhnya Allah Maha Kuat, lagi Maha berat seksaNya.",
+      "id": "(keadaan mereka) serupa dengan keadaan Fir'aun dan pengikut-pengikutnya serta orang-orang yang sebelumnya. Mereka mengingkari ayat-ayat Allah, maka Allah menyiksa mereka disebabkan dosa-dosanya. Sesungguhnya Allah Maha Kuat lagi amat keras siksaan-Nya.",
       "ar": "كَدَأۡبِ ءَالِ فِرۡعَوۡنَ وَٱلَّذِینَ مِن قَبۡلِهِمۡۚ كَفَرُوا۟ بِـَٔایَـٰتِ ٱللَّهِ فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمۡۚ إِنَّ ٱللَّهَ قَوِیࣱّ شَدِیدُ ٱلۡعِقَابِ\n"
     }
   },
@@ -630,8 +630,8 @@
     "arabicText": "ذَ ٰ⁠لِكَ بِأَنَّ ٱللَّهَ لَمۡ یَكُ مُغَیِّرࣰا نِّعۡمَةً أَنۡعَمَهَا عَلَىٰ قَوۡمٍ حَتَّىٰ یُغَیِّرُوا۟ مَا بِأَنفُسِهِمۡ وَأَنَّ ٱللَّهَ سَمِیعٌ عَلِیمࣱ\n",
     "translations": {
       "en": "This, because God would never change the blessings with which He has graced a people unless they change their inner selves: and [know] that God is all-hearing, all-seeing.",
-      "ms": "",
-      "id": "",
+      "ms": "(Balasan) yang demikian itu, ialah kerana sesungguhnya Allah tidak akan mengubah sesuatu nikmat yang telah dikurniakanNya kepada sesuatu kaum sehingga mereka mengubah apa yang ada pada diri mereka sendiri. Dan (ingatlah) sesungguhnya Allah Maha mendengar, lagi Maha Mengetahui.",
+      "id": "(Siksaan) yang demikian itu adalah karena sesungguhnya Allah sekali-kali tidak akan meubah sesuatu nikmat yang telah dianugerahkan-Nya kepada suatu kaum, hingga kaum itu meubah apa-apa yang ada pada diri mereka sendiri, dan sesungguhnya Allah Maha Mendengar lagi Maha Mengetahui.",
       "ar": "ذَ ٰ⁠لِكَ بِأَنَّ ٱللَّهَ لَمۡ یَكُ مُغَیِّرࣰا نِّعۡمَةً أَنۡعَمَهَا عَلَىٰ قَوۡمٍ حَتَّىٰ یُغَیِّرُوا۟ مَا بِأَنفُسِهِمۡ وَأَنَّ ٱللَّهَ سَمِیعٌ عَلِیمࣱ\n"
     }
   },
@@ -642,8 +642,8 @@
     "arabicText": "كَدَأۡبِ ءَالِ فِرۡعَوۡنَ وَٱلَّذِینَ مِن قَبۡلِهِمۡۚ كَذَّبُوا۟ بِـَٔایَـٰتِ رَبِّهِمۡ فَأَهۡلَكۡنَـٰهُم بِذُنُوبِهِمۡ وَأَغۡرَقۡنَاۤ ءَالَ فِرۡعَوۡنَۚ وَكُلࣱّ كَانُوا۟ ظَـٰلِمِینَ\n",
     "translations": {
       "en": "[To those sinners shall happen] the like of what happened to Pharaoh's people and those who lived before them: they gave the lie to their Sustainer's messages - and so We destroyed them in return for their sins, and caused Pharaoh's people to drown: for they were evildoers all.",
-      "ms": "",
-      "id": "",
+      "ms": "(Keadaan mereka) samalah seperti keadaan Firaun dan kaumnya serta orang-orang yang terdahulu dari mereka. Mereka mendustakan ayat-ayat Tuhan mereka, lalu Kami binasakan mereka dengan sebab dosa-dosa mereka, dan Kami tenggelamkan Firaun serta pengikut-pengikutnya (di laut), kerana kesemuanya adalah orang-orang yang zalim.",
+      "id": "(keadaan mereka) serupa dengan keadaan Fir'aun dan pengikut-pengikutnya serta orang-orang yang sebelumnya. Mereka mendustakan ayat-ayat Tuhannya maka Kami membinasakan mereka disebabkan dosa-dosanya dan Kami tenggelamkan Fir'aun dan pengikut-pengikutnya; dan kesemuanya adalah orang-orang yang zalim.",
       "ar": "كَدَأۡبِ ءَالِ فِرۡعَوۡنَ وَٱلَّذِینَ مِن قَبۡلِهِمۡۚ كَذَّبُوا۟ بِـَٔایَـٰتِ رَبِّهِمۡ فَأَهۡلَكۡنَـٰهُم بِذُنُوبِهِمۡ وَأَغۡرَقۡنَاۤ ءَالَ فِرۡعَوۡنَۚ وَكُلࣱّ كَانُوا۟ ظَـٰلِمِینَ\n"
     }
   },
@@ -654,8 +654,8 @@
     "arabicText": "إِنَّ شَرَّ ٱلدَّوَاۤبِّ عِندَ ٱللَّهِ ٱلَّذِینَ كَفَرُوا۟ فَهُمۡ لَا یُؤۡمِنُونَ\n",
     "translations": {
       "en": "Verily, the vilest creatures in the sight of God are those who are bent on denying the truth and therefore do not believe.",
-      "ms": "",
-      "id": "",
+      "ms": "Sesungguhnya sejahat-jahat (makhluk) yang melata di sisi (hukum dan ketetapan) Allah ialah orang-orang yang kafir (yang degil dengan kekufurannya). Sebab itu mereka tidak (mahu) beriman.",
+      "id": "Sesungguhnya binatang (makhluk) yang paling buruk di sisi Allah ialah orang-orang yang kafir, karena mereka itu tidak beriman.",
       "ar": "إِنَّ شَرَّ ٱلدَّوَاۤبِّ عِندَ ٱللَّهِ ٱلَّذِینَ كَفَرُوا۟ فَهُمۡ لَا یُؤۡمِنُونَ\n"
     }
   },
@@ -666,8 +666,8 @@
     "arabicText": "ٱلَّذِینَ عَـٰهَدتَّ مِنۡهُمۡ ثُمَّ یَنقُضُونَ عَهۡدَهُمۡ فِی كُلِّ مَرَّةࣲ وَهُمۡ لَا یَتَّقُونَ\n",
     "translations": {
       "en": "AS FOR THOSE with whom thou hast made a covenant, and who thereupon break their covenant on every occasion, not being conscious of God-",
-      "ms": "",
-      "id": "",
+      "ms": "(Iaitu) orang-orang yang engkau telah mengikat perjanjian setia dengan mereka, kemudian mereka mencabuli perjanjian setianya pada tiap-tiap kali, sedang mereka tidak mahu memelihara dirinya (dari keaiban mencabuli perjanjian itu).",
+      "id": "(Yaitu) orang-orang yang kamu telah mengambil perjanjian dari mereka, sesudah itu mereka mengkhianati janjinya pada setiap kalinya, dan mereka tidak takut (akibat-akibatnya).",
       "ar": "ٱلَّذِینَ عَـٰهَدتَّ مِنۡهُمۡ ثُمَّ یَنقُضُونَ عَهۡدَهُمۡ فِی كُلِّ مَرَّةࣲ وَهُمۡ لَا یَتَّقُونَ\n"
     }
   },
@@ -678,8 +678,8 @@
     "arabicText": "فَإِمَّا تَثۡقَفَنَّهُمۡ فِی ٱلۡحَرۡبِ فَشَرِّدۡ بِهِم مَّنۡ خَلۡفَهُمۡ لَعَلَّهُمۡ یَذَّكَّرُونَ\n",
     "translations": {
       "en": "if thou find them at war [with you], make of them a fearsome example for those who follow them, so that they might take it to heart;",
-      "ms": "",
-      "id": "",
+      "ms": "Oleh itu, jika engkau menemui mereka dalam peperangan maka hancurkanlah mereka (supaya dengan itu) orang-orang yang di belakang mereka (gerun gentar); mudah-mudahan orang-orang itu pula beringat (insaf).",
+      "id": "Jika kamu menemui mereka dalam peperangan, maka cerai beraikanlah orang-orang yang di belakang mereka dengan (menumpas) mereka, supaya mereka mengambil pelajaran.",
       "ar": "فَإِمَّا تَثۡقَفَنَّهُمۡ فِی ٱلۡحَرۡبِ فَشَرِّدۡ بِهِم مَّنۡ خَلۡفَهُمۡ لَعَلَّهُمۡ یَذَّكَّرُونَ\n"
     }
   },
@@ -690,8 +690,8 @@
     "arabicText": "وَإِمَّا تَخَافَنَّ مِن قَوۡمٍ خِیَانَةࣰ فَٱنۢبِذۡ إِلَیۡهِمۡ عَلَىٰ سَوَاۤءٍۚ إِنَّ ٱللَّهَ لَا یُحِبُّ ٱلۡخَاۤىِٕنِینَ\n",
     "translations": {
       "en": "or, if thou hast reason to fear treachery from people [with whom thou hast made a covenant], cast it back at them in an equitable manner: for, verily, God does not love the treacherous!",
-      "ms": "",
-      "id": "",
+      "ms": "Dan jika engkau mengetahui adanya perbuatan khianat dari sesuatu kaum (yang mengikat perjanjian setia denganmu) maka campakkanlah (perjanjian itu) kepada mereka dengan cara terus terang dan adil. Sesungguhnya Allah tidak suka kepada orang-orang yang khianat.",
+      "id": "Dan jika kamu khawatir akan (terjadinya) pengkhianatan dari suatu golongan, maka kembalikanlah perjanjian itu kepada mereka dengan cara yang jujur. Sesungguhnya Allah tidak menyukai orang-orang yang berkhianat.",
       "ar": "وَإِمَّا تَخَافَنَّ مِن قَوۡمٍ خِیَانَةࣰ فَٱنۢبِذۡ إِلَیۡهِمۡ عَلَىٰ سَوَاۤءٍۚ إِنَّ ٱللَّهَ لَا یُحِبُّ ٱلۡخَاۤىِٕنِینَ\n"
     }
   },
@@ -702,8 +702,8 @@
     "arabicText": "وَلَا یَحۡسَبَنَّ ٱلَّذِینَ كَفَرُوا۟ سَبَقُوۤا۟ۚ إِنَّهُمۡ لَا یُعۡجِزُونَ\n",
     "translations": {
       "en": "And let them not think - those who are bent on denying the truth -that they shall escapee [God]: behold, they can never frustrate [His purpose].",
-      "ms": "",
-      "id": "",
+      "ms": "Dan janganlah orang-orang yang kafir itu menyangka (bahawa) mereka telah terlepas (dari kekuasaan dan balasan Kami); sesungguhnya mereka tidak akan dapat melemahkan (kekuasaan Kami).",
+      "id": "Dan janganlah orang-orang yang kafir itu mengira, bahwa mereka akan dapat lolos (dari kekuasaan Allah). Sesungguhnya mereka tidak dapat melemahkan (Allah).",
       "ar": "وَلَا یَحۡسَبَنَّ ٱلَّذِینَ كَفَرُوا۟ سَبَقُوۤا۟ۚ إِنَّهُمۡ لَا یُعۡجِزُونَ\n"
     }
   },
@@ -714,8 +714,8 @@
     "arabicText": "وَأَعِدُّوا۟ لَهُم مَّا ٱسۡتَطَعۡتُم مِّن قُوَّةࣲ وَمِن رِّبَاطِ ٱلۡخَیۡلِ تُرۡهِبُونَ بِهِۦ عَدُوَّ ٱللَّهِ وَعَدُوَّكُمۡ وَءَاخَرِینَ مِن دُونِهِمۡ لَا تَعۡلَمُونَهُمُ ٱللَّهُ یَعۡلَمُهُمۡۚ وَمَا تُنفِقُوا۟ مِن شَیۡءࣲ فِی سَبِیلِ ٱللَّهِ یُوَفَّ إِلَیۡكُمۡ وَأَنتُمۡ لَا تُظۡلَمُونَ\n",
     "translations": {
       "en": "Hence, make ready against them whatever force and war mounts you are able to muster, so that you might deter thereby the enemies of God, who are your enemies as well, and others besides them of whom you may be unaware, [but] of whom God is aware; and whatever you may expend in God's cause shall be repaid to you in full, and you shall not be wronged.",
-      "ms": "",
-      "id": "",
+      "ms": "Dan sediakanlah untuk menentang mereka (musuh yang menceroboh) segala jenis kekuatan yang dapat kamu sediakan dan dari pasukan-pasukan berkuda yang lengkap sedia, untuk menggerunkan dengan persediaan itu musuh Allah dan musuh kamu serta musuh-musuh yang lain dari mereka yang kamu tidak mengetahuinya; sedang Allah mengetahuinya. Dan apa sahaja yang kamu belanjakan pada jalan Allah akan disempurnakan balasannya kepada kamu, dan kamu tidak akan dianiaya.",
+      "id": "Dan siapkanlah untuk menghadapi mereka kekuatan apa saja yang kamu sanggupi dan dari kuda-kuda yang ditambat untuk berperang (yang dengan persiapan itu) kamu menggentarkan musuh Allah dan musuhmu dan orang orang selain mereka yang kamu tidak mengetahuinya; sedang Allah mengetahuinya. Apa saja yang kamu nafkahkan pada jalan Allah niscaya akan dibalasi dengan cukup kepadamu dan kamu tidak akan dianiaya (dirugikan).",
       "ar": "وَأَعِدُّوا۟ لَهُم مَّا ٱسۡتَطَعۡتُم مِّن قُوَّةࣲ وَمِن رِّبَاطِ ٱلۡخَیۡلِ تُرۡهِبُونَ بِهِۦ عَدُوَّ ٱللَّهِ وَعَدُوَّكُمۡ وَءَاخَرِینَ مِن دُونِهِمۡ لَا تَعۡلَمُونَهُمُ ٱللَّهُ یَعۡلَمُهُمۡۚ وَمَا تُنفِقُوا۟ مِن شَیۡءࣲ فِی سَبِیلِ ٱللَّهِ یُوَفَّ إِلَیۡكُمۡ وَأَنتُمۡ لَا تُظۡلَمُونَ\n"
     }
   },
@@ -726,8 +726,8 @@
     "arabicText": "۞ وَإِن جَنَحُوا۟ لِلسَّلۡمِ فَٱجۡنَحۡ لَهَا وَتَوَكَّلۡ عَلَى ٱللَّهِۚ إِنَّهُۥ هُوَ ٱلسَّمِیعُ ٱلۡعَلِیمُ\n",
     "translations": {
       "en": "But if they incline to peace, incline thou to it as well, and place thy trust in God: verily, He alone is all-hearing, all-knowing!",
-      "ms": "",
-      "id": "",
+      "ms": "Dan jika mereka (pihak musuh) cenderung kepada perdamaian, maka engkau juga hendaklah cenderung kepadanya serta bertawakalah kepada Allah. Sesungguhnya Ia Maha Mendengar, lagi Maha Mengetahui.",
+      "id": "Dan jika mereka condong kepada perdamaian, maka condonglah kepadanya dan bertawakkallah kepada Allah. Sesungguhnya Dialah Yang Maha Mendengar lagi Maha Mengetahui.",
       "ar": "۞ وَإِن جَنَحُوا۟ لِلسَّلۡمِ فَٱجۡنَحۡ لَهَا وَتَوَكَّلۡ عَلَى ٱللَّهِۚ إِنَّهُۥ هُوَ ٱلسَّمِیعُ ٱلۡعَلِیمُ\n"
     }
   },
@@ -738,8 +738,8 @@
     "arabicText": "وَإِن یُرِیدُوۤا۟ أَن یَخۡدَعُوكَ فَإِنَّ حَسۡبَكَ ٱللَّهُۚ هُوَ ٱلَّذِیۤ أَیَّدَكَ بِنَصۡرِهِۦ وَبِٱلۡمُؤۡمِنِینَ\n",
     "translations": {
       "en": "And should they seek but to deceive thee [by their show of peace] - behold, God is enough for thee! He it is who has strengthened thee with His succour, and by giving thee believing followers",
-      "ms": "",
-      "id": "",
+      "ms": "Dan jika mereka bertujuan hendak menipumu, maka sesungguhnya cukuplah Allah (menjaga dan memberikan perlindungan) kepadamu. Dia lah yang menguatkanmu dengan pertolonganNya dan dengan (sokongan) orang-orang yang beriman.",
+      "id": "Dan jika mereka bermaksud menipumu, maka sesungguhnya cukuplah Allah (menjadi pelindungmu). Dialah yang memperkuatmu dengan pertolongan-Nya dan dengan para mukmin,",
       "ar": "وَإِن یُرِیدُوۤا۟ أَن یَخۡدَعُوكَ فَإِنَّ حَسۡبَكَ ٱللَّهُۚ هُوَ ٱلَّذِیۤ أَیَّدَكَ بِنَصۡرِهِۦ وَبِٱلۡمُؤۡمِنِینَ\n"
     }
   },
@@ -750,8 +750,8 @@
     "arabicText": "وَأَلَّفَ بَیۡنَ قُلُوبِهِمۡۚ لَوۡ أَنفَقۡتَ مَا فِی ٱلۡأَرۡضِ جَمِیعࣰا مَّاۤ أَلَّفۡتَ بَیۡنَ قُلُوبِهِمۡ وَلَـٰكِنَّ ٱللَّهَ أَلَّفَ بَیۡنَهُمۡۚ إِنَّهُۥ عَزِیزٌ حَكِیمࣱ\n",
     "translations": {
       "en": "whose hearts He has brought together: [for,] if thou hadst expended all that is on earth, thou couldst not have brought their hearts together [by thyself]: but God did bring them together. Verily, He is almighty, wise.",
-      "ms": "",
-      "id": "",
+      "ms": "Dan (Dia lah) yang menyatu-padukan di antara hati mereka (yang beriman itu). Kalaulah engkau belanjakan segala (harta benda) yang ada di bumi, nescaya engkau tidak dapat juga menyatu-padukan di antara hati mereka, akan tetapi Allah telah menyatu-padukan di antara (hati) mereka. Sesungguhnya Ia Maha Kuasa, lagi Maha Bijaksana.",
+      "id": "dan Yang mempersatukan hati mereka (orang-orang yang beriman). Walaupun kamu membelanjakan semua (kekayaan) yang berada di bumi, niscaya kamu tidak dapat mempersatukan hati mereka, akan tetapi Allah telah mempersatukan hati mereka. Sesungguhnya Dia Maha Gagah lagi Maha Bijaksana.",
       "ar": "وَأَلَّفَ بَیۡنَ قُلُوبِهِمۡۚ لَوۡ أَنفَقۡتَ مَا فِی ٱلۡأَرۡضِ جَمِیعࣰا مَّاۤ أَلَّفۡتَ بَیۡنَ قُلُوبِهِمۡ وَلَـٰكِنَّ ٱللَّهَ أَلَّفَ بَیۡنَهُمۡۚ إِنَّهُۥ عَزِیزٌ حَكِیمࣱ\n"
     }
   },
@@ -762,8 +762,8 @@
     "arabicText": "یَـٰۤأَیُّهَا ٱلنَّبِیُّ حَسۡبُكَ ٱللَّهُ وَمَنِ ٱتَّبَعَكَ مِنَ ٱلۡمُؤۡمِنِینَ\n",
     "translations": {
       "en": "O Prophet! God is enough for thee and those of the believers who follow thee!",
-      "ms": "",
-      "id": "",
+      "ms": "Wahai Nabi, cukuplah Allah menjadi Penolongmu, dan juga pengikut-pengikutmu dari orang-orang yang beriman.",
+      "id": "Hai Nabi, cukuplah Allah (menjadi Pelindung) bagimu dan bagi orang-orang mukmin yang mengikutimu.",
       "ar": "یَـٰۤأَیُّهَا ٱلنَّبِیُّ حَسۡبُكَ ٱللَّهُ وَمَنِ ٱتَّبَعَكَ مِنَ ٱلۡمُؤۡمِنِینَ\n"
     }
   },
@@ -774,8 +774,8 @@
     "arabicText": "یَـٰۤأَیُّهَا ٱلنَّبِیُّ حَرِّضِ ٱلۡمُؤۡمِنِینَ عَلَى ٱلۡقِتَالِۚ إِن یَكُن مِّنكُمۡ عِشۡرُونَ صَـٰبِرُونَ یَغۡلِبُوا۟ مِا۟ئَتَیۡنِۚ وَإِن یَكُن مِّنكُم مِّا۟ئَةࣱ یَغۡلِبُوۤا۟ أَلۡفࣰا مِّنَ ٱلَّذِینَ كَفَرُوا۟ بِأَنَّهُمۡ قَوۡمࣱ لَّا یَفۡقَهُونَ\n",
     "translations": {
       "en": "O Prophet! Inspire the believers to conquer all fear of death when fighting, [so that,] if there be twenty of you who are patient in adversity, they might overcome two hundred; and [that,] if there be one hundred of you, they might overcome one thousand of those who are bent on denying the truth, because they are people who cannot grasp it.",
-      "ms": "",
-      "id": "",
+      "ms": "Wahai Nabi, peransangkanlah orang-orang yang beriman itu untuk berperang. Jika ada di antara kamu dua puluh yang sabar, nescaya mereka dapat menewaskan dua ratus orang (dari pihak musuh yang kafir itu); dan jika ada di antara kamu seratus orang, nescaya mereka dapat menewaskan seribu orang dari golongan yang kafir, disebabkan mereka (yang kafir itu) orang-orang yang tidak mengerti.",
+      "id": "Hai Nabi, kobarkanlah semangat para mukmin untuk berperang. Jika ada dua puluh orang yang sabar diantaramu, niscaya mereka akan dapat mengalahkan dua ratus orang musuh. Dan jika ada seratus orang yang sabar diantaramu, niscaya mereka akan dapat mengalahkan seribu dari pada orang kafir, disebabkan orang-orang kafir itu kaum yang tidak mengerti.",
       "ar": "یَـٰۤأَیُّهَا ٱلنَّبِیُّ حَرِّضِ ٱلۡمُؤۡمِنِینَ عَلَى ٱلۡقِتَالِۚ إِن یَكُن مِّنكُمۡ عِشۡرُونَ صَـٰبِرُونَ یَغۡلِبُوا۟ مِا۟ئَتَیۡنِۚ وَإِن یَكُن مِّنكُم مِّا۟ئَةࣱ یَغۡلِبُوۤا۟ أَلۡفࣰا مِّنَ ٱلَّذِینَ كَفَرُوا۟ بِأَنَّهُمۡ قَوۡمࣱ لَّا یَفۡقَهُونَ\n"
     }
   },
@@ -786,8 +786,8 @@
     "arabicText": "ٱلۡـَٔـٰنَ خَفَّفَ ٱللَّهُ عَنكُمۡ وَعَلِمَ أَنَّ فِیكُمۡ ضَعۡفࣰاۚ فَإِن یَكُن مِّنكُم مِّا۟ئَةࣱ صَابِرَةࣱ یَغۡلِبُوا۟ مِا۟ئَتَیۡنِۚ وَإِن یَكُن مِّنكُمۡ أَلۡفࣱ یَغۡلِبُوۤا۟ أَلۡفَیۡنِ بِإِذۡنِ ٱللَّهِۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِینَ\n",
     "translations": {
       "en": "For the time being, [however,] God has lightened your burden. for He knows that you are weak: and so, if there be one hundred of you who are patient in adversity, they should [be able to]' overcome two hundred; and if there be one thousand of you, they should [be able to] overcome two thousand by God's leave: for God is with those who are patient in adversity.",
-      "ms": "",
-      "id": "",
+      "ms": "Sekarang Allah telah meringankan daripada kamu (apa yang telah diwajibkan dahulu) kerana Ia mengetahui bahawa pada kamu ada kelemahan; oleh itu jika ada di antara kamu seratus orang yang sabar, nescaya mereka akan dapat menewaskan dua ratus orang; dan jika ada di antara kamu seribu orang, nescaya mereka dapat menewaskan dua ribu orang dengan izin Allah. Dan (ingatlah) Allah beserta orang-orang yang sabar.",
+      "id": "Sekarang Allah telah meringankan kepadamu dan dia telah mengetahui bahwa padamu ada kelemahan. Maka jika ada diantaramu seratus orang yang sabar, niscaya mereka akan dapat mengalahkan dua ratus orang kafir; dan jika diantaramu ada seribu orang (yang sabar), niscaya mereka akan dapat mengalahkan dua ribu orang, dengan seizin Allah. Dan Allah beserta orang-orang yang sabar.",
       "ar": "ٱلۡـَٔـٰنَ خَفَّفَ ٱللَّهُ عَنكُمۡ وَعَلِمَ أَنَّ فِیكُمۡ ضَعۡفࣰاۚ فَإِن یَكُن مِّنكُم مِّا۟ئَةࣱ صَابِرَةࣱ یَغۡلِبُوا۟ مِا۟ئَتَیۡنِۚ وَإِن یَكُن مِّنكُمۡ أَلۡفࣱ یَغۡلِبُوۤا۟ أَلۡفَیۡنِ بِإِذۡنِ ٱللَّهِۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِینَ\n"
     }
   },
@@ -798,8 +798,8 @@
     "arabicText": "مَا كَانَ لِنَبِیٍّ أَن یَكُونَ لَهُۥۤ أَسۡرَىٰ حَتَّىٰ یُثۡخِنَ فِی ٱلۡأَرۡضِۚ تُرِیدُونَ عَرَضَ ٱلدُّنۡیَا وَٱللَّهُ یُرِیدُ ٱلۡـَٔاخِرَةَۗ وَٱللَّهُ عَزِیزٌ حَكِیمࣱ\n",
     "translations": {
       "en": "IT DOES NOT behove a prophet to keep captives unless he has battled strenuously on earth. You may desire the fleeting gains of this world-but God desires [for you the good of] the life to come: and God is almighty, wise.",
-      "ms": "",
-      "id": "",
+      "ms": "Tidaklah patut bagi seseorang Nabi mempunyai orang-orang tawanan sebelum ia dapat membunuh sebanyak-banyaknya di muka bumi. Kamu menghendaki harta benda dunia (yang tidak kekal), sedang Allah menghendaki (untuk kamu pahala) akhirat. Dan (ingatlah), Allah Maha Kuasa, lagi Maha Bijaksana.",
+      "id": "Tidak patut, bagi seorang Nabi mempunyai tawanan sebelum ia dapat melumpuhkan musuhnya di muka bumi. Kamu menghendaki harta benda duniawiyah sedangkan Allah menghendaki (pahala) akhirat (untukmu). Dan Allah Maha Perkasa lagi Maha Bijaksana.",
       "ar": "مَا كَانَ لِنَبِیٍّ أَن یَكُونَ لَهُۥۤ أَسۡرَىٰ حَتَّىٰ یُثۡخِنَ فِی ٱلۡأَرۡضِۚ تُرِیدُونَ عَرَضَ ٱلدُّنۡیَا وَٱللَّهُ یُرِیدُ ٱلۡـَٔاخِرَةَۗ وَٱللَّهُ عَزِیزٌ حَكِیمࣱ\n"
     }
   },
@@ -810,8 +810,8 @@
     "arabicText": "لَّوۡلَا كِتَـٰبࣱ مِّنَ ٱللَّهِ سَبَقَ لَمَسَّكُمۡ فِیمَاۤ أَخَذۡتُمۡ عَذَابٌ عَظِیمࣱ\n",
     "translations": {
       "en": "Had it not been for a decree from God that had already gone forth, there would indeed have befallen you a tremendous chastisement on account of all [the captives] that you took.",
-      "ms": "",
-      "id": "",
+      "ms": "Kalaulah tidak (kerana) adanya ketetapan dari Allah yang telah terdahulu, tentulah kamu ditimpa azab seksa yang besar disebabkan (penebus diri) yang kamu ambil (dari orang-orang tawanan) itu.",
+      "id": "Kalau sekiranya tidak ada ketetapan yang telah terdahulu dari Allah, niscaya kamu ditimpa siksaan yang besar karena tebusan yang kamu ambil.",
       "ar": "لَّوۡلَا كِتَـٰبࣱ مِّنَ ٱللَّهِ سَبَقَ لَمَسَّكُمۡ فِیمَاۤ أَخَذۡتُمۡ عَذَابٌ عَظِیمࣱ\n"
     }
   },
@@ -822,8 +822,8 @@
     "arabicText": "فَكُلُوا۟ مِمَّا غَنِمۡتُمۡ حَلَـٰلࣰا طَیِّبࣰاۚ وَٱتَّقُوا۟ ٱللَّهَۚ إِنَّ ٱللَّهَ غَفُورࣱ رَّحِیمࣱ\n",
     "translations": {
       "en": "Enjoy, then, all that is lawful and good among the things which you have gained in war, and remain conscious of God: verily, God is much-forgiving, a dispenser of grace.",
-      "ms": "",
-      "id": "",
+      "ms": "Maka makanlah dari apa yang kamu telah dapat (dalam peperangan) itu, sebagai benda yang halal lagi baik, serta bertaqwalah kepada Allah; sesungguhnya Allah Maha Pengampun, lagi Maha Mengasihani.",
+      "id": "Maka makanlah dari sebagian rampasan perang yang telah kamu ambil itu, sebagai makanan yang halal lagi baik, dan bertakwalah kepada Allah; sesungguhnya Allah Maha Pengampun lagi Maha Penyayang.",
       "ar": "فَكُلُوا۟ مِمَّا غَنِمۡتُمۡ حَلَـٰلࣰا طَیِّبࣰاۚ وَٱتَّقُوا۟ ٱللَّهَۚ إِنَّ ٱللَّهَ غَفُورࣱ رَّحِیمࣱ\n"
     }
   },
@@ -834,8 +834,8 @@
     "arabicText": "یَـٰۤأَیُّهَا ٱلنَّبِیُّ قُل لِّمَن فِیۤ أَیۡدِیكُم مِّنَ ٱلۡأَسۡرَىٰۤ إِن یَعۡلَمِ ٱللَّهُ فِی قُلُوبِكُمۡ خَیۡرࣰا یُؤۡتِكُمۡ خَیۡرࣰا مِّمَّاۤ أُخِذَ مِنكُمۡ وَیَغۡفِرۡ لَكُمۡۚ وَٱللَّهُ غَفُورࣱ رَّحِیمࣱ\n",
     "translations": {
       "en": "[Hence,] O Prophet, say unto the captives who are in your hands: \"If God finds any good in your hearts, He will give you something better than all that has been taken from you, and will forgive you your sins: for God is much-forgiving, a dispenser of grace.\"",
-      "ms": "",
-      "id": "",
+      "ms": "Wahai Nabi, katakanlah kepada orang-orang tawanan yang ada dalam tangan kamu: \"Jika Allah mengetahui ada kebaikan (iman) dalam hati kamu, nescaya Ia akan memberi kepada kamu (balasan) yang lebih baik daripada (harta benda penebus diri) yang telah diambil dari kamu, dan Ia akan mengampunkan dosa kamu; kerana Allah Maha Pengampun, lagi maha Mengasihani.",
+      "id": "Hai Nabi, katakanlah kepada tawanan-tawanan yang ada di tanganmu: \"Jika Allah mengetahui ada kebaikan dalam hatimu, niscaya Dia akan memberikan kepadamu yang lebih baik dari apa yang telah diambil daripadamu dan Dia akan mengampuni kamu\". Dan Allah Maha Pengampun lagi Maha Penyayang.",
       "ar": "یَـٰۤأَیُّهَا ٱلنَّبِیُّ قُل لِّمَن فِیۤ أَیۡدِیكُم مِّنَ ٱلۡأَسۡرَىٰۤ إِن یَعۡلَمِ ٱللَّهُ فِی قُلُوبِكُمۡ خَیۡرࣰا یُؤۡتِكُمۡ خَیۡرࣰا مِّمَّاۤ أُخِذَ مِنكُمۡ وَیَغۡفِرۡ لَكُمۡۚ وَٱللَّهُ غَفُورࣱ رَّحِیمࣱ\n"
     }
   },
@@ -846,8 +846,8 @@
     "arabicText": "وَإِن یُرِیدُوا۟ خِیَانَتَكَ فَقَدۡ خَانُوا۟ ٱللَّهَ مِن قَبۡلُ فَأَمۡكَنَ مِنۡهُمۡۗ وَٱللَّهُ عَلِیمٌ حَكِیمٌ\n",
     "translations": {
       "en": "And should they but seek to play false with thee -well, they were false to God [Himself] ere this: but He gave [the believers] mastery over them. And God is all-knowing, wise.",
-      "ms": "",
-      "id": "",
+      "ms": "Dan jika mereka (orang-orang tawanan itu) bertujuan hendak melakukan khianat kepadamu, maka sesungguhnya mereka telahpun melakukan khianat kepada Allah (dengan kekufuran mereka) sebelum itu, lalu Allah menjadikan (engkau) mengalahkan dan menundukkan mereka; kerana Allah Maha Mengetahui, lagi Maha Bijaksana.",
+      "id": "Akan tetapi jika mereka (tawanan-tawanan itu) bermaksud hendak berkhianat kepadamu, maka sesungguhnya mereka telah berkhianat kepada Allah sebelum ini, lalu Allah menjadikan(mu) berkuasa terhadap mereka. Dan Allah Maha Mengetahui lagi Maha Bijaksana.",
       "ar": "وَإِن یُرِیدُوا۟ خِیَانَتَكَ فَقَدۡ خَانُوا۟ ٱللَّهَ مِن قَبۡلُ فَأَمۡكَنَ مِنۡهُمۡۗ وَٱللَّهُ عَلِیمٌ حَكِیمٌ\n"
     }
   },
@@ -858,8 +858,8 @@
     "arabicText": "إِنَّ ٱلَّذِینَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ بِأَمۡوَ ٰ⁠لِهِمۡ وَأَنفُسِهِمۡ فِی سَبِیلِ ٱللَّهِ وَٱلَّذِینَ ءَاوَوا۟ وَّنَصَرُوۤا۟ أُو۟لَـٰۤىِٕكَ بَعۡضُهُمۡ أَوۡلِیَاۤءُ بَعۡضࣲۚ وَٱلَّذِینَ ءَامَنُوا۟ وَلَمۡ یُهَاجِرُوا۟ مَا لَكُم مِّن وَلَـٰیَتِهِم مِّن شَیۡءٍ حَتَّىٰ یُهَاجِرُوا۟ۚ وَإِنِ ٱسۡتَنصَرُوكُمۡ فِی ٱلدِّینِ فَعَلَیۡكُمُ ٱلنَّصۡرُ إِلَّا عَلَىٰ قَوۡمِۭ بَیۡنَكُمۡ وَبَیۡنَهُم مِّیثَـٰقࣱۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِیرࣱ\n",
     "translations": {
       "en": "BEHOLD, as for those who have attained to faith, and who have forsaken the domain of evil and are striving hard, with their possessions and their lives, in God's cause, as well as those who shelter and succour [them] - these are [truly] the friends and protectors of one another. But as for those who have come to believe without having migrated [to your country] - you are in no wise responsible for their protection until such a time as they migrate [to you]. Yet, if they ask you for succour against religious persecution, it is your duty to give [them] this succour-except against a people between whom and yourselves there is a covenant: for God sees all that you do.",
-      "ms": "",
-      "id": "",
+      "ms": "Sesungguhnya orang-orang yang beriman dan berhijrah serta berjihad dengan harta benda dan jiwa mereka pada jalan Allah, dan orang-orang (Ansar) yang memberi tempat kediaman dan pertolongan (kepada orang-orang Islam yang berhijrah itu), mereka semuanya menjadi penyokong dan pembela antara satu dengan yang lain. Dan orang-orang yang beriman yang belum berhijrah, maka kamu tidak bertanggungjawab sedikitpun untuk membela mereka sehingga mereka berhijrah. Dan jika mereka meminta pertolongan kepada kamu dalam perkara (menentang musuh untuk membela) ugama, maka wajiblah kamu menolongnya, kecuali terhadap kaum yang ada perjanjian setia di antara kamu dengan mereka. Dan (ingatlah) Allah Maha Melihat akan apa yang kamu lakukan.",
+      "id": "Sesungguhnya orang-orang yang beriman dan berhijrah serta berjihad dengan harta dan jiwanya pada jalan Allah dan orang-orang yang memberikan tempat kediaman dan pertoIongan (kepada orang-orang muhajirin), mereka itu satu sama lain lindung-melindungi. Dan (terhadap) orang-orang yang beriman, tetapi belum berhijrah, maka tidak ada kewajiban sedikitpun atasmu melindungi mereka, sebelum mereka berhijrah. (Akan tetapi) jika mereka meminta pertolongan kepadamu dalam (urusan pembelaan) agama, maka kamu wajib memberikan pertolongan kecuali terhadap kaum yang telah ada perjanjian antara kamu dengan mereka. Dan Allah Maha Melihat apa yang kamu kerjakan.",
       "ar": "إِنَّ ٱلَّذِینَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ بِأَمۡوَ ٰ⁠لِهِمۡ وَأَنفُسِهِمۡ فِی سَبِیلِ ٱللَّهِ وَٱلَّذِینَ ءَاوَوا۟ وَّنَصَرُوۤا۟ أُو۟لَـٰۤىِٕكَ بَعۡضُهُمۡ أَوۡلِیَاۤءُ بَعۡضࣲۚ وَٱلَّذِینَ ءَامَنُوا۟ وَلَمۡ یُهَاجِرُوا۟ مَا لَكُم مِّن وَلَـٰیَتِهِم مِّن شَیۡءٍ حَتَّىٰ یُهَاجِرُوا۟ۚ وَإِنِ ٱسۡتَنصَرُوكُمۡ فِی ٱلدِّینِ فَعَلَیۡكُمُ ٱلنَّصۡرُ إِلَّا عَلَىٰ قَوۡمِۭ بَیۡنَكُمۡ وَبَیۡنَهُم مِّیثَـٰقࣱۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِیرࣱ\n"
     }
   },
@@ -870,8 +870,8 @@
     "arabicText": "وَٱلَّذِینَ كَفَرُوا۟ بَعۡضُهُمۡ أَوۡلِیَاۤءُ بَعۡضٍۚ إِلَّا تَفۡعَلُوهُ تَكُن فِتۡنَةࣱ فِی ٱلۡأَرۡضِ وَفَسَادࣱ كَبِیرࣱ\n",
     "translations": {
       "en": "With all this, [remember that] those who are bent on denying the truth are allies of one another; and unless you act likewise [among yourselves], oppression will reign on earth, and great corruption.",
-      "ms": "",
-      "id": "",
+      "ms": "Dan orang-orang yang kafir, setengahnya menjadi penyokong dan pembela bagi setengahnya yang lain. Jika kamu (wahai umat Islam) tidak menjalankan (dasar bantu-membantu sesama sendiri yang diperintahkan oleh Allah) itu, nescaya akan berlakulah fitnah (kekacauan) di muka bumi dan kerosakan yang besar.",
+      "id": "Adapun orang-orang yang kafir, sebagian mereka menjadi pelindung bagi sebagian yang lain. Jika kamu (hai para muslimin) tidak melaksanakan apa yang telah diperintahkan Allah itu, niscaya akan terjadi kekacauan di muka bumi dan kerusakan yang besar.",
       "ar": "وَٱلَّذِینَ كَفَرُوا۟ بَعۡضُهُمۡ أَوۡلِیَاۤءُ بَعۡضٍۚ إِلَّا تَفۡعَلُوهُ تَكُن فِتۡنَةࣱ فِی ٱلۡأَرۡضِ وَفَسَادࣱ كَبِیرࣱ\n"
     }
   },
@@ -882,8 +882,8 @@
     "arabicText": "وَٱلَّذِینَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ فِی سَبِیلِ ٱللَّهِ وَٱلَّذِینَ ءَاوَوا۟ وَّنَصَرُوۤا۟ أُو۟لَـٰۤىِٕكَ هُمُ ٱلۡمُؤۡمِنُونَ حَقࣰّاۚ لَّهُم مَّغۡفِرَةࣱ وَرِزۡقࣱ كَرِیمࣱ\n",
     "translations": {
       "en": "And they who have attained to faith, and who have forsaken the domain of evil and are striving hard in God's cause, as well as those who shelter and succour [them]-it is they, they who are truly believers! Forgiveness of sins awaits them, and a most excellent sustenance.",
-      "ms": "",
-      "id": "",
+      "ms": "Dan orang-orang yang beriman dan berhijrah serta berjihad pada jalan Allah (untuk membela Islam), dan orang-orang (Ansar) yang memberi tempat kediaman dan pertolongan (kepada orang-orang Islam yang berhijrah itu), merekalah orang-orang yang beriman dengan sebenar-benarnya. Mereka beroleh keampunan dan limpah kurnia yang mulia.",
+      "id": "Dan orang-orang yang beriman dan berhijrah serta berjihad pada jalan Allah, dan orang-orang yang memberi tempat kediaman dan memberi pertolongan (kepada orang-orang muhajirin), mereka itulah orang-orang yang benar-benar beriman. Mereka memperoleh ampunan dan rezeki (nikmat) yang mulia.",
       "ar": "وَٱلَّذِینَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ فِی سَبِیلِ ٱللَّهِ وَٱلَّذِینَ ءَاوَوا۟ وَّنَصَرُوۤا۟ أُو۟لَـٰۤىِٕكَ هُمُ ٱلۡمُؤۡمِنُونَ حَقࣰّاۚ لَّهُم مَّغۡفِرَةࣱ وَرِزۡقࣱ كَرِیمࣱ\n"
     }
   },
@@ -894,8 +894,8 @@
     "arabicText": "وَٱلَّذِینَ ءَامَنُوا۟ مِنۢ بَعۡدُ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ مَعَكُمۡ فَأُو۟لَـٰۤىِٕكَ مِنكُمۡۚ وَأُو۟لُوا۟ ٱلۡأَرۡحَامِ بَعۡضُهُمۡ أَوۡلَىٰ بِبَعۡضࣲ فِی كِتَـٰبِ ٱللَّهِۚ إِنَّ ٱللَّهَ بِكُلِّ شَیۡءٍ عَلِیمُۢ\n",
     "translations": {
       "en": "And as for those who henceforth come to believe, and who forsake the domain of evil and strive hard [in God's cause] together with you - these [too] shall belong to you; and they who are [thus] closely related have the highest claim on one another in [accordance with] God's decree. Verily, God has full knowledge of everything.",
-      "ms": "",
-      "id": "",
+      "ms": "Dan orang-orang yang beriman sesudah itu, kemudian mereka berhijrah dan berjihad bersama-sama kamu, maka adalah mereka dari golongan kamu. Dalam pada itu, orang-orang yang mempunyai pertalian kerabat, setengahnya lebih berhak atas setengahnya yang (lain) menurut (hukum) Kitab Allah; sesungguhnya Allah Maha Mengetahui akan tiap-tiap sesuatu.",
+      "id": "Dan orang-orang yang beriman sesudah itu kemudian berhijrah serta berjihad bersamamu maka orang-orang itu termasuk golonganmu (juga). Orang-orang yang mempunyai hubungan kerabat itu sebagiannya lebih berhak terhadap sesamanya (daripada yang bukan kerabat) di dalam kitab Allah. Sesungguhnya Allah Maha Mengetahui segala sesuatu.",
       "ar": "وَٱلَّذِینَ ءَامَنُوا۟ مِنۢ بَعۡدُ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ مَعَكُمۡ فَأُو۟لَـٰۤىِٕكَ مِنكُمۡۚ وَأُو۟لُوا۟ ٱلۡأَرۡحَامِ بَعۡضُهُمۡ أَوۡلَىٰ بِبَعۡضࣲ فِی كِتَـٰبِ ٱللَّهِۚ إِنَّ ٱللَّهَ بِكُلِّ شَیۡءٍ عَلِیمُۢ\n"
     }
   }

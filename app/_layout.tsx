@@ -2,14 +2,15 @@ import { Stack } from 'expo-router';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 import { StatusBar } from 'expo-status-bar';
-import { useEffect } from 'reacimport { AuthProvider } from '../contexts/AuthContext';
+import { useEffect } from 'react';
+import { AuthProvider } from '../contexts/AuthContext';
 import { AudioProvider } from '../contexts/AudioContext';
 import { LanguageProvider } from '../contexts/LanguageContext';
 import { ThemeProvider } from '../contexts/ThemeContext';
 import { SettingsProvider } from '../contexts/SettingsContext';
 import { LoadingProvider, GlobalLoadingOverlay } from '../contexts/LoadingContext';
 import AudioWidget from '../components/audio/AudioWidget';
-import { initializeNotifications, scheduleDailyRefresh } from '../services/notificationService';onService';
+import { initializeNotifications, scheduleDailyRefresh } from '../services/notificationService';
 
 function RootLayoutContent() {
   useEffect(() => {
@@ -17,7 +18,10 @@ function RootLayoutContent() {
     initializeNotifications();
     
     // Schedule daily refresh for prayer times
-    scheduleDailyRefresh();  return (
+    scheduleDailyRefresh();
+  }, []);
+
+  return (
     <>
       <StatusBar style="light" />
       <Stack screenOptions={{ headerShown: false }}>
@@ -27,15 +31,14 @@ function RootLayoutContent() {
       <AudioWidget />
       <GlobalLoadingOverlay />
     </>
-  );Widget />
-    </>
   );
 }
 
 export default function RootLayout() {
   return (
     <GestureHandlerRootView style={{ flex: 1 }}>
-             <ThemeProvider>
+      <SafeAreaProvider>
+        <ThemeProvider>
           <SettingsProvider>
             <LanguageProvider>
               <LoadingProvider>
@@ -47,9 +50,9 @@ export default function RootLayout() {
               </LoadingProvider>
             </LanguageProvider>
           </SettingsProvider>
-        </ThemeProvider>ider>
         </ThemeProvider>
       </SafeAreaProvider>
     </GestureHandlerRootView>
   );
 }
+
