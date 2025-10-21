@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6222,
+    "surahId": 112,
+    "ayahNumber": 1,
+    "arabicText": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ قُلۡ هُوَ ٱللَّهُ أَحَدٌ\n",
+    "translations": {
+      "en": "SAY: \"He is the One God:",
+      "ms": "",
+      "id": "",
+      "ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ قُلۡ هُوَ ٱللَّهُ أَحَدٌ\n"
+    }
+  },
+  {
+    "id": 6223,
+    "surahId": 112,
+    "ayahNumber": 2,
+    "arabicText": "ٱللَّهُ ٱلصَّمَدُ\n",
+    "translations": {
+      "en": "\"God the Eternal, the Uncaused Cause of All Being.",
+      "ms": "",
+      "id": "",
+      "ar": "ٱللَّهُ ٱلصَّمَدُ\n"
+    }
+  },
+  {
+    "id": 6224,
+    "surahId": 112,
+    "ayahNumber": 3,
+    "arabicText": "لَمۡ یَلِدۡ وَلَمۡ یُولَدۡ\n",
+    "translations": {
+      "en": "\"He begets not, and neither is He begotten;",
+      "ms": "",
+      "id": "",
+      "ar": "لَمۡ یَلِدۡ وَلَمۡ یُولَدۡ\n"
+    }
+  },
+  {
+    "id": 6225,
+    "surahId": 112,
+    "ayahNumber": 4,
+    "arabicText": "وَلَمۡ یَكُن لَّهُۥ كُفُوًا أَحَدُۢ\n",
+    "translations": {
+      "en": "\"and there is nothing that could be compared with Him.",
+      "ms": "",
+      "id": "",
+      "ar": "وَلَمۡ یَكُن لَّهُۥ كُفُوًا أَحَدُۢ\n"
+    }
+  }
+]

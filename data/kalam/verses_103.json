@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6177,
+    "surahId": 103,
+    "ayahNumber": 1,
+    "arabicText": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ وَٱلۡعَصۡرِ\n",
+    "translations": {
+      "en": "CONSIDER the flight of time!",
+      "ms": "",
+      "id": "",
+      "ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ وَٱلۡعَصۡرِ\n"
+    }
+  },
+  {
+    "id": 6178,
+    "surahId": 103,
+    "ayahNumber": 2,
+    "arabicText": "إِنَّ ٱلۡإِنسَـٰنَ لَفِی خُسۡرٍ\n",
+    "translations": {
+      "en": "Verily, man is bound to lose himself",
+      "ms": "",
+      "id": "",
+      "ar": "إِنَّ ٱلۡإِنسَـٰنَ لَفِی خُسۡرٍ\n"
+    }
+  },
+  {
+    "id": 6179,
+    "surahId": 103,
+    "ayahNumber": 3,
+    "arabicText": "إِلَّا ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوۡا۟ بِٱلۡحَقِّ وَتَوَاصَوۡا۟ بِٱلصَّبۡرِ\n",
+    "translations": {
+      "en": "unless he be of those who attain to faith, and do good works, and enjoin upon one another the keeping to truth, and enjoin upon one another patience in adversity.",
+      "ms": "",
+      "id": "",
+      "ar": "إِلَّا ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوۡا۟ بِٱلۡحَقِّ وَتَوَاصَوۡا۟ بِٱلصَّبۡرِ\n"
+    }
+  }
+]

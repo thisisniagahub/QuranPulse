@@ -1,0 +1,626 @@
+[
+  {
+    "id": 5324,
+    "surahId": 69,
+    "ayahNumber": 1,
+    "arabicText": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ ٱلۡحَاۤقَّةُ\n",
+    "translations": {
+      "en": "OH, THE LAYING-BARE of the truth!",
+      "ms": "",
+      "id": "",
+      "ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ ٱلۡحَاۤقَّةُ\n"
+    }
+  },
+  {
+    "id": 5325,
+    "surahId": 69,
+    "ayahNumber": 2,
+    "arabicText": "مَا ٱلۡحَاۤقَّةُ\n",
+    "translations": {
+      "en": "How awesome that laying-bare of the truth!",
+      "ms": "",
+      "id": "",
+      "ar": "مَا ٱلۡحَاۤقَّةُ\n"
+    }
+  },
+  {
+    "id": 5326,
+    "surahId": 69,
+    "ayahNumber": 3,
+    "arabicText": "وَمَاۤ أَدۡرَىٰكَ مَا ٱلۡحَاۤقَّةُ\n",
+    "translations": {
+      "en": "And what could make thee conceive what that laying-bare of the truth will be?",
+      "ms": "",
+      "id": "",
+      "ar": "وَمَاۤ أَدۡرَىٰكَ مَا ٱلۡحَاۤقَّةُ\n"
+    }
+  },
+  {
+    "id": 5327,
+    "surahId": 69,
+    "ayahNumber": 4,
+    "arabicText": "كَذَّبَتۡ ثَمُودُ وَعَادُۢ بِٱلۡقَارِعَةِ\n",
+    "translations": {
+      "en": "THE LIE gave [the tribes of] Thamud and ‘Ad to [all tidings of] that sudden calamity!",
+      "ms": "",
+      "id": "",
+      "ar": "كَذَّبَتۡ ثَمُودُ وَعَادُۢ بِٱلۡقَارِعَةِ\n"
+    }
+  },
+  {
+    "id": 5328,
+    "surahId": 69,
+    "ayahNumber": 5,
+    "arabicText": "فَأَمَّا ثَمُودُ فَأُهۡلِكُوا۟ بِٱلطَّاغِیَةِ\n",
+    "translations": {
+      "en": "Now as for the Thamud - they were destroyed by a violent upheaval [of the earth];",
+      "ms": "",
+      "id": "",
+      "ar": "فَأَمَّا ثَمُودُ فَأُهۡلِكُوا۟ بِٱلطَّاغِیَةِ\n"
+    }
+  },
+  {
+    "id": 5329,
+    "surahId": 69,
+    "ayahNumber": 6,
+    "arabicText": "وَأَمَّا عَادࣱ فَأُهۡلِكُوا۟ بِرِیحࣲ صَرۡصَرٍ عَاتِیَةࣲ\n",
+    "translations": {
+      "en": "and as for the ‘Ad - they were destroyed by a storm wind furiously raging,",
+      "ms": "",
+      "id": "",
+      "ar": "وَأَمَّا عَادࣱ فَأُهۡلِكُوا۟ بِرِیحࣲ صَرۡصَرٍ عَاتِیَةࣲ\n"
+    }
+  },
+  {
+    "id": 5330,
+    "surahId": 69,
+    "ayahNumber": 7,
+    "arabicText": "سَخَّرَهَا عَلَیۡهِمۡ سَبۡعَ لَیَالࣲ وَثَمَـٰنِیَةَ أَیَّامٍ حُسُومࣰاۖ فَتَرَى ٱلۡقَوۡمَ فِیهَا صَرۡعَىٰ كَأَنَّهُمۡ أَعۡجَازُ نَخۡلٍ خَاوِیَةࣲ\n",
+    "translations": {
+      "en": "which He willed against them for seven nights and eight days without cease, so that in the end thou couldst see those people laid low [in death], as though they were so many [uprooted] trunks of hollow palm trees:",
+      "ms": "",
+      "id": "",
+      "ar": "سَخَّرَهَا عَلَیۡهِمۡ سَبۡعَ لَیَالࣲ وَثَمَـٰنِیَةَ أَیَّامٍ حُسُومࣰاۖ فَتَرَى ٱلۡقَوۡمَ فِیهَا صَرۡعَىٰ كَأَنَّهُمۡ أَعۡجَازُ نَخۡلٍ خَاوِیَةࣲ\n"
+    }
+  },
+  {
+    "id": 5331,
+    "surahId": 69,
+    "ayahNumber": 8,
+    "arabicText": "فَهَلۡ تَرَىٰ لَهُم مِّنۢ بَاقِیَةࣲ\n",
+    "translations": {
+      "en": "and dost thou now see any remnant of them?",
+      "ms": "",
+      "id": "",
+      "ar": "فَهَلۡ تَرَىٰ لَهُم مِّنۢ بَاقِیَةࣲ\n"
+    }
+  },
+  {
+    "id": 5332,
+    "surahId": 69,
+    "ayahNumber": 9,
+    "arabicText": "وَجَاۤءَ فِرۡعَوۡنُ وَمَن قَبۡلَهُۥ وَٱلۡمُؤۡتَفِكَـٰتُ بِٱلۡخَاطِئَةِ\n",
+    "translations": {
+      "en": "And there was Pharaoh, too, and [many of] those who lived before him, and the cities that were overthrown - [all of them] indulged in sin upon sin",
+      "ms": "",
+      "id": "",
+      "ar": "وَجَاۤءَ فِرۡعَوۡنُ وَمَن قَبۡلَهُۥ وَٱلۡمُؤۡتَفِكَـٰتُ بِٱلۡخَاطِئَةِ\n"
+    }
+  },
+  {
+    "id": 5333,
+    "surahId": 69,
+    "ayahNumber": 10,
+    "arabicText": "فَعَصَوۡا۟ رَسُولَ رَبِّهِمۡ فَأَخَذَهُمۡ أَخۡذَةࣰ رَّابِیَةً\n",
+    "translations": {
+      "en": "and rebelled against their Sustainer's apostles: and so He took them to task with a punishing grasp exceedingly severe!",
+      "ms": "",
+      "id": "",
+      "ar": "فَعَصَوۡا۟ رَسُولَ رَبِّهِمۡ فَأَخَذَهُمۡ أَخۡذَةࣰ رَّابِیَةً\n"
+    }
+  },
+  {
+    "id": 5334,
+    "surahId": 69,
+    "ayahNumber": 11,
+    "arabicText": "إِنَّا لَمَّا طَغَا ٱلۡمَاۤءُ حَمَلۡنَـٰكُمۡ فِی ٱلۡجَارِیَةِ\n",
+    "translations": {
+      "en": "[And] behold: when the waters [of Noah's flood] burst beyond all limits, it was We who caused you to be borne [to safety] in that floating ark,",
+      "ms": "",
+      "id": "",
+      "ar": "إِنَّا لَمَّا طَغَا ٱلۡمَاۤءُ حَمَلۡنَـٰكُمۡ فِی ٱلۡجَارِیَةِ\n"
+    }
+  },
+  {
+    "id": 5335,
+    "surahId": 69,
+    "ayahNumber": 12,
+    "arabicText": "لِنَجۡعَلَهَا لَكُمۡ تَذۡكِرَةࣰ وَتَعِیَهَاۤ أُذُنࣱ وَ ٰ⁠عِیَةࣱ\n",
+    "translations": {
+      "en": "so that We might make all this a [lasting] reminder to you all, and that every wide-awake ear might consciously take it in.",
+      "ms": "",
+      "id": "",
+      "ar": "لِنَجۡعَلَهَا لَكُمۡ تَذۡكِرَةࣰ وَتَعِیَهَاۤ أُذُنࣱ وَ ٰ⁠عِیَةࣱ\n"
+    }
+  },
+  {
+    "id": 5336,
+    "surahId": 69,
+    "ayahNumber": 13,
+    "arabicText": "فَإِذَا نُفِخَ فِی ٱلصُّورِ نَفۡخَةࣱ وَ ٰ⁠حِدَةࣱ\n",
+    "translations": {
+      "en": "Hence, [bethink yourselves of the Last Hour,] when the trumpet [of judgment] shall be sounded with a single blast,",
+      "ms": "",
+      "id": "",
+      "ar": "فَإِذَا نُفِخَ فِی ٱلصُّورِ نَفۡخَةࣱ وَ ٰ⁠حِدَةࣱ\n"
+    }
+  },
+  {
+    "id": 5337,
+    "surahId": 69,
+    "ayahNumber": 14,
+    "arabicText": "وَحُمِلَتِ ٱلۡأَرۡضُ وَٱلۡجِبَالُ فَدُكَّتَا دَكَّةࣰ وَ ٰ⁠حِدَةࣰ\n",
+    "translations": {
+      "en": "and the earth and the mountains shall be lifted up and crushed with a single stroke!",
+      "ms": "",
+      "id": "",
+      "ar": "وَحُمِلَتِ ٱلۡأَرۡضُ وَٱلۡجِبَالُ فَدُكَّتَا دَكَّةࣰ وَ ٰ⁠حِدَةࣰ\n"
+    }
+  },
+  {
+    "id": 5338,
+    "surahId": 69,
+    "ayahNumber": 15,
+    "arabicText": "فَیَوۡمَىِٕذࣲ وَقَعَتِ ٱلۡوَاقِعَةُ\n",
+    "translations": {
+      "en": "And so, that which must come to pass will on that day have come to pass;",
+      "ms": "",
+      "id": "",
+      "ar": "فَیَوۡمَىِٕذࣲ وَقَعَتِ ٱلۡوَاقِعَةُ\n"
+    }
+  },
+  {
+    "id": 5339,
+    "surahId": 69,
+    "ayahNumber": 16,
+    "arabicText": "وَٱنشَقَّتِ ٱلسَّمَاۤءُ فَهِیَ یَوۡمَىِٕذࣲ وَاهِیَةࣱ\n",
+    "translations": {
+      "en": "and the sky will be rent asunder - for, frail will it have become on that Day -;",
+      "ms": "",
+      "id": "",
+      "ar": "وَٱنشَقَّتِ ٱلسَّمَاۤءُ فَهِیَ یَوۡمَىِٕذࣲ وَاهِیَةࣱ\n"
+    }
+  },
+  {
+    "id": 5340,
+    "surahId": 69,
+    "ayahNumber": 17,
+    "arabicText": "وَٱلۡمَلَكُ عَلَىٰۤ أَرۡجَاۤىِٕهَاۚ وَیَحۡمِلُ عَرۡشَ رَبِّكَ فَوۡقَهُمۡ یَوۡمَىِٕذࣲ ثَمَـٰنِیَةࣱ\n",
+    "translations": {
+      "en": "and the angels [will appear] at its ends, and, above them, eight will bear aloft on that Day the throne of thy Sustainer’s almightiness…",
+      "ms": "",
+      "id": "",
+      "ar": "وَٱلۡمَلَكُ عَلَىٰۤ أَرۡجَاۤىِٕهَاۚ وَیَحۡمِلُ عَرۡشَ رَبِّكَ فَوۡقَهُمۡ یَوۡمَىِٕذࣲ ثَمَـٰنِیَةࣱ\n"
+    }
+  },
+  {
+    "id": 5341,
+    "surahId": 69,
+    "ayahNumber": 18,
+    "arabicText": "یَوۡمَىِٕذࣲ تُعۡرَضُونَ لَا تَخۡفَىٰ مِنكُمۡ خَافِیَةࣱ\n",
+    "translations": {
+      "en": "On that Day you shall be brought to judgment: not [even] the most hidden of your deeds will remain hidden.",
+      "ms": "",
+      "id": "",
+      "ar": "یَوۡمَىِٕذࣲ تُعۡرَضُونَ لَا تَخۡفَىٰ مِنكُمۡ خَافِیَةࣱ\n"
+    }
+  },
+  {
+    "id": 5342,
+    "surahId": 69,
+    "ayahNumber": 19,
+    "arabicText": "فَأَمَّا مَنۡ أُوتِیَ كِتَـٰبَهُۥ بِیَمِینِهِۦ فَیَقُولُ هَاۤؤُمُ ٱقۡرَءُوا۟ كِتَـٰبِیَهۡ\n",
+    "translations": {
+      "en": "Now as for him whose record shall be placed in his right hand, he will exclaim: \"Come you all!\" Read this my record!",
+      "ms": "",
+      "id": "",
+      "ar": "فَأَمَّا مَنۡ أُوتِیَ كِتَـٰبَهُۥ بِیَمِینِهِۦ فَیَقُولُ هَاۤؤُمُ ٱقۡرَءُوا۟ كِتَـٰبِیَهۡ\n"
+    }
+  },
+  {
+    "id": 5343,
+    "surahId": 69,
+    "ayahNumber": 20,
+    "arabicText": "إِنِّی ظَنَنتُ أَنِّی مُلَـٰقٍ حِسَابِیَهۡ\n",
+    "translations": {
+      "en": "Behold, I did know that [one day] I would have to face my account!",
+      "ms": "",
+      "id": "",
+      "ar": "إِنِّی ظَنَنتُ أَنِّی مُلَـٰقٍ حِسَابِیَهۡ\n"
+    }
+  },
+  {
+    "id": 5344,
+    "surahId": 69,
+    "ayahNumber": 21,
+    "arabicText": "فَهُوَ فِی عِیشَةࣲ رَّاضِیَةࣲ\n",
+    "translations": {
+      "en": "And so he will find himself in a happy state of life,",
+      "ms": "",
+      "id": "",
+      "ar": "فَهُوَ فِی عِیشَةࣲ رَّاضِیَةࣲ\n"
+    }
+  },
+  {
+    "id": 5345,
+    "surahId": 69,
+    "ayahNumber": 22,
+    "arabicText": "فِی جَنَّةٍ عَالِیَةࣲ\n",
+    "translations": {
+      "en": "in a lofty paradise,",
+      "ms": "",
+      "id": "",
+      "ar": "فِی جَنَّةٍ عَالِیَةࣲ\n"
+    }
+  },
+  {
+    "id": 5346,
+    "surahId": 69,
+    "ayahNumber": 23,
+    "arabicText": "قُطُوفُهَا دَانِیَةࣱ\n",
+    "translations": {
+      "en": "with its fruits within easy reach.",
+      "ms": "",
+      "id": "",
+      "ar": "قُطُوفُهَا دَانِیَةࣱ\n"
+    }
+  },
+  {
+    "id": 5347,
+    "surahId": 69,
+    "ayahNumber": 24,
+    "arabicText": "كُلُوا۟ وَٱشۡرَبُوا۟ هَنِیۤـَٔۢا بِمَاۤ أَسۡلَفۡتُمۡ فِی ٱلۡأَیَّامِ ٱلۡخَالِیَةِ\n",
+    "translations": {
+      "en": "[And all who are thus blest will be told:] \"Eat and drink with good cheer in return for all [the good deeds] that you have sent ahead in days gone by!\"",
+      "ms": "",
+      "id": "",
+      "ar": "كُلُوا۟ وَٱشۡرَبُوا۟ هَنِیۤـَٔۢا بِمَاۤ أَسۡلَفۡتُمۡ فِی ٱلۡأَیَّامِ ٱلۡخَالِیَةِ\n"
+    }
+  },
+  {
+    "id": 5348,
+    "surahId": 69,
+    "ayahNumber": 25,
+    "arabicText": "وَأَمَّا مَنۡ أُوتِیَ كِتَـٰبَهُۥ بِشِمَالِهِۦ فَیَقُولُ یَـٰلَیۡتَنِی لَمۡ أُوتَ كِتَـٰبِیَهۡ\n",
+    "translations": {
+      "en": "But as for him whose record shall be placed in his left hand, he will exclaim: \"Oh, would that I had never been shown this my record,",
+      "ms": "",
+      "id": "",
+      "ar": "وَأَمَّا مَنۡ أُوتِیَ كِتَـٰبَهُۥ بِشِمَالِهِۦ فَیَقُولُ یَـٰلَیۡتَنِی لَمۡ أُوتَ كِتَـٰبِیَهۡ\n"
+    }
+  },
+  {
+    "id": 5349,
+    "surahId": 69,
+    "ayahNumber": 26,
+    "arabicText": "وَلَمۡ أَدۡرِ مَا حِسَابِیَهۡ\n",
+    "translations": {
+      "en": "and neither known this my account!",
+      "ms": "",
+      "id": "",
+      "ar": "وَلَمۡ أَدۡرِ مَا حِسَابِیَهۡ\n"
+    }
+  },
+  {
+    "id": 5350,
+    "surahId": 69,
+    "ayahNumber": 27,
+    "arabicText": "یَـٰلَیۡتَهَا كَانَتِ ٱلۡقَاضِیَةَ\n",
+    "translations": {
+      "en": "Oh, would that this [death of mine] had been the end of me!",
+      "ms": "",
+      "id": "",
+      "ar": "یَـٰلَیۡتَهَا كَانَتِ ٱلۡقَاضِیَةَ\n"
+    }
+  },
+  {
+    "id": 5351,
+    "surahId": 69,
+    "ayahNumber": 28,
+    "arabicText": "مَاۤ أَغۡنَىٰ عَنِّی مَالِیَهۡۜ\n",
+    "translations": {
+      "en": "Of no avail to me is all that I have [ever] possessed,",
+      "ms": "",
+      "id": "",
+      "ar": "مَاۤ أَغۡنَىٰ عَنِّی مَالِیَهۡۜ\n"
+    }
+  },
+  {
+    "id": 5352,
+    "surahId": 69,
+    "ayahNumber": 29,
+    "arabicText": "هَلَكَ عَنِّی سُلۡطَـٰنِیَهۡ\n",
+    "translations": {
+      "en": "[and] all my power of argument has died away from me!\"",
+      "ms": "",
+      "id": "",
+      "ar": "هَلَكَ عَنِّی سُلۡطَـٰنِیَهۡ\n"
+    }
+  },
+  {
+    "id": 5353,
+    "surahId": 69,
+    "ayahNumber": 30,
+    "arabicText": "خُذُوهُ فَغُلُّوهُ\n",
+    "translations": {
+      "en": "Thereupon the command will go forth:] \"Lay hold of him, and shackle him,",
+      "ms": "",
+      "id": "",
+      "ar": "خُذُوهُ فَغُلُّوهُ\n"
+    }
+  },
+  {
+    "id": 5354,
+    "surahId": 69,
+    "ayahNumber": 31,
+    "arabicText": "ثُمَّ ٱلۡجَحِیمَ صَلُّوهُ\n",
+    "translations": {
+      "en": "and then let him enter hell,",
+      "ms": "",
+      "id": "",
+      "ar": "ثُمَّ ٱلۡجَحِیمَ صَلُّوهُ\n"
+    }
+  },
+  {
+    "id": 5355,
+    "surahId": 69,
+    "ayahNumber": 32,
+    "arabicText": "ثُمَّ فِی سِلۡسِلَةࣲ ذَرۡعُهَا سَبۡعُونَ ذِرَاعࣰا فَٱسۡلُكُوهُ\n",
+    "translations": {
+      "en": "and then thrust him into a chain [of other sinners like him - a chain] the length whereof is seventy cubits:",
+      "ms": "",
+      "id": "",
+      "ar": "ثُمَّ فِی سِلۡسِلَةࣲ ذَرۡعُهَا سَبۡعُونَ ذِرَاعࣰا فَٱسۡلُكُوهُ\n"
+    }
+  },
+  {
+    "id": 5356,
+    "surahId": 69,
+    "ayahNumber": 33,
+    "arabicText": "إِنَّهُۥ كَانَ لَا یُؤۡمِنُ بِٱللَّهِ ٱلۡعَظِیمِ\n",
+    "translations": {
+      "en": "for, behold, he did not believe in God, the Tremendous,",
+      "ms": "",
+      "id": "",
+      "ar": "إِنَّهُۥ كَانَ لَا یُؤۡمِنُ بِٱللَّهِ ٱلۡعَظِیمِ\n"
+    }
+  },
+  {
+    "id": 5357,
+    "surahId": 69,
+    "ayahNumber": 34,
+    "arabicText": "وَلَا یَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِینِ\n",
+    "translations": {
+      "en": "and did not feel any urge to feed the needy:",
+      "ms": "",
+      "id": "",
+      "ar": "وَلَا یَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِینِ\n"
+    }
+  },
+  {
+    "id": 5358,
+    "surahId": 69,
+    "ayahNumber": 35,
+    "arabicText": "فَلَیۡسَ لَهُ ٱلۡیَوۡمَ هَـٰهُنَا حَمِیمࣱ\n",
+    "translations": {
+      "en": "and so, no friend has here today,",
+      "ms": "",
+      "id": "",
+      "ar": "فَلَیۡسَ لَهُ ٱلۡیَوۡمَ هَـٰهُنَا حَمِیمࣱ\n"
+    }
+  },
+  {
+    "id": 5359,
+    "surahId": 69,
+    "ayahNumber": 36,
+    "arabicText": "وَلَا طَعَامٌ إِلَّا مِنۡ غِسۡلِینࣲ\n",
+    "translations": {
+      "en": "nor any food save the filth",
+      "ms": "",
+      "id": "",
+      "ar": "وَلَا طَعَامٌ إِلَّا مِنۡ غِسۡلِینࣲ\n"
+    }
+  },
+  {
+    "id": 5360,
+    "surahId": 69,
+    "ayahNumber": 37,
+    "arabicText": "لَّا یَأۡكُلُهُۥۤ إِلَّا ٱلۡخَـٰطِـُٔونَ\n",
+    "translations": {
+      "en": "which none but the sinners eat!\"",
+      "ms": "",
+      "id": "",
+      "ar": "لَّا یَأۡكُلُهُۥۤ إِلَّا ٱلۡخَـٰطِـُٔونَ\n"
+    }
+  },
+  {
+    "id": 5361,
+    "surahId": 69,
+    "ayahNumber": 38,
+    "arabicText": "فَلَاۤ أُقۡسِمُ بِمَا تُبۡصِرُونَ\n",
+    "translations": {
+      "en": "BUT NAY! I call to witness an that you can see,",
+      "ms": "",
+      "id": "",
+      "ar": "فَلَاۤ أُقۡسِمُ بِمَا تُبۡصِرُونَ\n"
+    }
+  },
+  {
+    "id": 5362,
+    "surahId": 69,
+    "ayahNumber": 39,
+    "arabicText": "وَمَا لَا تُبۡصِرُونَ\n",
+    "translations": {
+      "en": "as well as all that you cannot see!",
+      "ms": "",
+      "id": "",
+      "ar": "وَمَا لَا تُبۡصِرُونَ\n"
+    }
+  },
+  {
+    "id": 5363,
+    "surahId": 69,
+    "ayahNumber": 40,
+    "arabicText": "إِنَّهُۥ لَقَوۡلُ رَسُولࣲ كَرِیمࣲ\n",
+    "translations": {
+      "en": "Behold, this [Qur’an] is indeed the [inspired] word of a noble apostle,",
+      "ms": "",
+      "id": "",
+      "ar": "إِنَّهُۥ لَقَوۡلُ رَسُولࣲ كَرِیمࣲ\n"
+    }
+  },
+  {
+    "id": 5364,
+    "surahId": 69,
+    "ayahNumber": 41,
+    "arabicText": "وَمَا هُوَ بِقَوۡلِ شَاعِرࣲۚ قَلِیلࣰا مَّا تُؤۡمِنُونَ\n",
+    "translations": {
+      "en": "and is not – however little you may [be prepared to] believe it - the word of a poet;",
+      "ms": "",
+      "id": "",
+      "ar": "وَمَا هُوَ بِقَوۡلِ شَاعِرࣲۚ قَلِیلࣰا مَّا تُؤۡمِنُونَ\n"
+    }
+  },
+  {
+    "id": 5365,
+    "surahId": 69,
+    "ayahNumber": 42,
+    "arabicText": "وَلَا بِقَوۡلِ كَاهِنࣲۚ قَلِیلࣰا مَّا تَذَكَّرُونَ\n",
+    "translations": {
+      "en": "and neither is it - however little you may [be prepared to] take it to heart - the word of a soothsayer:",
+      "ms": "",
+      "id": "",
+      "ar": "وَلَا بِقَوۡلِ كَاهِنࣲۚ قَلِیلࣰا مَّا تَذَكَّرُونَ\n"
+    }
+  },
+  {
+    "id": 5366,
+    "surahId": 69,
+    "ayahNumber": 43,
+    "arabicText": "تَنزِیلࣱ مِّن رَّبِّ ٱلۡعَـٰلَمِینَ\n",
+    "translations": {
+      "en": "[it is] a revelation from the Sustainer of all the worlds.",
+      "ms": "",
+      "id": "",
+      "ar": "تَنزِیلࣱ مِّن رَّبِّ ٱلۡعَـٰلَمِینَ\n"
+    }
+  },
+  {
+    "id": 5367,
+    "surahId": 69,
+    "ayahNumber": 44,
+    "arabicText": "وَلَوۡ تَقَوَّلَ عَلَیۡنَا بَعۡضَ ٱلۡأَقَاوِیلِ\n",
+    "translations": {
+      "en": "Now if he [whom We have entrusted with it] had dared to attribute some [of his own] sayings unto Us,",
+      "ms": "",
+      "id": "",
+      "ar": "وَلَوۡ تَقَوَّلَ عَلَیۡنَا بَعۡضَ ٱلۡأَقَاوِیلِ\n"
+    }
+  },
+  {
+    "id": 5368,
+    "surahId": 69,
+    "ayahNumber": 45,
+    "arabicText": "لَأَخَذۡنَا مِنۡهُ بِٱلۡیَمِینِ\n",
+    "translations": {
+      "en": "We would indeed have seized him by his right hand,",
+      "ms": "",
+      "id": "",
+      "ar": "لَأَخَذۡنَا مِنۡهُ بِٱلۡیَمِینِ\n"
+    }
+  },
+  {
+    "id": 5369,
+    "surahId": 69,
+    "ayahNumber": 46,
+    "arabicText": "ثُمَّ لَقَطَعۡنَا مِنۡهُ ٱلۡوَتِینَ\n",
+    "translations": {
+      "en": "and would indeed have cut his life-vein.",
+      "ms": "",
+      "id": "",
+      "ar": "ثُمَّ لَقَطَعۡنَا مِنۡهُ ٱلۡوَتِینَ\n"
+    }
+  },
+  {
+    "id": 5370,
+    "surahId": 69,
+    "ayahNumber": 47,
+    "arabicText": "فَمَا مِنكُم مِّنۡ أَحَدٍ عَنۡهُ حَـٰجِزِینَ\n",
+    "translations": {
+      "en": "and none of you could have saved him!",
+      "ms": "",
+      "id": "",
+      "ar": "فَمَا مِنكُم مِّنۡ أَحَدٍ عَنۡهُ حَـٰجِزِینَ\n"
+    }
+  },
+  {
+    "id": 5371,
+    "surahId": 69,
+    "ayahNumber": 48,
+    "arabicText": "وَإِنَّهُۥ لَتَذۡكِرَةࣱ لِّلۡمُتَّقِینَ\n",
+    "translations": {
+      "en": "And, verily, this [Qur’an] is a reminder to all the God-conscious!",
+      "ms": "",
+      "id": "",
+      "ar": "وَإِنَّهُۥ لَتَذۡكِرَةࣱ لِّلۡمُتَّقِینَ\n"
+    }
+  },
+  {
+    "id": 5372,
+    "surahId": 69,
+    "ayahNumber": 49,
+    "arabicText": "وَإِنَّا لَنَعۡلَمُ أَنَّ مِنكُم مُّكَذِّبِینَ\n",
+    "translations": {
+      "en": "And, behold, well do We know that among you are such as will give the lie to it:",
+      "ms": "",
+      "id": "",
+      "ar": "وَإِنَّا لَنَعۡلَمُ أَنَّ مِنكُم مُّكَذِّبِینَ\n"
+    }
+  },
+  {
+    "id": 5373,
+    "surahId": 69,
+    "ayahNumber": 50,
+    "arabicText": "وَإِنَّهُۥ لَحَسۡرَةٌ عَلَى ٱلۡكَـٰفِرِینَ\n",
+    "translations": {
+      "en": "yet, behold, this [rejection] will indeed become a source of bitter regret for all who deny the truth [of God's revelation] –",
+      "ms": "",
+      "id": "",
+      "ar": "وَإِنَّهُۥ لَحَسۡرَةٌ عَلَى ٱلۡكَـٰفِرِینَ\n"
+    }
+  },
+  {
+    "id": 5374,
+    "surahId": 69,
+    "ayahNumber": 51,
+    "arabicText": "وَإِنَّهُۥ لَحَقُّ ٱلۡیَقِینِ\n",
+    "translations": {
+      "en": "for, verily, it is truth absolute!",
+      "ms": "",
+      "id": "",
+      "ar": "وَإِنَّهُۥ لَحَقُّ ٱلۡیَقِینِ\n"
+    }
+  },
+  {
+    "id": 5375,
+    "surahId": 69,
+    "ayahNumber": 52,
+    "arabicText": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِیمِ\n",
+    "translations": {
+      "en": "Extol, then the limitless glory of thy Sustainer's mighty name!",
+      "ms": "",
+      "id": "",
+      "ar": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِیمِ\n"
+    }
+  }
+]

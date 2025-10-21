@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Downloads\\Al-Quran-Mobile-Merged\\logs\\.e4cb2c2263ce8a62131e55ab6a8f730c38336b4f-audit.json",
+    "files": [
+        {
+            "date": 1760802646671,
+            "name": "D:\\Downloads\\Al-Quran-Mobile-Merged\\logs\\mcp-puppeteer-2025-10-18.log",
+            "hash": "af85aad4290596d498361a1f694d740eead58f4da61e551eda6667ee9adb4c47"
+        },
+        {
+            "date": 1760888760000,
+            "name": "D:\\Downloads\\Al-Quran-Mobile-Merged\\logs\\mcp-puppeteer-2025-10-19.log",
+            "hash": "35abc10888a92c5a38a58f64041b8826c55723aa0d7cc54de151927cc94c66e1"
+        }
+    ],
+    "hashType": "sha256"
+}

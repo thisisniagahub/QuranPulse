@@ -1,0 +1,602 @@
+[
+  {
+    "id": 5623,
+    "surahId": 77,
+    "ayahNumber": 1,
+    "arabicText": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ وَٱلۡمُرۡسَلَـٰتِ عُرۡفࣰا\n",
+    "translations": {
+      "en": "CONSIDER these [messages,] sent forth in waves",
+      "ms": "",
+      "id": "",
+      "ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ وَٱلۡمُرۡسَلَـٰتِ عُرۡفࣰا\n"
+    }
+  },
+  {
+    "id": 5624,
+    "surahId": 77,
+    "ayahNumber": 2,
+    "arabicText": "فَٱلۡعَـٰصِفَـٰتِ عَصۡفࣰا\n",
+    "translations": {
+      "en": "and then storming on with a tempest's force!",
+      "ms": "",
+      "id": "",
+      "ar": "فَٱلۡعَـٰصِفَـٰتِ عَصۡفࣰا\n"
+    }
+  },
+  {
+    "id": 5625,
+    "surahId": 77,
+    "ayahNumber": 3,
+    "arabicText": "وَٱلنَّـٰشِرَ ٰ⁠تِ نَشۡرࣰا\n",
+    "translations": {
+      "en": "Consider these [messages] that spread [the truth] far and wide,",
+      "ms": "",
+      "id": "",
+      "ar": "وَٱلنَّـٰشِرَ ٰ⁠تِ نَشۡرࣰا\n"
+    }
+  },
+  {
+    "id": 5626,
+    "surahId": 77,
+    "ayahNumber": 4,
+    "arabicText": "فَٱلۡفَـٰرِقَـٰتِ فَرۡقࣰا\n",
+    "translations": {
+      "en": "thus separating [right and wrong] with all clarity,",
+      "ms": "",
+      "id": "",
+      "ar": "فَٱلۡفَـٰرِقَـٰتِ فَرۡقࣰا\n"
+    }
+  },
+  {
+    "id": 5627,
+    "surahId": 77,
+    "ayahNumber": 5,
+    "arabicText": "فَٱلۡمُلۡقِیَـٰتِ ذِكۡرًا\n",
+    "translations": {
+      "en": "and then giving forth a reminder,",
+      "ms": "",
+      "id": "",
+      "ar": "فَٱلۡمُلۡقِیَـٰتِ ذِكۡرًا\n"
+    }
+  },
+  {
+    "id": 5628,
+    "surahId": 77,
+    "ayahNumber": 6,
+    "arabicText": "عُذۡرًا أَوۡ نُذۡرًا\n",
+    "translations": {
+      "en": "[promising] freedom from blame or [offering] a warning!",
+      "ms": "",
+      "id": "",
+      "ar": "عُذۡرًا أَوۡ نُذۡرًا\n"
+    }
+  },
+  {
+    "id": 5629,
+    "surahId": 77,
+    "ayahNumber": 7,
+    "arabicText": "إِنَّمَا تُوعَدُونَ لَوَ ٰ⁠قِعࣱ\n",
+    "translations": {
+      "en": "BEHOLD, all that you are told to expect will surely come to pass.",
+      "ms": "",
+      "id": "",
+      "ar": "إِنَّمَا تُوعَدُونَ لَوَ ٰ⁠قِعࣱ\n"
+    }
+  },
+  {
+    "id": 5630,
+    "surahId": 77,
+    "ayahNumber": 8,
+    "arabicText": "فَإِذَا ٱلنُّجُومُ طُمِسَتۡ\n",
+    "translations": {
+      "en": "Thus, [it will come to pass] when the stars are effaced,",
+      "ms": "",
+      "id": "",
+      "ar": "فَإِذَا ٱلنُّجُومُ طُمِسَتۡ\n"
+    }
+  },
+  {
+    "id": 5631,
+    "surahId": 77,
+    "ayahNumber": 9,
+    "arabicText": "وَإِذَا ٱلسَّمَاۤءُ فُرِجَتۡ\n",
+    "translations": {
+      "en": "and when the sky is rent asunder,",
+      "ms": "",
+      "id": "",
+      "ar": "وَإِذَا ٱلسَّمَاۤءُ فُرِجَتۡ\n"
+    }
+  },
+  {
+    "id": 5632,
+    "surahId": 77,
+    "ayahNumber": 10,
+    "arabicText": "وَإِذَا ٱلۡجِبَالُ نُسِفَتۡ\n",
+    "translations": {
+      "en": "and when the mountains are scattered like dust,",
+      "ms": "",
+      "id": "",
+      "ar": "وَإِذَا ٱلۡجِبَالُ نُسِفَتۡ\n"
+    }
+  },
+  {
+    "id": 5633,
+    "surahId": 77,
+    "ayahNumber": 11,
+    "arabicText": "وَإِذَا ٱلرُّسُلُ أُقِّتَتۡ\n",
+    "translations": {
+      "en": "and when all the apostles are called together at a time appointed...",
+      "ms": "",
+      "id": "",
+      "ar": "وَإِذَا ٱلرُّسُلُ أُقِّتَتۡ\n"
+    }
+  },
+  {
+    "id": 5634,
+    "surahId": 77,
+    "ayahNumber": 12,
+    "arabicText": "لِأَیِّ یَوۡمٍ أُجِّلَتۡ\n",
+    "translations": {
+      "en": "For what day has the term [of all this] been set?",
+      "ms": "",
+      "id": "",
+      "ar": "لِأَیِّ یَوۡمٍ أُجِّلَتۡ\n"
+    }
+  },
+  {
+    "id": 5635,
+    "surahId": 77,
+    "ayahNumber": 13,
+    "arabicText": "لِیَوۡمِ ٱلۡفَصۡلِ\n",
+    "translations": {
+      "en": "For the Day of Distinction [between the true and the false]!",
+      "ms": "",
+      "id": "",
+      "ar": "لِیَوۡمِ ٱلۡفَصۡلِ\n"
+    }
+  },
+  {
+    "id": 5636,
+    "surahId": 77,
+    "ayahNumber": 14,
+    "arabicText": "وَمَاۤ أَدۡرَىٰكَ مَا یَوۡمُ ٱلۡفَصۡلِ\n",
+    "translations": {
+      "en": "And what could make thee conceive what that Day of Distinction will be?",
+      "ms": "",
+      "id": "",
+      "ar": "وَمَاۤ أَدۡرَىٰكَ مَا یَوۡمُ ٱلۡفَصۡلِ\n"
+    }
+  },
+  {
+    "id": 5637,
+    "surahId": 77,
+    "ayahNumber": 15,
+    "arabicText": "وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ\n",
+    "translations": {
+      "en": "Woe on that Day unto those who give the lie to the truth!",
+      "ms": "",
+      "id": "",
+      "ar": "وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ\n"
+    }
+  },
+  {
+    "id": 5638,
+    "surahId": 77,
+    "ayahNumber": 16,
+    "arabicText": "أَلَمۡ نُهۡلِكِ ٱلۡأَوَّلِینَ\n",
+    "translations": {
+      "en": "Did We not destroy [so many of] those [sinners] of olden days?",
+      "ms": "",
+      "id": "",
+      "ar": "أَلَمۡ نُهۡلِكِ ٱلۡأَوَّلِینَ\n"
+    }
+  },
+  {
+    "id": 5639,
+    "surahId": 77,
+    "ayahNumber": 17,
+    "arabicText": "ثُمَّ نُتۡبِعُهُمُ ٱلۡـَٔاخِرِینَ\n",
+    "translations": {
+      "en": "And We shall let them be followed by those of later times:",
+      "ms": "",
+      "id": "",
+      "ar": "ثُمَّ نُتۡبِعُهُمُ ٱلۡـَٔاخِرِینَ\n"
+    }
+  },
+  {
+    "id": 5640,
+    "surahId": 77,
+    "ayahNumber": 18,
+    "arabicText": "كَذَ ٰ⁠لِكَ نَفۡعَلُ بِٱلۡمُجۡرِمِینَ\n",
+    "translations": {
+      "en": "[for] thus do We deal with such as are lost in sin.",
+      "ms": "",
+      "id": "",
+      "ar": "كَذَ ٰ⁠لِكَ نَفۡعَلُ بِٱلۡمُجۡرِمِینَ\n"
+    }
+  },
+  {
+    "id": 5641,
+    "surahId": 77,
+    "ayahNumber": 19,
+    "arabicText": "وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ\n",
+    "translations": {
+      "en": "Woe on that Day unto those who give the lie to the truth!",
+      "ms": "",
+      "id": "",
+      "ar": "وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ\n"
+    }
+  },
+  {
+    "id": 5642,
+    "surahId": 77,
+    "ayahNumber": 20,
+    "arabicText": "أَلَمۡ نَخۡلُقكُّم مِّن مَّاۤءࣲ مَّهِینࣲ\n",
+    "translations": {
+      "en": "Did We not create you out of a humble fluid",
+      "ms": "",
+      "id": "",
+      "ar": "أَلَمۡ نَخۡلُقكُّم مِّن مَّاۤءࣲ مَّهِینࣲ\n"
+    }
+  },
+  {
+    "id": 5643,
+    "surahId": 77,
+    "ayahNumber": 21,
+    "arabicText": "فَجَعَلۡنَـٰهُ فِی قَرَارࣲ مَّكِینٍ\n",
+    "translations": {
+      "en": "which We then let remain in [the womb's] firm keeping",
+      "ms": "",
+      "id": "",
+      "ar": "فَجَعَلۡنَـٰهُ فِی قَرَارࣲ مَّكِینٍ\n"
+    }
+  },
+  {
+    "id": 5644,
+    "surahId": 77,
+    "ayahNumber": 22,
+    "arabicText": "إِلَىٰ قَدَرࣲ مَّعۡلُومࣲ\n",
+    "translations": {
+      "en": "for a term pre-ordained?",
+      "ms": "",
+      "id": "",
+      "ar": "إِلَىٰ قَدَرࣲ مَّعۡلُومࣲ\n"
+    }
+  },
+  {
+    "id": 5645,
+    "surahId": 77,
+    "ayahNumber": 23,
+    "arabicText": "فَقَدَرۡنَا فَنِعۡمَ ٱلۡقَـٰدِرُونَ\n",
+    "translations": {
+      "en": "Thus have We determined [the nature of man's creation]: and excellent indeed is Our power to determine [what is to be]!",
+      "ms": "",
+      "id": "",
+      "ar": "فَقَدَرۡنَا فَنِعۡمَ ٱلۡقَـٰدِرُونَ\n"
+    }
+  },
+  {
+    "id": 5646,
+    "surahId": 77,
+    "ayahNumber": 24,
+    "arabicText": "وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ\n",
+    "translations": {
+      "en": "Woe, on that Day unto those who give the lie to the truth!",
+      "ms": "",
+      "id": "",
+      "ar": "وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ\n"
+    }
+  },
+  {
+    "id": 5647,
+    "surahId": 77,
+    "ayahNumber": 25,
+    "arabicText": "أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ كِفَاتًا\n",
+    "translations": {
+      "en": "Have We not caused the earth to hold within itself",
+      "ms": "",
+      "id": "",
+      "ar": "أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ كِفَاتًا\n"
+    }
+  },
+  {
+    "id": 5648,
+    "surahId": 77,
+    "ayahNumber": 26,
+    "arabicText": "أَحۡیَاۤءࣰ وَأَمۡوَ ٰ⁠تࣰا\n",
+    "translations": {
+      "en": "the living and the dead?",
+      "ms": "",
+      "id": "",
+      "ar": "أَحۡیَاۤءࣰ وَأَمۡوَ ٰ⁠تࣰا\n"
+    }
+  },
+  {
+    "id": 5649,
+    "surahId": 77,
+    "ayahNumber": 27,
+    "arabicText": "وَجَعَلۡنَا فِیهَا رَوَ ٰ⁠سِیَ شَـٰمِخَـٰتࣲ وَأَسۡقَیۡنَـٰكُم مَّاۤءࣰ فُرَاتࣰا\n",
+    "translations": {
+      "en": "and have We not set on it proud, firm mountains, and given you sweet water to drink?",
+      "ms": "",
+      "id": "",
+      "ar": "وَجَعَلۡنَا فِیهَا رَوَ ٰ⁠سِیَ شَـٰمِخَـٰتࣲ وَأَسۡقَیۡنَـٰكُم مَّاۤءࣰ فُرَاتࣰا\n"
+    }
+  },
+  {
+    "id": 5650,
+    "surahId": 77,
+    "ayahNumber": 28,
+    "arabicText": "وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ\n",
+    "translations": {
+      "en": "Woe on that Day unto those who give the lie to the truth!",
+      "ms": "",
+      "id": "",
+      "ar": "وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ\n"
+    }
+  },
+  {
+    "id": 5651,
+    "surahId": 77,
+    "ayahNumber": 29,
+    "arabicText": "ٱنطَلِقُوۤا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ\n",
+    "translations": {
+      "en": "GO ON towards that [resurrection] which you were wont to call a lie!",
+      "ms": "",
+      "id": "",
+      "ar": "ٱنطَلِقُوۤا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ\n"
+    }
+  },
+  {
+    "id": 5652,
+    "surahId": 77,
+    "ayahNumber": 30,
+    "arabicText": "ٱنطَلِقُوۤا۟ إِلَىٰ ظِلࣲّ ذِی ثَلَـٰثِ شُعَبࣲ\n",
+    "translations": {
+      "en": "Go on towards the threefold shadow",
+      "ms": "",
+      "id": "",
+      "ar": "ٱنطَلِقُوۤا۟ إِلَىٰ ظِلࣲّ ذِی ثَلَـٰثِ شُعَبࣲ\n"
+    }
+  },
+  {
+    "id": 5653,
+    "surahId": 77,
+    "ayahNumber": 31,
+    "arabicText": "لَّا ظَلِیلࣲ وَلَا یُغۡنِی مِنَ ٱللَّهَبِ\n",
+    "translations": {
+      "en": "that will offer no [cooling] shade and will be of no avail against the flame",
+      "ms": "",
+      "id": "",
+      "ar": "لَّا ظَلِیلࣲ وَلَا یُغۡنِی مِنَ ٱللَّهَبِ\n"
+    }
+  },
+  {
+    "id": 5654,
+    "surahId": 77,
+    "ayahNumber": 32,
+    "arabicText": "إِنَّهَا تَرۡمِی بِشَرَرࣲ كَٱلۡقَصۡرِ\n",
+    "translations": {
+      "en": "which – behold!- will throw up sparks like [burning] logs,",
+      "ms": "",
+      "id": "",
+      "ar": "إِنَّهَا تَرۡمِی بِشَرَرࣲ كَٱلۡقَصۡرِ\n"
+    }
+  },
+  {
+    "id": 5655,
+    "surahId": 77,
+    "ayahNumber": 33,
+    "arabicText": "كَأَنَّهُۥ جِمَـٰلَتࣱ صُفۡرࣱ\n",
+    "translations": {
+      "en": "like giant fiery ropes!",
+      "ms": "",
+      "id": "",
+      "ar": "كَأَنَّهُۥ جِمَـٰلَتࣱ صُفۡرࣱ\n"
+    }
+  },
+  {
+    "id": 5656,
+    "surahId": 77,
+    "ayahNumber": 34,
+    "arabicText": "وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ\n",
+    "translations": {
+      "en": "Woe on that Day unto those who give the lie to the truth –",
+      "ms": "",
+      "id": "",
+      "ar": "وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ\n"
+    }
+  },
+  {
+    "id": 5657,
+    "surahId": 77,
+    "ayahNumber": 35,
+    "arabicText": "هَـٰذَا یَوۡمُ لَا یَنطِقُونَ\n",
+    "translations": {
+      "en": "that Day on which they will not [be able to] utter a word,",
+      "ms": "",
+      "id": "",
+      "ar": "هَـٰذَا یَوۡمُ لَا یَنطِقُونَ\n"
+    }
+  },
+  {
+    "id": 5658,
+    "surahId": 77,
+    "ayahNumber": 36,
+    "arabicText": "وَلَا یُؤۡذَنُ لَهُمۡ فَیَعۡتَذِرُونَ\n",
+    "translations": {
+      "en": "nor be allowed to proffer excuses!",
+      "ms": "",
+      "id": "",
+      "ar": "وَلَا یُؤۡذَنُ لَهُمۡ فَیَعۡتَذِرُونَ\n"
+    }
+  },
+  {
+    "id": 5659,
+    "surahId": 77,
+    "ayahNumber": 37,
+    "arabicText": "وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ\n",
+    "translations": {
+      "en": "Woe on that Day unto those who give the lie to the truth –",
+      "ms": "",
+      "id": "",
+      "ar": "وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ\n"
+    }
+  },
+  {
+    "id": 5660,
+    "surahId": 77,
+    "ayahNumber": 38,
+    "arabicText": "هَـٰذَا یَوۡمُ ٱلۡفَصۡلِۖ جَمَعۡنَـٰكُمۡ وَٱلۡأَوَّلِینَ\n",
+    "translations": {
+      "en": "that Day of Distinction [between the true and the false, when they will be told]: \"We have brought you together with those [sinners] of olden times;",
+      "ms": "",
+      "id": "",
+      "ar": "هَـٰذَا یَوۡمُ ٱلۡفَصۡلِۖ جَمَعۡنَـٰكُمۡ وَٱلۡأَوَّلِینَ\n"
+    }
+  },
+  {
+    "id": 5661,
+    "surahId": 77,
+    "ayahNumber": 39,
+    "arabicText": "فَإِن كَانَ لَكُمۡ كَیۡدࣱ فَكِیدُونِ\n",
+    "translations": {
+      "en": "and if you [think that you] have a subterfuge left, try to outwit Me!\"",
+      "ms": "",
+      "id": "",
+      "ar": "فَإِن كَانَ لَكُمۡ كَیۡدࣱ فَكِیدُونِ\n"
+    }
+  },
+  {
+    "id": 5662,
+    "surahId": 77,
+    "ayahNumber": 40,
+    "arabicText": "وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ\n",
+    "translations": {
+      "en": "Woe on that Day unto those who give the lie to the truth!",
+      "ms": "",
+      "id": "",
+      "ar": "وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ\n"
+    }
+  },
+  {
+    "id": 5663,
+    "surahId": 77,
+    "ayahNumber": 41,
+    "arabicText": "إِنَّ ٱلۡمُتَّقِینَ فِی ظِلَـٰلࣲ وَعُیُونࣲ\n",
+    "translations": {
+      "en": "[AS AGAINST this,] behold, the God-conscious shall dwell amidst [cooling] shades and springs,",
+      "ms": "",
+      "id": "",
+      "ar": "إِنَّ ٱلۡمُتَّقِینَ فِی ظِلَـٰلࣲ وَعُیُونࣲ\n"
+    }
+  },
+  {
+    "id": 5664,
+    "surahId": 77,
+    "ayahNumber": 42,
+    "arabicText": "وَفَوَ ٰ⁠كِهَ مِمَّا یَشۡتَهُونَ\n",
+    "translations": {
+      "en": "and [partake of] whatever fruit they may desire;",
+      "ms": "",
+      "id": "",
+      "ar": "وَفَوَ ٰ⁠كِهَ مِمَّا یَشۡتَهُونَ\n"
+    }
+  },
+  {
+    "id": 5665,
+    "surahId": 77,
+    "ayahNumber": 43,
+    "arabicText": "كُلُوا۟ وَٱشۡرَبُوا۟ هَنِیۤـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ\n",
+    "translations": {
+      "en": "[and they will be told:] \"Eat and drink in good cheer in return for what you did [in life]!\"",
+      "ms": "",
+      "id": "",
+      "ar": "كُلُوا۟ وَٱشۡرَبُوا۟ هَنِیۤـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ\n"
+    }
+  },
+  {
+    "id": 5666,
+    "surahId": 77,
+    "ayahNumber": 44,
+    "arabicText": "إِنَّا كَذَ ٰ⁠لِكَ نَجۡزِی ٱلۡمُحۡسِنِینَ\n",
+    "translations": {
+      "en": "Thus, behold, do We reward the doers of good;",
+      "ms": "",
+      "id": "",
+      "ar": "إِنَّا كَذَ ٰ⁠لِكَ نَجۡزِی ٱلۡمُحۡسِنِینَ\n"
+    }
+  },
+  {
+    "id": 5667,
+    "surahId": 77,
+    "ayahNumber": 45,
+    "arabicText": "وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ\n",
+    "translations": {
+      "en": "[but] woe on that Day unto those who give the lie to the truth!",
+      "ms": "",
+      "id": "",
+      "ar": "وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ\n"
+    }
+  },
+  {
+    "id": 5668,
+    "surahId": 77,
+    "ayahNumber": 46,
+    "arabicText": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِیلًا إِنَّكُم مُّجۡرِمُونَ\n",
+    "translations": {
+      "en": "EAT [your fill] and enjoy your life for a little while, O you who are lost in sin!",
+      "ms": "",
+      "id": "",
+      "ar": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِیلًا إِنَّكُم مُّجۡرِمُونَ\n"
+    }
+  },
+  {
+    "id": 5669,
+    "surahId": 77,
+    "ayahNumber": 47,
+    "arabicText": "وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ\n",
+    "translations": {
+      "en": "[But] woe on that Day unto those who give the lie to the truth,",
+      "ms": "",
+      "id": "",
+      "ar": "وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ\n"
+    }
+  },
+  {
+    "id": 5670,
+    "surahId": 77,
+    "ayahNumber": 48,
+    "arabicText": "وَإِذَا قِیلَ لَهُمُ ٱرۡكَعُوا۟ لَا یَرۡكَعُونَ\n",
+    "translations": {
+      "en": "and when they are told, \"Bow down [before God]\", do not bow down:",
+      "ms": "",
+      "id": "",
+      "ar": "وَإِذَا قِیلَ لَهُمُ ٱرۡكَعُوا۟ لَا یَرۡكَعُونَ\n"
+    }
+  },
+  {
+    "id": 5671,
+    "surahId": 77,
+    "ayahNumber": 49,
+    "arabicText": "وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ\n",
+    "translations": {
+      "en": "woe on that Day unto those who give the to the truth!",
+      "ms": "",
+      "id": "",
+      "ar": "وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ\n"
+    }
+  },
+  {
+    "id": 5672,
+    "surahId": 77,
+    "ayahNumber": 50,
+    "arabicText": "فَبِأَیِّ حَدِیثِۭ بَعۡدَهُۥ یُؤۡمِنُونَ\n",
+    "translations": {
+      "en": "In what other tiding, then, will they, after this, believe?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ حَدِیثِۭ بَعۡدَهُۥ یُؤۡمِنُونَ\n"
+    }
+  }
+]

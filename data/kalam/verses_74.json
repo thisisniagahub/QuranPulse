@@ -1,0 +1,674 @@
+[
+  {
+    "id": 5496,
+    "surahId": 74,
+    "ayahNumber": 1,
+    "arabicText": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ یَـٰۤأَیُّهَا ٱلۡمُدَّثِّرُ\n",
+    "translations": {
+      "en": "O THOU [in thy solitude] enfolded!",
+      "ms": "",
+      "id": "",
+      "ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ یَـٰۤأَیُّهَا ٱلۡمُدَّثِّرُ\n"
+    }
+  },
+  {
+    "id": 5497,
+    "surahId": 74,
+    "ayahNumber": 2,
+    "arabicText": "قُمۡ فَأَنذِرۡ\n",
+    "translations": {
+      "en": "Arise and warn!",
+      "ms": "",
+      "id": "",
+      "ar": "قُمۡ فَأَنذِرۡ\n"
+    }
+  },
+  {
+    "id": 5498,
+    "surahId": 74,
+    "ayahNumber": 3,
+    "arabicText": "وَرَبَّكَ فَكَبِّرۡ\n",
+    "translations": {
+      "en": "And thy Sustainer's greatness glorify!",
+      "ms": "",
+      "id": "",
+      "ar": "وَرَبَّكَ فَكَبِّرۡ\n"
+    }
+  },
+  {
+    "id": 5499,
+    "surahId": 74,
+    "ayahNumber": 4,
+    "arabicText": "وَثِیَابَكَ فَطَهِّرۡ\n",
+    "translations": {
+      "en": "And thine inner self purify!",
+      "ms": "",
+      "id": "",
+      "ar": "وَثِیَابَكَ فَطَهِّرۡ\n"
+    }
+  },
+  {
+    "id": 5500,
+    "surahId": 74,
+    "ayahNumber": 5,
+    "arabicText": "وَٱلرُّجۡزَ فَٱهۡجُرۡ\n",
+    "translations": {
+      "en": "And all defilement shun!",
+      "ms": "",
+      "id": "",
+      "ar": "وَٱلرُّجۡزَ فَٱهۡجُرۡ\n"
+    }
+  },
+  {
+    "id": 5501,
+    "surahId": 74,
+    "ayahNumber": 6,
+    "arabicText": "وَلَا تَمۡنُن تَسۡتَكۡثِرُ\n",
+    "translations": {
+      "en": "And do not through giving seek thyself to gain,",
+      "ms": "",
+      "id": "",
+      "ar": "وَلَا تَمۡنُن تَسۡتَكۡثِرُ\n"
+    }
+  },
+  {
+    "id": 5502,
+    "surahId": 74,
+    "ayahNumber": 7,
+    "arabicText": "وَلِرَبِّكَ فَٱصۡبِرۡ\n",
+    "translations": {
+      "en": "but unto thy Sustainer turn in patience.",
+      "ms": "",
+      "id": "",
+      "ar": "وَلِرَبِّكَ فَٱصۡبِرۡ\n"
+    }
+  },
+  {
+    "id": 5503,
+    "surahId": 74,
+    "ayahNumber": 8,
+    "arabicText": "فَإِذَا نُقِرَ فِی ٱلنَّاقُورِ\n",
+    "translations": {
+      "en": "And [warn all men that] when the trumpet-call [of resurrection] is sounded,",
+      "ms": "",
+      "id": "",
+      "ar": "فَإِذَا نُقِرَ فِی ٱلنَّاقُورِ\n"
+    }
+  },
+  {
+    "id": 5504,
+    "surahId": 74,
+    "ayahNumber": 9,
+    "arabicText": "فَذَ ٰ⁠لِكَ یَوۡمَىِٕذࣲ یَوۡمٌ عَسِیرٌ\n",
+    "translations": {
+      "en": "that very Day shall be a day of anguish,",
+      "ms": "",
+      "id": "",
+      "ar": "فَذَ ٰ⁠لِكَ یَوۡمَىِٕذࣲ یَوۡمٌ عَسِیرٌ\n"
+    }
+  },
+  {
+    "id": 5505,
+    "surahId": 74,
+    "ayahNumber": 10,
+    "arabicText": "عَلَى ٱلۡكَـٰفِرِینَ غَیۡرُ یَسِیرࣲ\n",
+    "translations": {
+      "en": "not of ease, for all who [now] deny the truth!",
+      "ms": "",
+      "id": "",
+      "ar": "عَلَى ٱلۡكَـٰفِرِینَ غَیۡرُ یَسِیرࣲ\n"
+    }
+  },
+  {
+    "id": 5506,
+    "surahId": 74,
+    "ayahNumber": 11,
+    "arabicText": "ذَرۡنِی وَمَنۡ خَلَقۡتُ وَحِیدࣰا\n",
+    "translations": {
+      "en": "LEAVE Me alone [to deal] with him whom I have created alone,",
+      "ms": "",
+      "id": "",
+      "ar": "ذَرۡنِی وَمَنۡ خَلَقۡتُ وَحِیدࣰا\n"
+    }
+  },
+  {
+    "id": 5507,
+    "surahId": 74,
+    "ayahNumber": 12,
+    "arabicText": "وَجَعَلۡتُ لَهُۥ مَالࣰا مَّمۡدُودࣰا\n",
+    "translations": {
+      "en": "and to whom I have granted resources vast,",
+      "ms": "",
+      "id": "",
+      "ar": "وَجَعَلۡتُ لَهُۥ مَالࣰا مَّمۡدُودࣰا\n"
+    }
+  },
+  {
+    "id": 5508,
+    "surahId": 74,
+    "ayahNumber": 13,
+    "arabicText": "وَبَنِینَ شُهُودࣰا\n",
+    "translations": {
+      "en": "and children as [love's] witnesses,",
+      "ms": "",
+      "id": "",
+      "ar": "وَبَنِینَ شُهُودࣰا\n"
+    }
+  },
+  {
+    "id": 5509,
+    "surahId": 74,
+    "ayahNumber": 14,
+    "arabicText": "وَمَهَّدتُّ لَهُۥ تَمۡهِیدࣰا\n",
+    "translations": {
+      "en": "and to whose life I gave so wide a scope:",
+      "ms": "",
+      "id": "",
+      "ar": "وَمَهَّدتُّ لَهُۥ تَمۡهِیدࣰا\n"
+    }
+  },
+  {
+    "id": 5510,
+    "surahId": 74,
+    "ayahNumber": 15,
+    "arabicText": "ثُمَّ یَطۡمَعُ أَنۡ أَزِیدَ\n",
+    "translations": {
+      "en": "and yet, he greedily desires that I give yet more!",
+      "ms": "",
+      "id": "",
+      "ar": "ثُمَّ یَطۡمَعُ أَنۡ أَزِیدَ\n"
+    }
+  },
+  {
+    "id": 5511,
+    "surahId": 74,
+    "ayahNumber": 16,
+    "arabicText": "كَلَّاۤۖ إِنَّهُۥ كَانَ لِـَٔایَـٰتِنَا عَنِیدࣰا\n",
+    "translations": {
+      "en": "Nay, verily, it is against Our messages that he knowingly, stubbornly sets himself",
+      "ms": "",
+      "id": "",
+      "ar": "كَلَّاۤۖ إِنَّهُۥ كَانَ لِـَٔایَـٰتِنَا عَنِیدࣰا\n"
+    }
+  },
+  {
+    "id": 5512,
+    "surahId": 74,
+    "ayahNumber": 17,
+    "arabicText": "سَأُرۡهِقُهُۥ صَعُودًا\n",
+    "translations": {
+      "en": "[and so] I shall constrain him to endure a painful uphill climb!",
+      "ms": "",
+      "id": "",
+      "ar": "سَأُرۡهِقُهُۥ صَعُودًا\n"
+    }
+  },
+  {
+    "id": 5513,
+    "surahId": 74,
+    "ayahNumber": 18,
+    "arabicText": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ\n",
+    "translations": {
+      "en": "Behold, [when Our messages are conveyed to one who is bent on denying the truth,] he reflects and meditates [as to how to disprove them] –",
+      "ms": "",
+      "id": "",
+      "ar": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ\n"
+    }
+  },
+  {
+    "id": 5514,
+    "surahId": 74,
+    "ayahNumber": 19,
+    "arabicText": "فَقُتِلَ كَیۡفَ قَدَّرَ\n",
+    "translations": {
+      "en": "and thus he destroys himself, the way he meditates:",
+      "ms": "",
+      "id": "",
+      "ar": "فَقُتِلَ كَیۡفَ قَدَّرَ\n"
+    }
+  },
+  {
+    "id": 5515,
+    "surahId": 74,
+    "ayahNumber": 20,
+    "arabicText": "ثُمَّ قُتِلَ كَیۡفَ قَدَّرَ\n",
+    "translations": {
+      "en": "yea, he destroys himself, the way he meditates!",
+      "ms": "",
+      "id": "",
+      "ar": "ثُمَّ قُتِلَ كَیۡفَ قَدَّرَ\n"
+    }
+  },
+  {
+    "id": 5516,
+    "surahId": 74,
+    "ayahNumber": 21,
+    "arabicText": "ثُمَّ نَظَرَ\n",
+    "translations": {
+      "en": "and then he looks [around for new arguments],",
+      "ms": "",
+      "id": "",
+      "ar": "ثُمَّ نَظَرَ\n"
+    }
+  },
+  {
+    "id": 5517,
+    "surahId": 74,
+    "ayahNumber": 22,
+    "arabicText": "ثُمَّ عَبَسَ وَبَسَرَ\n",
+    "translations": {
+      "en": "and then he frowns and glares,",
+      "ms": "",
+      "id": "",
+      "ar": "ثُمَّ عَبَسَ وَبَسَرَ\n"
+    }
+  },
+  {
+    "id": 5518,
+    "surahId": 74,
+    "ayahNumber": 23,
+    "arabicText": "ثُمَّ أَدۡبَرَ وَٱسۡتَكۡبَرَ\n",
+    "translations": {
+      "en": "and in the end he turns his back [on Our message], and glories in his arrogance,",
+      "ms": "",
+      "id": "",
+      "ar": "ثُمَّ أَدۡبَرَ وَٱسۡتَكۡبَرَ\n"
+    }
+  },
+  {
+    "id": 5519,
+    "surahId": 74,
+    "ayahNumber": 24,
+    "arabicText": "فَقَالَ إِنۡ هَـٰذَاۤ إِلَّا سِحۡرࣱ یُؤۡثَرُ\n",
+    "translations": {
+      "en": "and says, \"All this is mere spellbinding eloquence handed down [from olden times]!",
+      "ms": "",
+      "id": "",
+      "ar": "فَقَالَ إِنۡ هَـٰذَاۤ إِلَّا سِحۡرࣱ یُؤۡثَرُ\n"
+    }
+  },
+  {
+    "id": 5520,
+    "surahId": 74,
+    "ayahNumber": 25,
+    "arabicText": "إِنۡ هَـٰذَاۤ إِلَّا قَوۡلُ ٱلۡبَشَرِ\n",
+    "translations": {
+      "en": "This is nothing but the word of mortal man!\"",
+      "ms": "",
+      "id": "",
+      "ar": "إِنۡ هَـٰذَاۤ إِلَّا قَوۡلُ ٱلۡبَشَرِ\n"
+    }
+  },
+  {
+    "id": 5521,
+    "surahId": 74,
+    "ayahNumber": 26,
+    "arabicText": "سَأُصۡلِیهِ سَقَرَ\n",
+    "translations": {
+      "en": "[Hence,] I shall cause him to endure hell-fire [in the life to come]!",
+      "ms": "",
+      "id": "",
+      "ar": "سَأُصۡلِیهِ سَقَرَ\n"
+    }
+  },
+  {
+    "id": 5522,
+    "surahId": 74,
+    "ayahNumber": 27,
+    "arabicText": "وَمَاۤ أَدۡرَىٰكَ مَا سَقَرُ\n",
+    "translations": {
+      "en": "And what could make thee conceive what hell-fire is?",
+      "ms": "",
+      "id": "",
+      "ar": "وَمَاۤ أَدۡرَىٰكَ مَا سَقَرُ\n"
+    }
+  },
+  {
+    "id": 5523,
+    "surahId": 74,
+    "ayahNumber": 28,
+    "arabicText": "لَا تُبۡقِی وَلَا تَذَرُ\n",
+    "translations": {
+      "en": "It does not allow to live, and neither leaves [to die],",
+      "ms": "",
+      "id": "",
+      "ar": "لَا تُبۡقِی وَلَا تَذَرُ\n"
+    }
+  },
+  {
+    "id": 5524,
+    "surahId": 74,
+    "ayahNumber": 29,
+    "arabicText": "لَوَّاحَةࣱ لِّلۡبَشَرِ\n",
+    "translations": {
+      "en": "making [all truth] visible to mortal man.",
+      "ms": "",
+      "id": "",
+      "ar": "لَوَّاحَةࣱ لِّلۡبَشَرِ\n"
+    }
+  },
+  {
+    "id": 5525,
+    "surahId": 74,
+    "ayahNumber": 30,
+    "arabicText": "عَلَیۡهَا تِسۡعَةَ عَشَرَ\n",
+    "translations": {
+      "en": "Over it are nineteen [powers].",
+      "ms": "",
+      "id": "",
+      "ar": "عَلَیۡهَا تِسۡعَةَ عَشَرَ\n"
+    }
+  },
+  {
+    "id": 5526,
+    "surahId": 74,
+    "ayahNumber": 31,
+    "arabicText": "وَمَا جَعَلۡنَاۤ أَصۡحَـٰبَ ٱلنَّارِ إِلَّا مَلَـٰۤىِٕكَةࣰۖ وَمَا جَعَلۡنَا عِدَّتَهُمۡ إِلَّا فِتۡنَةࣰ لِّلَّذِینَ كَفَرُوا۟ لِیَسۡتَیۡقِنَ ٱلَّذِینَ أُوتُوا۟ ٱلۡكِتَـٰبَ وَیَزۡدَادَ ٱلَّذِینَ ءَامَنُوۤا۟ إِیمَـٰنࣰا وَلَا یَرۡتَابَ ٱلَّذِینَ أُوتُوا۟ ٱلۡكِتَـٰبَ وَٱلۡمُؤۡمِنُونَ وَلِیَقُولَ ٱلَّذِینَ فِی قُلُوبِهِم مَّرَضࣱ وَٱلۡكَـٰفِرُونَ مَاذَاۤ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلࣰاۚ كَذَ ٰ⁠لِكَ یُضِلُّ ٱللَّهُ مَن یَشَاۤءُ وَیَهۡدِی مَن یَشَاۤءُۚ وَمَا یَعۡلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَۚ وَمَا هِیَ إِلَّا ذِكۡرَىٰ لِلۡبَشَرِ\n",
+    "translations": {
+      "en": "For We have caused none but angelic powers to lord over the fire [of hell]; and We have not caused their number to be aught but a trial for those who are bent on denying the truth - to the end that they who have been granted revelation aforetime might be convinced [of the truth of this divine writ]; and that they who have attained to faith [in it] might grow yet more firm in their faith; and that [both] they who have been granted the earlier revelation and they who believe [in this one] might be freed of all doubt; and that they in whose hearts is disease and the who deny the truth outright might ask, \"What does [your] God mean by this parable?\" In this way God lets go astray him that wills [to go astray], and guides aright him that wills [to be guided]. And none can comprehend thy Sustainers forces save Him alone: and all this is but a reminder to mortal man.",
+      "ms": "",
+      "id": "",
+      "ar": "وَمَا جَعَلۡنَاۤ أَصۡحَـٰبَ ٱلنَّارِ إِلَّا مَلَـٰۤىِٕكَةࣰۖ وَمَا جَعَلۡنَا عِدَّتَهُمۡ إِلَّا فِتۡنَةࣰ لِّلَّذِینَ كَفَرُوا۟ لِیَسۡتَیۡقِنَ ٱلَّذِینَ أُوتُوا۟ ٱلۡكِتَـٰبَ وَیَزۡدَادَ ٱلَّذِینَ ءَامَنُوۤا۟ إِیمَـٰنࣰا وَلَا یَرۡتَابَ ٱلَّذِینَ أُوتُوا۟ ٱلۡكِتَـٰبَ وَٱلۡمُؤۡمِنُونَ وَلِیَقُولَ ٱلَّذِینَ فِی قُلُوبِهِم مَّرَضࣱ وَٱلۡكَـٰفِرُونَ مَاذَاۤ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلࣰاۚ كَذَ ٰ⁠لِكَ یُضِلُّ ٱللَّهُ مَن یَشَاۤءُ وَیَهۡدِی مَن یَشَاۤءُۚ وَمَا یَعۡلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَۚ وَمَا هِیَ إِلَّا ذِكۡرَىٰ لِلۡبَشَرِ\n"
+    }
+  },
+  {
+    "id": 5527,
+    "surahId": 74,
+    "ayahNumber": 32,
+    "arabicText": "كَلَّا وَٱلۡقَمَرِ\n",
+    "translations": {
+      "en": "NAY, but consider the moon!",
+      "ms": "",
+      "id": "",
+      "ar": "كَلَّا وَٱلۡقَمَرِ\n"
+    }
+  },
+  {
+    "id": 5528,
+    "surahId": 74,
+    "ayahNumber": 33,
+    "arabicText": "وَٱلَّیۡلِ إِذۡ أَدۡبَرَ\n",
+    "translations": {
+      "en": "Consider the night when it departs,",
+      "ms": "",
+      "id": "",
+      "ar": "وَٱلَّیۡلِ إِذۡ أَدۡبَرَ\n"
+    }
+  },
+  {
+    "id": 5529,
+    "surahId": 74,
+    "ayahNumber": 34,
+    "arabicText": "وَٱلصُّبۡحِ إِذَاۤ أَسۡفَرَ\n",
+    "translations": {
+      "en": "and the morn when it dawns!",
+      "ms": "",
+      "id": "",
+      "ar": "وَٱلصُّبۡحِ إِذَاۤ أَسۡفَرَ\n"
+    }
+  },
+  {
+    "id": 5530,
+    "surahId": 74,
+    "ayahNumber": 35,
+    "arabicText": "إِنَّهَا لَإِحۡدَى ٱلۡكُبَرِ\n",
+    "translations": {
+      "en": "Verily, that [hell-fire) is Indeed one of the great [forewarnings] –",
+      "ms": "",
+      "id": "",
+      "ar": "إِنَّهَا لَإِحۡدَى ٱلۡكُبَرِ\n"
+    }
+  },
+  {
+    "id": 5531,
+    "surahId": 74,
+    "ayahNumber": 36,
+    "arabicText": "نَذِیرࣰا لِّلۡبَشَرِ\n",
+    "translations": {
+      "en": "a warning to mortal man –",
+      "ms": "",
+      "id": "",
+      "ar": "نَذِیرࣰا لِّلۡبَشَرِ\n"
+    }
+  },
+  {
+    "id": 5532,
+    "surahId": 74,
+    "ayahNumber": 37,
+    "arabicText": "لِمَن شَاۤءَ مِنكُمۡ أَن یَتَقَدَّمَ أَوۡ یَتَأَخَّرَ\n",
+    "translations": {
+      "en": "to everyone of you, whether he chooses to come forward or to hang back!",
+      "ms": "",
+      "id": "",
+      "ar": "لِمَن شَاۤءَ مِنكُمۡ أَن یَتَقَدَّمَ أَوۡ یَتَأَخَّرَ\n"
+    }
+  },
+  {
+    "id": 5533,
+    "surahId": 74,
+    "ayahNumber": 38,
+    "arabicText": "كُلُّ نَفۡسِۭ بِمَا كَسَبَتۡ رَهِینَةٌ\n",
+    "translations": {
+      "en": "[On the Day of Judgment,] every human being will be held in pledge for whatever [evil] he has wrought –",
+      "ms": "",
+      "id": "",
+      "ar": "كُلُّ نَفۡسِۭ بِمَا كَسَبَتۡ رَهِینَةٌ\n"
+    }
+  },
+  {
+    "id": 5534,
+    "surahId": 74,
+    "ayahNumber": 39,
+    "arabicText": "إِلَّاۤ أَصۡحَـٰبَ ٱلۡیَمِینِ\n",
+    "translations": {
+      "en": "save those who shall have attained to righteousness:",
+      "ms": "",
+      "id": "",
+      "ar": "إِلَّاۤ أَصۡحَـٰبَ ٱلۡیَمِینِ\n"
+    }
+  },
+  {
+    "id": 5535,
+    "surahId": 74,
+    "ayahNumber": 40,
+    "arabicText": "فِی جَنَّـٰتࣲ یَتَسَاۤءَلُونَ\n",
+    "translations": {
+      "en": "[dwelling] In gardens [of paradise], they will inquire",
+      "ms": "",
+      "id": "",
+      "ar": "فِی جَنَّـٰتࣲ یَتَسَاۤءَلُونَ\n"
+    }
+  },
+  {
+    "id": 5536,
+    "surahId": 74,
+    "ayahNumber": 41,
+    "arabicText": "عَنِ ٱلۡمُجۡرِمِینَ\n",
+    "translations": {
+      "en": "of those who were lost in sin:",
+      "ms": "",
+      "id": "",
+      "ar": "عَنِ ٱلۡمُجۡرِمِینَ\n"
+    }
+  },
+  {
+    "id": 5537,
+    "surahId": 74,
+    "ayahNumber": 42,
+    "arabicText": "مَا سَلَكَكُمۡ فِی سَقَرَ\n",
+    "translations": {
+      "en": "\"What has brought you into hell-fire?\"",
+      "ms": "",
+      "id": "",
+      "ar": "مَا سَلَكَكُمۡ فِی سَقَرَ\n"
+    }
+  },
+  {
+    "id": 5538,
+    "surahId": 74,
+    "ayahNumber": 43,
+    "arabicText": "قَالُوا۟ لَمۡ نَكُ مِنَ ٱلۡمُصَلِّینَ\n",
+    "translations": {
+      "en": "They will answer: \"We were not among those who prayed;",
+      "ms": "",
+      "id": "",
+      "ar": "قَالُوا۟ لَمۡ نَكُ مِنَ ٱلۡمُصَلِّینَ\n"
+    }
+  },
+  {
+    "id": 5539,
+    "surahId": 74,
+    "ayahNumber": 44,
+    "arabicText": "وَلَمۡ نَكُ نُطۡعِمُ ٱلۡمِسۡكِینَ\n",
+    "translations": {
+      "en": "and neither did we feed the needy;",
+      "ms": "",
+      "id": "",
+      "ar": "وَلَمۡ نَكُ نُطۡعِمُ ٱلۡمِسۡكِینَ\n"
+    }
+  },
+  {
+    "id": 5540,
+    "surahId": 74,
+    "ayahNumber": 45,
+    "arabicText": "وَكُنَّا نَخُوضُ مَعَ ٱلۡخَاۤىِٕضِینَ\n",
+    "translations": {
+      "en": "and we were wont to indulge in sinning together with all [the others] who indulged in it;",
+      "ms": "",
+      "id": "",
+      "ar": "وَكُنَّا نَخُوضُ مَعَ ٱلۡخَاۤىِٕضِینَ\n"
+    }
+  },
+  {
+    "id": 5541,
+    "surahId": 74,
+    "ayahNumber": 46,
+    "arabicText": "وَكُنَّا نُكَذِّبُ بِیَوۡمِ ٱلدِّینِ\n",
+    "translations": {
+      "en": "and the Day of Judgment we were wont to call a lie –",
+      "ms": "",
+      "id": "",
+      "ar": "وَكُنَّا نُكَذِّبُ بِیَوۡمِ ٱلدِّینِ\n"
+    }
+  },
+  {
+    "id": 5542,
+    "surahId": 74,
+    "ayahNumber": 47,
+    "arabicText": "حَتَّىٰۤ أَتَىٰنَا ٱلۡیَقِینُ\n",
+    "translations": {
+      "en": "until certainty came upon us [in death].\"",
+      "ms": "",
+      "id": "",
+      "ar": "حَتَّىٰۤ أَتَىٰنَا ٱلۡیَقِینُ\n"
+    }
+  },
+  {
+    "id": 5543,
+    "surahId": 74,
+    "ayahNumber": 48,
+    "arabicText": "فَمَا تَنفَعُهُمۡ شَفَـٰعَةُ ٱلشَّـٰفِعِینَ\n",
+    "translations": {
+      "en": "And so, of no benefit to them could be the intercession of any that would intercede for them.",
+      "ms": "",
+      "id": "",
+      "ar": "فَمَا تَنفَعُهُمۡ شَفَـٰعَةُ ٱلشَّـٰفِعِینَ\n"
+    }
+  },
+  {
+    "id": 5544,
+    "surahId": 74,
+    "ayahNumber": 49,
+    "arabicText": "فَمَا لَهُمۡ عَنِ ٱلتَّذۡكِرَةِ مُعۡرِضِینَ\n",
+    "translations": {
+      "en": "WHAT, THEN, is amiss with them that they turn away from all admonition",
+      "ms": "",
+      "id": "",
+      "ar": "فَمَا لَهُمۡ عَنِ ٱلتَّذۡكِرَةِ مُعۡرِضِینَ\n"
+    }
+  },
+  {
+    "id": 5545,
+    "surahId": 74,
+    "ayahNumber": 50,
+    "arabicText": "كَأَنَّهُمۡ حُمُرࣱ مُّسۡتَنفِرَةࣱ\n",
+    "translations": {
+      "en": "as though they were terrified asses",
+      "ms": "",
+      "id": "",
+      "ar": "كَأَنَّهُمۡ حُمُرࣱ مُّسۡتَنفِرَةࣱ\n"
+    }
+  },
+  {
+    "id": 5546,
+    "surahId": 74,
+    "ayahNumber": 51,
+    "arabicText": "فَرَّتۡ مِن قَسۡوَرَةِۭ\n",
+    "translations": {
+      "en": "fleeing from a lion?",
+      "ms": "",
+      "id": "",
+      "ar": "فَرَّتۡ مِن قَسۡوَرَةِۭ\n"
+    }
+  },
+  {
+    "id": 5547,
+    "surahId": 74,
+    "ayahNumber": 52,
+    "arabicText": "بَلۡ یُرِیدُ كُلُّ ٱمۡرِئࣲ مِّنۡهُمۡ أَن یُؤۡتَىٰ صُحُفࣰا مُّنَشَّرَةࣰ\n",
+    "translations": {
+      "en": "Yea, everyone of them claims that he [himself] ought to have been given revelations unfolded!",
+      "ms": "",
+      "id": "",
+      "ar": "بَلۡ یُرِیدُ كُلُّ ٱمۡرِئࣲ مِّنۡهُمۡ أَن یُؤۡتَىٰ صُحُفࣰا مُّنَشَّرَةࣰ\n"
+    }
+  },
+  {
+    "id": 5548,
+    "surahId": 74,
+    "ayahNumber": 53,
+    "arabicText": "كَلَّاۖ بَل لَّا یَخَافُونَ ٱلۡـَٔاخِرَةَ\n",
+    "translations": {
+      "en": "Nay, but they do not [believe in and, hence, do not] fear the life to come.",
+      "ms": "",
+      "id": "",
+      "ar": "كَلَّاۖ بَل لَّا یَخَافُونَ ٱلۡـَٔاخِرَةَ\n"
+    }
+  },
+  {
+    "id": 5549,
+    "surahId": 74,
+    "ayahNumber": 54,
+    "arabicText": "كَلَّاۤ إِنَّهُۥ تَذۡكِرَةࣱ\n",
+    "translations": {
+      "en": "Nay, verily, this is an admonition –",
+      "ms": "",
+      "id": "",
+      "ar": "كَلَّاۤ إِنَّهُۥ تَذۡكِرَةࣱ\n"
+    }
+  },
+  {
+    "id": 5550,
+    "surahId": 74,
+    "ayahNumber": 55,
+    "arabicText": "فَمَن شَاۤءَ ذَكَرَهُۥ\n",
+    "translations": {
+      "en": "and whoever wills may take it to heart.",
+      "ms": "",
+      "id": "",
+      "ar": "فَمَن شَاۤءَ ذَكَرَهُۥ\n"
+    }
+  },
+  {
+    "id": 5551,
+    "surahId": 74,
+    "ayahNumber": 56,
+    "arabicText": "وَمَا یَذۡكُرُونَ إِلَّاۤ أَن یَشَاۤءَ ٱللَّهُۚ هُوَ أَهۡلُ ٱلتَّقۡوَىٰ وَأَهۡلُ ٱلۡمَغۡفِرَةِ\n",
+    "translations": {
+      "en": "But they [who do not believe in the life to come] will not take it to heart unless God so wills: [for] He is the Fount of all God-consciousness, and the Fount of all forgiveness.",
+      "ms": "",
+      "id": "",
+      "ar": "وَمَا یَذۡكُرُونَ إِلَّاۤ أَن یَشَاۤءَ ٱللَّهُۚ هُوَ أَهۡلُ ٱلتَّقۡوَىٰ وَأَهۡلُ ٱلۡمَغۡفِرَةِ\n"
+    }
+  }
+]

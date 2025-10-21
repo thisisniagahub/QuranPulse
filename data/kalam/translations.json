@@ -1,0 +1,670 @@
+[
+  {
+    "name": "تفسير المیسر",
+    "language": "ar"
+  },
+  {
+    "name": "Məmmədəliyev & Bünyadov",
+    "language": "az"
+  },
+  {
+    "name": "Musayev",
+    "language": "az"
+  },
+  {
+    "name": "মুহিউদ্দীন খান",
+    "language": "bn"
+  },
+  {
+    "name": "Hrbek",
+    "language": "cs"
+  },
+  {
+    "name": "Nykl",
+    "language": "cs"
+  },
+  {
+    "name": "Abu Rida",
+    "language": "de"
+  },
+  {
+    "name": "Bubenheim & Elyas",
+    "language": "de"
+  },
+  {
+    "name": "Khoury",
+    "language": "de"
+  },
+  {
+    "name": "Zaidan",
+    "language": "de"
+  },
+  {
+    "name": "ދިވެހި",
+    "language": "dv"
+  },
+  {
+    "name": "Ahmed Ali",
+    "language": "en"
+  },
+  {
+    "name": "Ahmed Raza Khan",
+    "language": "en"
+  },
+  {
+    "name": "Arberry",
+    "language": "en"
+  },
+  {
+    "name": "Asad",
+    "language": "en"
+  },
+  {
+    "name": "Daryabadi",
+    "language": "en"
+  },
+  {
+    "name": "Hilali & Khan",
+    "language": "en"
+  },
+  {
+    "name": "Pickthall",
+    "language": "en"
+  },
+  {
+    "name": "Qaribullah & Darwish",
+    "language": "en"
+  },
+  {
+    "name": "Saheeh International",
+    "language": "en"
+  },
+  {
+    "name": "Sarwar",
+    "language": "en"
+  },
+  {
+    "name": "Yusuf Ali",
+    "language": "en"
+  },
+  {
+    "name": "آیتی",
+    "language": "fa"
+  },
+  {
+    "name": "فولادوند",
+    "language": "fa"
+  },
+  {
+    "name": "الهی قمشه‌ای",
+    "language": "fa"
+  },
+  {
+    "name": "مکارم شیرازی",
+    "language": "fa"
+  },
+  {
+    "name": "Hamidullah",
+    "language": "fr"
+  },
+  {
+    "name": "Gumi",
+    "language": "ha"
+  },
+  {
+    "name": "फ़ारूक़ ख़ान & नदवी",
+    "language": "hi"
+  },
+  {
+    "name": "Bahasa Indonesia",
+    "language": "id"
+  },
+  {
+    "name": "Piccardo",
+    "language": "it"
+  },
+  {
+    "name": "Japanese",
+    "language": "ja"
+  },
+  {
+    "name": "Korean",
+    "language": "ko"
+  },
+  {
+    "name": "ته‌فسیری ئاسان",
+    "language": "ku"
+  },
+  {
+    "name": "അബ്ദുല്‍ ഹമീദ് & പറപ്പൂര്‍",
+    "language": "ml"
+  },
+  {
+    "name": "Keyzer",
+    "language": "nl"
+  },
+  {
+    "name": "Einar Berg",
+    "language": "no"
+  },
+  {
+    "name": "Bielawskiego",
+    "language": "pl"
+  },
+  {
+    "name": "El-Hayek",
+    "language": "pt"
+  },
+  {
+    "name": "Grigore",
+    "language": "ro"
+  },
+  {
+    "name": "Кулиев",
+    "language": "ru"
+  },
+  {
+    "name": "Османов",
+    "language": "ru"
+  },
+  {
+    "name": "Порохова",
+    "language": "ru"
+  },
+  {
+    "name": "امروٽي",
+    "language": "sd"
+  },
+  {
+    "name": "Abduh",
+    "language": "so"
+  },
+  {
+    "name": "Sherif Ahmeti",
+    "language": "sq"
+  },
+  {
+    "name": "Feti Mehdiu",
+    "language": "sq"
+  },
+  {
+    "name": "Efendi Nahi",
+    "language": "sq"
+  },
+  {
+    "name": "Bernström",
+    "language": "sv"
+  },
+  {
+    "name": "Al-Barwani",
+    "language": "sw"
+  },
+  {
+    "name": "ஜான் டிரஸ்ட்",
+    "language": "ta"
+  },
+  {
+    "name": "Оятӣ",
+    "language": "tg"
+  },
+  {
+    "name": "ภาษาไทย",
+    "language": "th"
+  },
+  {
+    "name": "Süleyman Ateş",
+    "language": "tr"
+  },
+  {
+    "name": "Alİ Bulaç",
+    "language": "tr"
+  },
+  {
+    "name": "Diyanet İşleri",
+    "language": "tr"
+  },
+  {
+    "name": "Abdulbakî Gölpınarlı",
+    "language": "tr"
+  },
+  {
+    "name": "Öztürk",
+    "language": "tr"
+  },
+  {
+    "name": "Çeviriyazı",
+    "language": "tr"
+  },
+  {
+    "name": "Diyanet Vakfı",
+    "language": "tr"
+  },
+  {
+    "name": "Elmalılı Hamdi Yazır",
+    "language": "tr"
+  },
+  {
+    "name": "Suat Yıldırım",
+    "language": "tr"
+  },
+  {
+    "name": "Edip Yüksel",
+    "language": "tr"
+  },
+  {
+    "name": "Yakub Ibn Nugman",
+    "language": "tt"
+  },
+  {
+    "name": "محمد صالح",
+    "language": "ug"
+  },
+  {
+    "name": "احمد علی",
+    "language": "ur"
+  },
+  {
+    "name": "جالندہری",
+    "language": "ur"
+  },
+  {
+    "name": "علامہ جوادی",
+    "language": "ur"
+  },
+  {
+    "name": "احمد رضا خان",
+    "language": "ur"
+  },
+  {
+    "name": "طاہر القادری",
+    "language": "ur"
+  },
+  {
+    "name": "Мухаммад Содик",
+    "language": "uz"
+  },
+  {
+    "name": "Maududi",
+    "language": "en"
+  },
+  {
+    "name": "Shakir",
+    "language": "en"
+  },
+  {
+    "name": "Transliteration",
+    "language": "en"
+  },
+  {
+    "name": "Cortes",
+    "language": "es"
+  },
+  {
+    "name": "انصاریان",
+    "language": "fa"
+  },
+  {
+    "name": "القرآن الكريم المبسط (تشكيل بسيط) (simple)",
+    "language": "ar"
+  },
+  {
+    "name": "القرآن الكريم المبسط (بدون تشكيل) (simple-clean)",
+    "language": "ar"
+  },
+  {
+    "name": "القرآن الكريم المبسط (بدون تشكيل) (simple-enhanced)",
+    "language": "ar"
+  },
+  {
+    "name": "القرآن الكريم المبسط (بدون تشكيل) (simple-min)",
+    "language": "ar"
+  },
+  {
+    "name": "القرآن الكريم برسم العثماني (تشكيل بسيط) (uthmani-min)",
+    "language": "ar"
+  },
+  {
+    "name": "القرآن الكريم برسم العثماني (uthmani)",
+    "language": "ar"
+  },
+  {
+    "name": "Теофанов",
+    "language": "bg"
+  },
+  {
+    "name": "Mlivo",
+    "language": "bs"
+  },
+  {
+    "name": "بهرام پور",
+    "language": "fa"
+  },
+  {
+    "name": "Asad",
+    "language": "es"
+  },
+  {
+    "name": "خرمشاهی",
+    "language": "fa"
+  },
+  {
+    "name": "مجتبوی",
+    "language": "fa"
+  },
+  {
+    "name": "फ़ारूक़ ख़ान & अहमद",
+    "language": "hi"
+  },
+  {
+    "name": "Quraish Shihab",
+    "language": "id"
+  },
+  {
+    "name": "Basmeih",
+    "language": "ms"
+  },
+  {
+    "name": "Абу Адель",
+    "language": "ru"
+  },
+  {
+    "name": "Крачковский",
+    "language": "ru"
+  },
+  {
+    "name": "Аль-Мунтахаб",
+    "language": "ru"
+  },
+  {
+    "name": "Саблуков",
+    "language": "ru"
+  },
+  {
+    "name": "محمد جوناگڑھی",
+    "language": "ur"
+  },
+  {
+    "name": "ابوالاعلی مودودی",
+    "language": "ur"
+  },
+  {
+    "name": "Ma Jian",
+    "language": "zh"
+  },
+  {
+    "name": "Ma Jian (Traditional)",
+    "language": "zh"
+  },
+  {
+    "name": "خرمدل",
+    "language": "fa"
+  },
+  {
+    "name": "معزی",
+    "language": "fa"
+  },
+  {
+    "name": "Korkut",
+    "language": "bs"
+  },
+  {
+    "name": "تفسير الجلالين",
+    "language": "ar"
+  },
+  {
+    "name": "القرآن الكريم المجود (ملون) (tajweed)",
+    "language": "ar"
+  },
+  {
+    "name": "معاني مفردات القرآن (wordbyword)",
+    "language": "ar"
+  },
+  {
+    "name": "عبد الباسط عبد الصمد المرتل",
+    "language": "ar"
+  },
+  {
+    "name": "عبد الله بصفر",
+    "language": "ar"
+  },
+  {
+    "name": "عبدالرحمن السديس",
+    "language": "ar"
+  },
+  {
+    "name": "عبدالباسط عبدالصمد",
+    "language": "ar"
+  },
+  {
+    "name": "أبو بكر الشاطري",
+    "language": "ar"
+  },
+  {
+    "name": "أحمد بن علي العجمي",
+    "language": "ar"
+  },
+  {
+    "name": "مشاري العفاسي",
+    "language": "ar"
+  },
+  {
+    "name": "هاني الرفاعي",
+    "language": "ar"
+  },
+  {
+    "name": "محمود خليل الحصري",
+    "language": "ar"
+  },
+  {
+    "name": "محمود خليل الحصري (المجود)",
+    "language": "ar"
+  },
+  {
+    "name": "علي بن عبدالرحمن الحذيفي",
+    "language": "ar"
+  },
+  {
+    "name": "إبراهيم الأخضر",
+    "language": "ar"
+  },
+  {
+    "name": "ماهر المعيقلي",
+    "language": "ar"
+  },
+  {
+    "name": "محمد صديق المنشاوي",
+    "language": "ar"
+  },
+  {
+    "name": "محمد صديق المنشاوي (المجود)",
+    "language": "ar"
+  },
+  {
+    "name": "محمد أيوب",
+    "language": "ar"
+  },
+  {
+    "name": "محمد جبريل",
+    "language": "ar"
+  },
+  {
+    "name": "سعود الشريم",
+    "language": "ar"
+  },
+  {
+    "name": "Ibrahim Walk",
+    "language": "en"
+  },
+  {
+    "name": "Fooladvand - Hedayatfar",
+    "language": "fa"
+  },
+  {
+    "name": "شهریار پرهیزگار",
+    "language": "ar"
+  },
+  {
+    "name": "Shamshad Ali Khan",
+    "language": "ur"
+  },
+  {
+    "name": "中文",
+    "language": "zh"
+  },
+  {
+    "name": "Youssouf Leclerc",
+    "language": "fr"
+  },
+  {
+    "name": "القرآن الكريم للأطفال",
+    "language": "ar"
+  },
+  {
+    "name": "Corpus",
+    "language": "ar"
+  },
+  {
+    "name": "Naseem Ismail",
+    "language": "si"
+  },
+  {
+    "name": "Buck",
+    "language": "ar"
+  },
+  {
+    "name": "Ma Zhong Gang",
+    "language": "zh"
+  },
+  {
+    "name": "أيمن سويد",
+    "language": "ar"
+  },
+  {
+    "name": "معاني مفردات القرآن ولفظها (wordbyword-2)",
+    "language": "ar"
+  },
+  {
+    "name": "القرآن الكريم برسم العثماني (unicode)",
+    "language": "ar"
+  },
+  {
+    "name": "القرآن الكريم برسم العثماني (quran-academy)",
+    "language": "ar"
+  },
+  {
+    "name": "Kur'an - sa prevodom (značenja) na bosanski jezik, utemeljen na Ibn Kesirovom tumačenju, i kratki komentar",
+    "language": "ba"
+  },
+  {
+    "name": "Elmir Kuliev by 1MuslimApp",
+    "language": "ru"
+  },
+  {
+    "name": "Clear Qur'an - Talal Itani",
+    "language": "en"
+  },
+  {
+    "name": "تفسير القرطبي",
+    "language": "ar"
+  },
+  {
+    "name": "تنوير المقباس من تفسير بن عباس",
+    "language": "ar"
+  },
+  {
+    "name": "الـتـفـسـيـر الـوسـيـط",
+    "language": "ar"
+  },
+  {
+    "name": "تفسير البغوي",
+    "language": "ar"
+  },
+  {
+    "name": "Ghazi Muhammed Hashim",
+    "language": "my"
+  },
+  {
+    "name": "Mubarakpuri",
+    "language": "en"
+  },
+  {
+    "name": "ሳዲቅ & ሳኒ ሐቢብ",
+    "language": "am"
+  },
+  {
+    "name": "At Mensur",
+    "language": "ber"
+  },
+  {
+    "name": "জহুরুল হক",
+    "language": "bn"
+  },
+  {
+    "name": "Qarai",
+    "language": "en"
+  },
+  {
+    "name": "Wahiduddin Khan",
+    "language": "en"
+  },
+  {
+    "name": "Bornez",
+    "language": "es"
+  },
+  {
+    "name": "Garcia",
+    "language": "es"
+  },
+  {
+    "name": "محمد حسین نجفی",
+    "language": "ur"
+  },
+  {
+    "name": "قرائتی",
+    "language": "fa"
+  },
+  {
+    "name": "صادقی تهرانی",
+    "language": "fa"
+  },
+  {
+    "name": "صفوی",
+    "language": "fa"
+  },
+  {
+    "name": "Tafsir Jalalayn",
+    "language": "id"
+  },
+  {
+    "name": "കാരകുന്ന് & എളയാവൂര്",
+    "language": "ml"
+  },
+  {
+    "name": "Leemhuis",
+    "language": "nl"
+  },
+  {
+    "name": "Siregar",
+    "language": "nl"
+  },
+  {
+    "name": "عبدالولي",
+    "language": "ps"
+  },
+  {
+    "name": "Кулиев + ас-Саади",
+    "language": "ru"
+  },
+  {
+    "name": "Elmir Kuliev 2 by 1MuslimApp",
+    "language": "ru"
+  },
+  {
+    "name": "Chechen by Magomedov",
+    "language": "ce"
+  },
+  {
+    "name": "Транскрипция",
+    "language": "ru"
+  }
+]

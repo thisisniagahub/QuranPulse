@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6231,
+    "surahId": 114,
+    "ayahNumber": 1,
+    "arabicText": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ\n",
+    "translations": {
+      "en": "SAY: \"I seek refuge with the Sustainer of men,",
+      "ms": "",
+      "id": "",
+      "ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ\n"
+    }
+  },
+  {
+    "id": 6232,
+    "surahId": 114,
+    "ayahNumber": 2,
+    "arabicText": "مَلِكِ ٱلنَّاسِ\n",
+    "translations": {
+      "en": "\"the Sovereign of men,",
+      "ms": "",
+      "id": "",
+      "ar": "مَلِكِ ٱلنَّاسِ\n"
+    }
+  },
+  {
+    "id": 6233,
+    "surahId": 114,
+    "ayahNumber": 3,
+    "arabicText": "إِلَـٰهِ ٱلنَّاسِ\n",
+    "translations": {
+      "en": "\"the God of men,",
+      "ms": "",
+      "id": "",
+      "ar": "إِلَـٰهِ ٱلنَّاسِ\n"
+    }
+  },
+  {
+    "id": 6234,
+    "surahId": 114,
+    "ayahNumber": 4,
+    "arabicText": "مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ\n",
+    "translations": {
+      "en": "\"from the evil of the whispering, elusive tempter",
+      "ms": "",
+      "id": "",
+      "ar": "مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ\n"
+    }
+  },
+  {
+    "id": 6235,
+    "surahId": 114,
+    "ayahNumber": 5,
+    "arabicText": "ٱلَّذِی یُوَسۡوِسُ فِی صُدُورِ ٱلنَّاسِ\n",
+    "translations": {
+      "en": "\"who whispers in the hearts of men",
+      "ms": "",
+      "id": "",
+      "ar": "ٱلَّذِی یُوَسۡوِسُ فِی صُدُورِ ٱلنَّاسِ\n"
+    }
+  },
+  {
+    "id": 6236,
+    "surahId": 114,
+    "ayahNumber": 6,
+    "arabicText": "مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ",
+    "translations": {
+      "en": "\"from all [temptation to evil by] invisible forces as well as men,\"",
+      "ms": "",
+      "id": "",
+      "ar": "مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ"
+    }
+  }
+]

@@ -1,0 +1,938 @@
+[
+  {
+    "id": 2596,
+    "surahId": 22,
+    "ayahNumber": 1,
+    "arabicText": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ یَـٰۤأَیُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمۡۚ إِنَّ زَلۡزَلَةَ ٱلسَّاعَةِ شَیۡءٌ عَظِیمࣱ\n",
+    "translations": {
+      "en": "O men! Be conscious of your Sustainer: for, verily the violent convulsion of the Last Hour will be an awesome thing!",
+      "ms": "",
+      "id": "",
+      "ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ یَـٰۤأَیُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمۡۚ إِنَّ زَلۡزَلَةَ ٱلسَّاعَةِ شَیۡءٌ عَظِیمࣱ\n"
+    }
+  },
+  {
+    "id": 2597,
+    "surahId": 22,
+    "ayahNumber": 2,
+    "arabicText": "یَوۡمَ تَرَوۡنَهَا تَذۡهَلُ كُلُّ مُرۡضِعَةٍ عَمَّاۤ أَرۡضَعَتۡ وَتَضَعُ كُلُّ ذَاتِ حَمۡلٍ حَمۡلَهَا وَتَرَى ٱلنَّاسَ سُكَـٰرَىٰ وَمَا هُم بِسُكَـٰرَىٰ وَلَـٰكِنَّ عَذَابَ ٱللَّهِ شَدِیدࣱ\n",
+    "translations": {
+      "en": "On the Day when you behold it, every woman that feeds a child at her breast will utterly forget her nursling, and every woman heavy with child will bring forth her burden [before her time]; and it will seem to thee that all mankind is drunk, although they will not be drunk - but vehement will be [their dread of] God’s chastisement.",
+      "ms": "",
+      "id": "",
+      "ar": "یَوۡمَ تَرَوۡنَهَا تَذۡهَلُ كُلُّ مُرۡضِعَةٍ عَمَّاۤ أَرۡضَعَتۡ وَتَضَعُ كُلُّ ذَاتِ حَمۡلٍ حَمۡلَهَا وَتَرَى ٱلنَّاسَ سُكَـٰرَىٰ وَمَا هُم بِسُكَـٰرَىٰ وَلَـٰكِنَّ عَذَابَ ٱللَّهِ شَدِیدࣱ\n"
+    }
+  },
+  {
+    "id": 2598,
+    "surahId": 22,
+    "ayahNumber": 3,
+    "arabicText": "وَمِنَ ٱلنَّاسِ مَن یُجَـٰدِلُ فِی ٱللَّهِ بِغَیۡرِ عِلۡمࣲ وَیَتَّبِعُ كُلَّ شَیۡطَـٰنࣲ مَّرِیدࣲ\n",
+    "translations": {
+      "en": "And yet, among men there is many a one who argues about God without having any knowledge [of Him], and follows every rebellious satanic force",
+      "ms": "",
+      "id": "",
+      "ar": "وَمِنَ ٱلنَّاسِ مَن یُجَـٰدِلُ فِی ٱللَّهِ بِغَیۡرِ عِلۡمࣲ وَیَتَّبِعُ كُلَّ شَیۡطَـٰنࣲ مَّرِیدࣲ\n"
+    }
+  },
+  {
+    "id": 2599,
+    "surahId": 22,
+    "ayahNumber": 4,
+    "arabicText": "كُتِبَ عَلَیۡهِ أَنَّهُۥ مَن تَوَلَّاهُ فَأَنَّهُۥ یُضِلُّهُۥ وَیَهۡدِیهِ إِلَىٰ عَذَابِ ٱلسَّعِیرِ\n",
+    "translations": {
+      "en": "about which it has been decreed that whoever entrusts himself to it, him will it lead astray and guide towards the suffering of the blazing flame!",
+      "ms": "",
+      "id": "",
+      "ar": "كُتِبَ عَلَیۡهِ أَنَّهُۥ مَن تَوَلَّاهُ فَأَنَّهُۥ یُضِلُّهُۥ وَیَهۡدِیهِ إِلَىٰ عَذَابِ ٱلسَّعِیرِ\n"
+    }
+  },
+  {
+    "id": 2600,
+    "surahId": 22,
+    "ayahNumber": 5,
+    "arabicText": "یَـٰۤأَیُّهَا ٱلنَّاسُ إِن كُنتُمۡ فِی رَیۡبࣲ مِّنَ ٱلۡبَعۡثِ فَإِنَّا خَلَقۡنَـٰكُم مِّن تُرَابࣲ ثُمَّ مِن نُّطۡفَةࣲ ثُمَّ مِنۡ عَلَقَةࣲ ثُمَّ مِن مُّضۡغَةࣲ مُّخَلَّقَةࣲ وَغَیۡرِ مُخَلَّقَةࣲ لِّنُبَیِّنَ لَكُمۡۚ وَنُقِرُّ فِی ٱلۡأَرۡحَامِ مَا نَشَاۤءُ إِلَىٰۤ أَجَلࣲ مُّسَمࣰّى ثُمَّ نُخۡرِجُكُمۡ طِفۡلࣰا ثُمَّ لِتَبۡلُغُوۤا۟ أَشُدَّكُمۡۖ وَمِنكُم مَّن یُتَوَفَّىٰ وَمِنكُم مَّن یُرَدُّ إِلَىٰۤ أَرۡذَلِ ٱلۡعُمُرِ لِكَیۡلَا یَعۡلَمَ مِنۢ بَعۡدِ عِلۡمࣲ شَیۡـࣰٔاۚ وَتَرَى ٱلۡأَرۡضَ هَامِدَةࣰ فَإِذَاۤ أَنزَلۡنَا عَلَیۡهَا ٱلۡمَاۤءَ ٱهۡتَزَّتۡ وَرَبَتۡ وَأَنۢبَتَتۡ مِن كُلِّ زَوۡجِۭ بَهِیجࣲ\n",
+    "translations": {
+      "en": "O MEN! If you are in doubt as to the [truth of] resurrection, [remember that,] verily, We have created [every one of] you out of dust, then out of a drop of sperm, then out of a germ-cell, then out of an embryonic lump complete [in itself] and yet incom­plete so that We might make [your origin] clear unto you. And whatever We will [to be born] We cause to rest in the [mothers’] wombs for a term set [by Us], and then We bring you forth as infants and [allow you to live] so that [some of] you might attain to maturity: for among you are such as are caused to die [in childhood], just as many a one of you is reduced in old age to a most abject state, ceasing to know anything of what he once knew so well. And [if, O man, thou art still in doubt as to resur­rection, consider this:] thou canst see the earth dry and lifeless - and [suddenly,] when We send down waters upon it, it stirs and swells and puts forth every kind of lovely plant!",
+      "ms": "",
+      "id": "",
+      "ar": "یَـٰۤأَیُّهَا ٱلنَّاسُ إِن كُنتُمۡ فِی رَیۡبࣲ مِّنَ ٱلۡبَعۡثِ فَإِنَّا خَلَقۡنَـٰكُم مِّن تُرَابࣲ ثُمَّ مِن نُّطۡفَةࣲ ثُمَّ مِنۡ عَلَقَةࣲ ثُمَّ مِن مُّضۡغَةࣲ مُّخَلَّقَةࣲ وَغَیۡرِ مُخَلَّقَةࣲ لِّنُبَیِّنَ لَكُمۡۚ وَنُقِرُّ فِی ٱلۡأَرۡحَامِ مَا نَشَاۤءُ إِلَىٰۤ أَجَلࣲ مُّسَمࣰّى ثُمَّ نُخۡرِجُكُمۡ طِفۡلࣰا ثُمَّ لِتَبۡلُغُوۤا۟ أَشُدَّكُمۡۖ وَمِنكُم مَّن یُتَوَفَّىٰ وَمِنكُم مَّن یُرَدُّ إِلَىٰۤ أَرۡذَلِ ٱلۡعُمُرِ لِكَیۡلَا یَعۡلَمَ مِنۢ بَعۡدِ عِلۡمࣲ شَیۡـࣰٔاۚ وَتَرَى ٱلۡأَرۡضَ هَامِدَةࣰ فَإِذَاۤ أَنزَلۡنَا عَلَیۡهَا ٱلۡمَاۤءَ ٱهۡتَزَّتۡ وَرَبَتۡ وَأَنۢبَتَتۡ مِن كُلِّ زَوۡجِۭ بَهِیجࣲ\n"
+    }
+  },
+  {
+    "id": 2601,
+    "surahId": 22,
+    "ayahNumber": 6,
+    "arabicText": "ذَ ٰ⁠لِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلۡحَقُّ وَأَنَّهُۥ یُحۡیِ ٱلۡمَوۡتَىٰ وَأَنَّهُۥ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرࣱ\n",
+    "translations": {
+      "en": "All this [happens] because God alone is the Ultimate Truth, and because He alone brings the dead to life, and because He has the power to will anything.",
+      "ms": "",
+      "id": "",
+      "ar": "ذَ ٰ⁠لِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلۡحَقُّ وَأَنَّهُۥ یُحۡیِ ٱلۡمَوۡتَىٰ وَأَنَّهُۥ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرࣱ\n"
+    }
+  },
+  {
+    "id": 2602,
+    "surahId": 22,
+    "ayahNumber": 7,
+    "arabicText": "وَأَنَّ ٱلسَّاعَةَ ءَاتِیَةࣱ لَّا رَیۡبَ فِیهَا وَأَنَّ ٱللَّهَ یَبۡعَثُ مَن فِی ٱلۡقُبُورِ\n",
+    "translations": {
+      "en": "And [know, O man] that the Last Hour is bound to come, beyond any doubt, and that God will [in­deed] resurrect all who are in their graves.",
+      "ms": "",
+      "id": "",
+      "ar": "وَأَنَّ ٱلسَّاعَةَ ءَاتِیَةࣱ لَّا رَیۡبَ فِیهَا وَأَنَّ ٱللَّهَ یَبۡعَثُ مَن فِی ٱلۡقُبُورِ\n"
+    }
+  },
+  {
+    "id": 2603,
+    "surahId": 22,
+    "ayahNumber": 8,
+    "arabicText": "وَمِنَ ٱلنَّاسِ مَن یُجَـٰدِلُ فِی ٱللَّهِ بِغَیۡرِ عِلۡمࣲ وَلَا هُدࣰى وَلَا كِتَـٰبࣲ مُّنِیرࣲ\n",
+    "translations": {
+      "en": "And yet, among men there is many a one that argues about God without having any knowledge [of Him], without any guidance, and without any light-giving revelation –",
+      "ms": "",
+      "id": "",
+      "ar": "وَمِنَ ٱلنَّاسِ مَن یُجَـٰدِلُ فِی ٱللَّهِ بِغَیۡرِ عِلۡمࣲ وَلَا هُدࣰى وَلَا كِتَـٰبࣲ مُّنِیرࣲ\n"
+    }
+  },
+  {
+    "id": 2604,
+    "surahId": 22,
+    "ayahNumber": 9,
+    "arabicText": "ثَانِیَ عِطۡفِهِۦ لِیُضِلَّ عَن سَبِیلِ ٱللَّهِۖ لَهُۥ فِی ٱلدُّنۡیَا خِزۡیࣱۖ وَنُذِیقُهُۥ یَوۡمَ ٱلۡقِیَـٰمَةِ عَذَابَ ٱلۡحَرِیقِ\n",
+    "translations": {
+      "en": "scornfully turning aside [from the truth] so as to lead [others] astray from the path of God. Disgrace [of the spirit] is in store for him in this world; and on the Day of Resurrection We shall make him taste suffering through fire;",
+      "ms": "",
+      "id": "",
+      "ar": "ثَانِیَ عِطۡفِهِۦ لِیُضِلَّ عَن سَبِیلِ ٱللَّهِۖ لَهُۥ فِی ٱلدُّنۡیَا خِزۡیࣱۖ وَنُذِیقُهُۥ یَوۡمَ ٱلۡقِیَـٰمَةِ عَذَابَ ٱلۡحَرِیقِ\n"
+    }
+  },
+  {
+    "id": 2605,
+    "surahId": 22,
+    "ayahNumber": 10,
+    "arabicText": "ذَ ٰ⁠لِكَ بِمَا قَدَّمَتۡ یَدَاكَ وَأَنَّ ٱللَّهَ لَیۡسَ بِظَلَّـٰمࣲ لِّلۡعَبِیدِ\n",
+    "translations": {
+      "en": "[and he shall be told:] “This is an outcome of what thine own hands have wrought - for, never does God do the least wrong to His creatures!”",
+      "ms": "",
+      "id": "",
+      "ar": "ذَ ٰ⁠لِكَ بِمَا قَدَّمَتۡ یَدَاكَ وَأَنَّ ٱللَّهَ لَیۡسَ بِظَلَّـٰمࣲ لِّلۡعَبِیدِ\n"
+    }
+  },
+  {
+    "id": 2606,
+    "surahId": 22,
+    "ayahNumber": 11,
+    "arabicText": "وَمِنَ ٱلنَّاسِ مَن یَعۡبُدُ ٱللَّهَ عَلَىٰ حَرۡفࣲۖ فَإِنۡ أَصَابَهُۥ خَیۡرٌ ٱطۡمَأَنَّ بِهِۦۖ وَإِنۡ أَصَابَتۡهُ فِتۡنَةٌ ٱنقَلَبَ عَلَىٰ وَجۡهِهِۦ خَسِرَ ٱلدُّنۡیَا وَٱلۡـَٔاخِرَةَۚ ذَ ٰ⁠لِكَ هُوَ ٱلۡخُسۡرَانُ ٱلۡمُبِینُ\n",
+    "translations": {
+      "en": "And there is, too, among men many a one who worships God on the border-line [of faith]: thus, if good befalls him, he is satisfied with Him; but if a trial assails him, he turns away utterly, losing [thereby both] this world and the life to come: [and] this, indeed, is a loss beyond compare!",
+      "ms": "",
+      "id": "",
+      "ar": "وَمِنَ ٱلنَّاسِ مَن یَعۡبُدُ ٱللَّهَ عَلَىٰ حَرۡفࣲۖ فَإِنۡ أَصَابَهُۥ خَیۡرٌ ٱطۡمَأَنَّ بِهِۦۖ وَإِنۡ أَصَابَتۡهُ فِتۡنَةٌ ٱنقَلَبَ عَلَىٰ وَجۡهِهِۦ خَسِرَ ٱلدُّنۡیَا وَٱلۡـَٔاخِرَةَۚ ذَ ٰ⁠لِكَ هُوَ ٱلۡخُسۡرَانُ ٱلۡمُبِینُ\n"
+    }
+  },
+  {
+    "id": 2607,
+    "surahId": 22,
+    "ayahNumber": 12,
+    "arabicText": "یَدۡعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا یَضُرُّهُۥ وَمَا لَا یَنفَعُهُۥۚ ذَ ٰ⁠لِكَ هُوَ ٱلضَّلَـٰلُ ٱلۡبَعِیدُ\n",
+    "translations": {
+      "en": "[By behaving thus,] he invokes, instead of God, something that can neither harm nor benefit him: [and] this is indeed the utmost one can go astray.",
+      "ms": "",
+      "id": "",
+      "ar": "یَدۡعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا یَضُرُّهُۥ وَمَا لَا یَنفَعُهُۥۚ ذَ ٰ⁠لِكَ هُوَ ٱلضَّلَـٰلُ ٱلۡبَعِیدُ\n"
+    }
+  },
+  {
+    "id": 2608,
+    "surahId": 22,
+    "ayahNumber": 13,
+    "arabicText": "یَدۡعُوا۟ لَمَن ضَرُّهُۥۤ أَقۡرَبُ مِن نَّفۡعِهِۦۚ لَبِئۡسَ ٱلۡمَوۡلَىٰ وَلَبِئۡسَ ٱلۡعَشِیرُ\n",
+    "translations": {
+      "en": "[And sometimes] he invokes [another human being] one that is far more likely to cause harm than benefit: vile, indeed, is such a patron and vile the follower!",
+      "ms": "",
+      "id": "",
+      "ar": "یَدۡعُوا۟ لَمَن ضَرُّهُۥۤ أَقۡرَبُ مِن نَّفۡعِهِۦۚ لَبِئۡسَ ٱلۡمَوۡلَىٰ وَلَبِئۡسَ ٱلۡعَشِیرُ\n"
+    }
+  },
+  {
+    "id": 2609,
+    "surahId": 22,
+    "ayahNumber": 14,
+    "arabicText": "إِنَّ ٱللَّهَ یُدۡخِلُ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ جَنَّـٰتࣲ تَجۡرِی مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُۚ إِنَّ ٱللَّهَ یَفۡعَلُ مَا یُرِیدُ\n",
+    "translations": {
+      "en": "VERILY, God will admit those who have attained to faith and have done righteous deeds into gardens through which running waters flow: for, behold, God does whatever He wills.",
+      "ms": "",
+      "id": "",
+      "ar": "إِنَّ ٱللَّهَ یُدۡخِلُ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ جَنَّـٰتࣲ تَجۡرِی مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُۚ إِنَّ ٱللَّهَ یَفۡعَلُ مَا یُرِیدُ\n"
+    }
+  },
+  {
+    "id": 2610,
+    "surahId": 22,
+    "ayahNumber": 15,
+    "arabicText": "مَن كَانَ یَظُنُّ أَن لَّن یَنصُرَهُ ٱللَّهُ فِی ٱلدُّنۡیَا وَٱلۡـَٔاخِرَةِ فَلۡیَمۡدُدۡ بِسَبَبٍ إِلَى ٱلسَّمَاۤءِ ثُمَّ لۡیَقۡطَعۡ فَلۡیَنظُرۡ هَلۡ یُذۡهِبَنَّ كَیۡدُهُۥ مَا یَغِیظُ\n",
+    "translations": {
+      "en": "If anyone thinks that God will not succour him in this world and in the life to come, let him reach out unto heaven by any [other] means and [thus try to] make headway: and then let him see whether this scheme of his will indeed do away with the cause of his anguish.",
+      "ms": "",
+      "id": "",
+      "ar": "مَن كَانَ یَظُنُّ أَن لَّن یَنصُرَهُ ٱللَّهُ فِی ٱلدُّنۡیَا وَٱلۡـَٔاخِرَةِ فَلۡیَمۡدُدۡ بِسَبَبٍ إِلَى ٱلسَّمَاۤءِ ثُمَّ لۡیَقۡطَعۡ فَلۡیَنظُرۡ هَلۡ یُذۡهِبَنَّ كَیۡدُهُۥ مَا یَغِیظُ\n"
+    }
+  },
+  {
+    "id": 2611,
+    "surahId": 22,
+    "ayahNumber": 16,
+    "arabicText": "وَكَذَ ٰ⁠لِكَ أَنزَلۡنَـٰهُ ءَایَـٰتِۭ بَیِّنَـٰتࣲ وَأَنَّ ٱللَّهَ یَهۡدِی مَن یُرِیدُ\n",
+    "translations": {
+      "en": "And thus have We bestowed from on high this [divine writ] in the shape of clear messages: for [thus it is] that God guides him who wills [to be guided].",
+      "ms": "",
+      "id": "",
+      "ar": "وَكَذَ ٰ⁠لِكَ أَنزَلۡنَـٰهُ ءَایَـٰتِۭ بَیِّنَـٰتࣲ وَأَنَّ ٱللَّهَ یَهۡدِی مَن یُرِیدُ\n"
+    }
+  },
+  {
+    "id": 2612,
+    "surahId": 22,
+    "ayahNumber": 17,
+    "arabicText": "إِنَّ ٱلَّذِینَ ءَامَنُوا۟ وَٱلَّذِینَ هَادُوا۟ وَٱلصَّـٰبِـِٔینَ وَٱلنَّصَـٰرَىٰ وَٱلۡمَجُوسَ وَٱلَّذِینَ أَشۡرَكُوۤا۟ إِنَّ ٱللَّهَ یَفۡصِلُ بَیۡنَهُمۡ یَوۡمَ ٱلۡقِیَـٰمَةِۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَیۡءࣲ شَهِیدٌ\n",
+    "translations": {
+      "en": "Verily, as for those who have attained to faith [in this divine writ], and those who follow the Jewish faith, and the Sabians, and the Christians, and the Magians, [on the one hand,] and those who are bent on ascribing divinity to aught but God, [on the other,] verily, God will decide between them on Resurrection Day: for, behold, God is witness unto everything.",
+      "ms": "",
+      "id": "",
+      "ar": "إِنَّ ٱلَّذِینَ ءَامَنُوا۟ وَٱلَّذِینَ هَادُوا۟ وَٱلصَّـٰبِـِٔینَ وَٱلنَّصَـٰرَىٰ وَٱلۡمَجُوسَ وَٱلَّذِینَ أَشۡرَكُوۤا۟ إِنَّ ٱللَّهَ یَفۡصِلُ بَیۡنَهُمۡ یَوۡمَ ٱلۡقِیَـٰمَةِۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَیۡءࣲ شَهِیدٌ\n"
+    }
+  },
+  {
+    "id": 2613,
+    "surahId": 22,
+    "ayahNumber": 18,
+    "arabicText": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ یَسۡجُدُ لَهُۥ مَن فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَمَن فِی ٱلۡأَرۡضِ وَٱلشَّمۡسُ وَٱلۡقَمَرُ وَٱلنُّجُومُ وَٱلۡجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَاۤبُّ وَكَثِیرࣱ مِّنَ ٱلنَّاسِۖ وَكَثِیرٌ حَقَّ عَلَیۡهِ ٱلۡعَذَابُۗ وَمَن یُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكۡرِمٍۚ إِنَّ ٱللَّهَ یَفۡعَلُ مَا یَشَاۤءُ ۩\n",
+    "translations": {
+      "en": "ART THOU NOT aware that before God prostrate themselves all [things and beings] that are in the heavens and all that are on earth the sun, and the moon, and the stars, and the mountains, and the trees, and the beasts? And many human beings [submit to God con­sciously], whereas many [others, having defied Him,] will inevitably have to suffer [in the life to come]; and he whom God shall scorn [on Resur­rection Day] will have none who could bestow honour on him: for, verily, God does what He wills.",
+      "ms": "",
+      "id": "",
+      "ar": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ یَسۡجُدُ لَهُۥ مَن فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَمَن فِی ٱلۡأَرۡضِ وَٱلشَّمۡسُ وَٱلۡقَمَرُ وَٱلنُّجُومُ وَٱلۡجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَاۤبُّ وَكَثِیرࣱ مِّنَ ٱلنَّاسِۖ وَكَثِیرٌ حَقَّ عَلَیۡهِ ٱلۡعَذَابُۗ وَمَن یُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكۡرِمٍۚ إِنَّ ٱللَّهَ یَفۡعَلُ مَا یَشَاۤءُ ۩\n"
+    }
+  },
+  {
+    "id": 2614,
+    "surahId": 22,
+    "ayahNumber": 19,
+    "arabicText": "۞ هَـٰذَانِ خَصۡمَانِ ٱخۡتَصَمُوا۟ فِی رَبِّهِمۡۖ فَٱلَّذِینَ كَفَرُوا۟ قُطِّعَتۡ لَهُمۡ ثِیَابࣱ مِّن نَّارࣲ یُصَبُّ مِن فَوۡقِ رُءُوسِهِمُ ٱلۡحَمِیمُ\n",
+    "translations": {
+      "en": "These two contrary kinds of man have become engrossed in contention about their Sus­tainer! But [thus it is:] as for those who are bent on denying the truth garments of fire shall be cut out for them [in the life to come]; burning despair will be poured over their heads,",
+      "ms": "",
+      "id": "",
+      "ar": "۞ هَـٰذَانِ خَصۡمَانِ ٱخۡتَصَمُوا۟ فِی رَبِّهِمۡۖ فَٱلَّذِینَ كَفَرُوا۟ قُطِّعَتۡ لَهُمۡ ثِیَابࣱ مِّن نَّارࣲ یُصَبُّ مِن فَوۡقِ رُءُوسِهِمُ ٱلۡحَمِیمُ\n"
+    }
+  },
+  {
+    "id": 2615,
+    "surahId": 22,
+    "ayahNumber": 20,
+    "arabicText": "یُصۡهَرُ بِهِۦ مَا فِی بُطُونِهِمۡ وَٱلۡجُلُودُ\n",
+    "translations": {
+      "en": "causing all that is within their bodies, as well as the skins, to melt away.",
+      "ms": "",
+      "id": "",
+      "ar": "یُصۡهَرُ بِهِۦ مَا فِی بُطُونِهِمۡ وَٱلۡجُلُودُ\n"
+    }
+  },
+  {
+    "id": 2616,
+    "surahId": 22,
+    "ayahNumber": 21,
+    "arabicText": "وَلَهُم مَّقَـٰمِعُ مِنۡ حَدِیدࣲ\n",
+    "translations": {
+      "en": "And they shall be held [in this state as if] by iron grips;",
+      "ms": "",
+      "id": "",
+      "ar": "وَلَهُم مَّقَـٰمِعُ مِنۡ حَدِیدࣲ\n"
+    }
+  },
+  {
+    "id": 2617,
+    "surahId": 22,
+    "ayahNumber": 22,
+    "arabicText": "كُلَّمَاۤ أَرَادُوۤا۟ أَن یَخۡرُجُوا۟ مِنۡهَا مِنۡ غَمٍّ أُعِیدُوا۟ فِیهَا وَذُوقُوا۟ عَذَابَ ٱلۡحَرِیقِ\n",
+    "translations": {
+      "en": "and every time they try in their anguish to come out of it, they shall be returned thereto and [be told]: “Taste suffering through fire [to the full]!”",
+      "ms": "",
+      "id": "",
+      "ar": "كُلَّمَاۤ أَرَادُوۤا۟ أَن یَخۡرُجُوا۟ مِنۡهَا مِنۡ غَمٍّ أُعِیدُوا۟ فِیهَا وَذُوقُوا۟ عَذَابَ ٱلۡحَرِیقِ\n"
+    }
+  },
+  {
+    "id": 2618,
+    "surahId": 22,
+    "ayahNumber": 23,
+    "arabicText": "إِنَّ ٱللَّهَ یُدۡخِلُ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ جَنَّـٰتࣲ تَجۡرِی مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُ یُحَلَّوۡنَ فِیهَا مِنۡ أَسَاوِرَ مِن ذَهَبࣲ وَلُؤۡلُؤࣰاۖ وَلِبَاسُهُمۡ فِیهَا حَرِیرࣱ\n",
+    "translations": {
+      "en": "[As against this,] behold, God will admit those who attain to faith and do righteous deeds into gar­dens through which running waters flow, wherein they will be adorned with bracelets of gold and pearls, and where silk will be their raiment:",
+      "ms": "",
+      "id": "",
+      "ar": "إِنَّ ٱللَّهَ یُدۡخِلُ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ جَنَّـٰتࣲ تَجۡرِی مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُ یُحَلَّوۡنَ فِیهَا مِنۡ أَسَاوِرَ مِن ذَهَبࣲ وَلُؤۡلُؤࣰاۖ وَلِبَاسُهُمۡ فِیهَا حَرِیرࣱ\n"
+    }
+  },
+  {
+    "id": 2619,
+    "surahId": 22,
+    "ayahNumber": 24,
+    "arabicText": "وَهُدُوۤا۟ إِلَى ٱلطَّیِّبِ مِنَ ٱلۡقَوۡلِ وَهُدُوۤا۟ إِلَىٰ صِرَ ٰ⁠طِ ٱلۡحَمِیدِ\n",
+    "translations": {
+      "en": "for they were [willing to be] guided towards the best of all tenets, and so they were guided onto the way that leads to the One unto whom all praise is due.",
+      "ms": "",
+      "id": "",
+      "ar": "وَهُدُوۤا۟ إِلَى ٱلطَّیِّبِ مِنَ ٱلۡقَوۡلِ وَهُدُوۤا۟ إِلَىٰ صِرَ ٰ⁠طِ ٱلۡحَمِیدِ\n"
+    }
+  },
+  {
+    "id": 2620,
+    "surahId": 22,
+    "ayahNumber": 25,
+    "arabicText": "إِنَّ ٱلَّذِینَ كَفَرُوا۟ وَیَصُدُّونَ عَن سَبِیلِ ٱللَّهِ وَٱلۡمَسۡجِدِ ٱلۡحَرَامِ ٱلَّذِی جَعَلۡنَـٰهُ لِلنَّاسِ سَوَاۤءً ٱلۡعَـٰكِفُ فِیهِ وَٱلۡبَادِۚ وَمَن یُرِدۡ فِیهِ بِإِلۡحَادِۭ بِظُلۡمࣲ نُّذِقۡهُ مِنۡ عَذَابٍ أَلِیمࣲ\n",
+    "translations": {
+      "en": "BEHOLD, as for those who are bent on denying the truth and bar [others] from the path of God and from the Inviolable House of Worship which We have set up for all people alike - [both] those who dwell there and those who come from abroad - and all who seek to profane it by [deliberate] evildoing: [all] such shall We cause to taste grievous suffering in the life to come.]",
+      "ms": "",
+      "id": "",
+      "ar": "إِنَّ ٱلَّذِینَ كَفَرُوا۟ وَیَصُدُّونَ عَن سَبِیلِ ٱللَّهِ وَٱلۡمَسۡجِدِ ٱلۡحَرَامِ ٱلَّذِی جَعَلۡنَـٰهُ لِلنَّاسِ سَوَاۤءً ٱلۡعَـٰكِفُ فِیهِ وَٱلۡبَادِۚ وَمَن یُرِدۡ فِیهِ بِإِلۡحَادِۭ بِظُلۡمࣲ نُّذِقۡهُ مِنۡ عَذَابٍ أَلِیمࣲ\n"
+    }
+  },
+  {
+    "id": 2621,
+    "surahId": 22,
+    "ayahNumber": 26,
+    "arabicText": "وَإِذۡ بَوَّأۡنَا لِإِبۡرَ ٰ⁠هِیمَ مَكَانَ ٱلۡبَیۡتِ أَن لَّا تُشۡرِكۡ بِی شَیۡـࣰٔا وَطَهِّرۡ بَیۡتِیَ لِلطَّاۤىِٕفِینَ وَٱلۡقَاۤىِٕمِینَ وَٱلرُّكَّعِ ٱلسُّجُودِ\n",
+    "translations": {
+      "en": "For, when We assigned unto Abraham the site of this Temple, [We said unto him:] “Do not ascribe divinity to aught beside Me!” and: “Purify My Temple for those who will walk around it, and those who will stand before it [in meditation], and those who will bow down and prostrate themselves [in prayer].”",
+      "ms": "",
+      "id": "",
+      "ar": "وَإِذۡ بَوَّأۡنَا لِإِبۡرَ ٰ⁠هِیمَ مَكَانَ ٱلۡبَیۡتِ أَن لَّا تُشۡرِكۡ بِی شَیۡـࣰٔا وَطَهِّرۡ بَیۡتِیَ لِلطَّاۤىِٕفِینَ وَٱلۡقَاۤىِٕمِینَ وَٱلرُّكَّعِ ٱلسُّجُودِ\n"
+    }
+  },
+  {
+    "id": 2622,
+    "surahId": 22,
+    "ayahNumber": 27,
+    "arabicText": "وَأَذِّن فِی ٱلنَّاسِ بِٱلۡحَجِّ یَأۡتُوكَ رِجَالࣰا وَعَلَىٰ كُلِّ ضَامِرࣲ یَأۡتِینَ مِن كُلِّ فَجٍّ عَمِیقࣲ\n",
+    "translations": {
+      "en": "Hence, [O Muhammad,] proclaim thou unto all people the [duty of] pilgrimage: they will come unto thee on foot and on every [kind of] fast mount, coming from every far-away point [on earth],",
+      "ms": "",
+      "id": "",
+      "ar": "وَأَذِّن فِی ٱلنَّاسِ بِٱلۡحَجِّ یَأۡتُوكَ رِجَالࣰا وَعَلَىٰ كُلِّ ضَامِرࣲ یَأۡتِینَ مِن كُلِّ فَجٍّ عَمِیقࣲ\n"
+    }
+  },
+  {
+    "id": 2623,
+    "surahId": 22,
+    "ayahNumber": 28,
+    "arabicText": "لِّیَشۡهَدُوا۟ مَنَـٰفِعَ لَهُمۡ وَیَذۡكُرُوا۟ ٱسۡمَ ٱللَّهِ فِیۤ أَیَّامࣲ مَّعۡلُومَـٰتٍ عَلَىٰ مَا رَزَقَهُم مِّنۢ بَهِیمَةِ ٱلۡأَنۡعَـٰمِۖ فَكُلُوا۟ مِنۡهَا وَأَطۡعِمُوا۟ ٱلۡبَاۤىِٕسَ ٱلۡفَقِیرَ\n",
+    "translations": {
+      "en": "so that they might experience much that shall be of benefit to them, and that they might extol the name of God on the days appointed [for sacrifice], over whatever heads of cattle He may have provided for them [to this end]: eat, then, thereof, and feed the unfortunate poor.",
+      "ms": "",
+      "id": "",
+      "ar": "لِّیَشۡهَدُوا۟ مَنَـٰفِعَ لَهُمۡ وَیَذۡكُرُوا۟ ٱسۡمَ ٱللَّهِ فِیۤ أَیَّامࣲ مَّعۡلُومَـٰتٍ عَلَىٰ مَا رَزَقَهُم مِّنۢ بَهِیمَةِ ٱلۡأَنۡعَـٰمِۖ فَكُلُوا۟ مِنۡهَا وَأَطۡعِمُوا۟ ٱلۡبَاۤىِٕسَ ٱلۡفَقِیرَ\n"
+    }
+  },
+  {
+    "id": 2624,
+    "surahId": 22,
+    "ayahNumber": 29,
+    "arabicText": "ثُمَّ لۡیَقۡضُوا۟ تَفَثَهُمۡ وَلۡیُوفُوا۟ نُذُورَهُمۡ وَلۡیَطَّوَّفُوا۟ بِٱلۡبَیۡتِ ٱلۡعَتِیقِ\n",
+    "translations": {
+      "en": "Thereafter let them bring to an end their state of self-denial, and let them fulfill the vows which they [may] have made, and let them walk [once again] around the Most Ancient Temple.",
+      "ms": "",
+      "id": "",
+      "ar": "ثُمَّ لۡیَقۡضُوا۟ تَفَثَهُمۡ وَلۡیُوفُوا۟ نُذُورَهُمۡ وَلۡیَطَّوَّفُوا۟ بِٱلۡبَیۡتِ ٱلۡعَتِیقِ\n"
+    }
+  },
+  {
+    "id": 2625,
+    "surahId": 22,
+    "ayahNumber": 30,
+    "arabicText": "ذَ ٰ⁠لِكَۖ وَمَن یُعَظِّمۡ حُرُمَـٰتِ ٱللَّهِ فَهُوَ خَیۡرࣱ لَّهُۥ عِندَ رَبِّهِۦۗ وَأُحِلَّتۡ لَكُمُ ٱلۡأَنۡعَـٰمُ إِلَّا مَا یُتۡلَىٰ عَلَیۡكُمۡۖ فَٱجۡتَنِبُوا۟ ٱلرِّجۡسَ مِنَ ٱلۡأَوۡثَـٰنِ وَٱجۡتَنِبُوا۟ قَوۡلَ ٱلزُّورِ\n",
+    "translations": {
+      "en": "All this [is ordained by God]; and if one houours God’s sacred commandments, it will redound to his own good in his Sustainer’s sight. And all [kinds of] cattle have been made lawful to you [for sacrifice and food], save what is mentioned to you [as forbidden]. Shun, then, [all that God has forbidden and, most of all,] the loathsome evil of idolatrous beliefs and practices; and shun every word that is untrue,",
+      "ms": "",
+      "id": "",
+      "ar": "ذَ ٰ⁠لِكَۖ وَمَن یُعَظِّمۡ حُرُمَـٰتِ ٱللَّهِ فَهُوَ خَیۡرࣱ لَّهُۥ عِندَ رَبِّهِۦۗ وَأُحِلَّتۡ لَكُمُ ٱلۡأَنۡعَـٰمُ إِلَّا مَا یُتۡلَىٰ عَلَیۡكُمۡۖ فَٱجۡتَنِبُوا۟ ٱلرِّجۡسَ مِنَ ٱلۡأَوۡثَـٰنِ وَٱجۡتَنِبُوا۟ قَوۡلَ ٱلزُّورِ\n"
+    }
+  },
+  {
+    "id": 2626,
+    "surahId": 22,
+    "ayahNumber": 31,
+    "arabicText": "حُنَفَاۤءَ لِلَّهِ غَیۡرَ مُشۡرِكِینَ بِهِۦۚ وَمَن یُشۡرِكۡ بِٱللَّهِ فَكَأَنَّمَا خَرَّ مِنَ ٱلسَّمَاۤءِ فَتَخۡطَفُهُ ٱلطَّیۡرُ أَوۡ تَهۡوِی بِهِ ٱلرِّیحُ فِی مَكَانࣲ سَحِیقࣲ\n",
+    "translations": {
+      "en": "[inclining] towards God, [and] turning away from all that is false, without ascribing divine qualities to aught beside Him: for he who ascribes divinity to aught but God is like one who is hurtling down from the skies - whereupon the birds carry him off, or the wind blows him away onto a far-off place.",
+      "ms": "",
+      "id": "",
+      "ar": "حُنَفَاۤءَ لِلَّهِ غَیۡرَ مُشۡرِكِینَ بِهِۦۚ وَمَن یُشۡرِكۡ بِٱللَّهِ فَكَأَنَّمَا خَرَّ مِنَ ٱلسَّمَاۤءِ فَتَخۡطَفُهُ ٱلطَّیۡرُ أَوۡ تَهۡوِی بِهِ ٱلرِّیحُ فِی مَكَانࣲ سَحِیقࣲ\n"
+    }
+  },
+  {
+    "id": 2627,
+    "surahId": 22,
+    "ayahNumber": 32,
+    "arabicText": "ذَ ٰ⁠لِكَۖ وَمَن یُعَظِّمۡ شَعَـٰۤىِٕرَ ٱللَّهِ فَإِنَّهَا مِن تَقۡوَى ٱلۡقُلُوبِ\n",
+    "translations": {
+      "en": "This is [to be borne in mind]. And anyone who honours the symbols set up by God [shall know that] verily, these [symbols derive their value] from the God-consciousness in the [believers’] hearts.",
+      "ms": "",
+      "id": "",
+      "ar": "ذَ ٰ⁠لِكَۖ وَمَن یُعَظِّمۡ شَعَـٰۤىِٕرَ ٱللَّهِ فَإِنَّهَا مِن تَقۡوَى ٱلۡقُلُوبِ\n"
+    }
+  },
+  {
+    "id": 2628,
+    "surahId": 22,
+    "ayahNumber": 33,
+    "arabicText": "لَكُمۡ فِیهَا مَنَـٰفِعُ إِلَىٰۤ أَجَلࣲ مُّسَمࣰّى ثُمَّ مَحِلُّهَاۤ إِلَى ٱلۡبَیۡتِ ٱلۡعَتِیقِ\n",
+    "translations": {
+      "en": "In that [God-consciousness] you shall find benefits until a term set [by Him is fulfilled], and [you shall know that] its goal and end is the Most Ancient Temple.",
+      "ms": "",
+      "id": "",
+      "ar": "لَكُمۡ فِیهَا مَنَـٰفِعُ إِلَىٰۤ أَجَلࣲ مُّسَمࣰّى ثُمَّ مَحِلُّهَاۤ إِلَى ٱلۡبَیۡتِ ٱلۡعَتِیقِ\n"
+    }
+  },
+  {
+    "id": 2629,
+    "surahId": 22,
+    "ayahNumber": 34,
+    "arabicText": "وَلِكُلِّ أُمَّةࣲ جَعَلۡنَا مَنسَكࣰا لِّیَذۡكُرُوا۟ ٱسۡمَ ٱللَّهِ عَلَىٰ مَا رَزَقَهُم مِّنۢ بَهِیمَةِ ٱلۡأَنۡعَـٰمِۗ فَإِلَـٰهُكُمۡ إِلَـٰهࣱ وَ ٰ⁠حِدࣱ فَلَهُۥۤ أَسۡلِمُوا۟ۗ وَبَشِّرِ ٱلۡمُخۡبِتِینَ\n",
+    "translations": {
+      "en": "And [thus it is:] unto every community [that has ever believed in Us] have We appointed [sacrifice as] an act of worship, so that they might extol the name of God over whatever heads of cattle He may have provided for them [to this end]. And (always bear in mind:) your God is the One and Only God: hence, surrender yourselves unto Him. And give thou the glad tiding [of God’s acceptance] unto all who are humble –",
+      "ms": "",
+      "id": "",
+      "ar": "وَلِكُلِّ أُمَّةࣲ جَعَلۡنَا مَنسَكࣰا لِّیَذۡكُرُوا۟ ٱسۡمَ ٱللَّهِ عَلَىٰ مَا رَزَقَهُم مِّنۢ بَهِیمَةِ ٱلۡأَنۡعَـٰمِۗ فَإِلَـٰهُكُمۡ إِلَـٰهࣱ وَ ٰ⁠حِدࣱ فَلَهُۥۤ أَسۡلِمُوا۟ۗ وَبَشِّرِ ٱلۡمُخۡبِتِینَ\n"
+    }
+  },
+  {
+    "id": 2630,
+    "surahId": 22,
+    "ayahNumber": 35,
+    "arabicText": "ٱلَّذِینَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتۡ قُلُوبُهُمۡ وَٱلصَّـٰبِرِینَ عَلَىٰ مَاۤ أَصَابَهُمۡ وَٱلۡمُقِیمِی ٱلصَّلَوٰةِ وَمِمَّا رَزَقۡنَـٰهُمۡ یُنفِقُونَ\n",
+    "translations": {
+      "en": "all whose hearts tremble with awe whenever God is mentioned, and all who patiently bear whatever ill befalls them, and all who are constant in prayer and spend on others out of what We provide for them as sustenance.",
+      "ms": "",
+      "id": "",
+      "ar": "ٱلَّذِینَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتۡ قُلُوبُهُمۡ وَٱلصَّـٰبِرِینَ عَلَىٰ مَاۤ أَصَابَهُمۡ وَٱلۡمُقِیمِی ٱلصَّلَوٰةِ وَمِمَّا رَزَقۡنَـٰهُمۡ یُنفِقُونَ\n"
+    }
+  },
+  {
+    "id": 2631,
+    "surahId": 22,
+    "ayahNumber": 36,
+    "arabicText": "وَٱلۡبُدۡنَ جَعَلۡنَـٰهَا لَكُم مِّن شَعَـٰۤىِٕرِ ٱللَّهِ لَكُمۡ فِیهَا خَیۡرࣱۖ فَٱذۡكُرُوا۟ ٱسۡمَ ٱللَّهِ عَلَیۡهَا صَوَاۤفَّۖ فَإِذَا وَجَبَتۡ جُنُوبُهَا فَكُلُوا۟ مِنۡهَا وَأَطۡعِمُوا۟ ٱلۡقَانِعَ وَٱلۡمُعۡتَرَّۚ كَذَ ٰ⁠لِكَ سَخَّرۡنَـٰهَا لَكُمۡ لَعَلَّكُمۡ تَشۡكُرُونَ\n",
+    "translations": {
+      "en": "And as for the sacrifice of cattle, We have ordained it for you as one of the symbols set up by God, in which there is [much] good for you. Hence, extol the name of God over them when they are lined up [for sacrifice]; and after they have fallen lifeless to the ground, eat of their flesh, and feed the poor who is contented with his lot (and does not beg), as well as him who is forced to beg. It is to this end that We have made them subservient to your needs, so that you might have cause to be grateful.",
+      "ms": "",
+      "id": "",
+      "ar": "وَٱلۡبُدۡنَ جَعَلۡنَـٰهَا لَكُم مِّن شَعَـٰۤىِٕرِ ٱللَّهِ لَكُمۡ فِیهَا خَیۡرࣱۖ فَٱذۡكُرُوا۟ ٱسۡمَ ٱللَّهِ عَلَیۡهَا صَوَاۤفَّۖ فَإِذَا وَجَبَتۡ جُنُوبُهَا فَكُلُوا۟ مِنۡهَا وَأَطۡعِمُوا۟ ٱلۡقَانِعَ وَٱلۡمُعۡتَرَّۚ كَذَ ٰ⁠لِكَ سَخَّرۡنَـٰهَا لَكُمۡ لَعَلَّكُمۡ تَشۡكُرُونَ\n"
+    }
+  },
+  {
+    "id": 2632,
+    "surahId": 22,
+    "ayahNumber": 37,
+    "arabicText": "لَن یَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَاۤؤُهَا وَلَـٰكِن یَنَالُهُ ٱلتَّقۡوَىٰ مِنكُمۡۚ كَذَ ٰ⁠لِكَ سَخَّرَهَا لَكُمۡ لِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمۡۗ وَبَشِّرِ ٱلۡمُحۡسِنِینَ\n",
+    "translations": {
+      "en": "[But bear in mind:] never does their flesh reach God, and neither their blood: it is only your God-consciousness that reaches Him. It is to this end that We have made them subservient to your needs, so that you might glorify God for all the guidance with which He has graced you. And give thou this glad tiding unto the doers of good:",
+      "ms": "",
+      "id": "",
+      "ar": "لَن یَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَاۤؤُهَا وَلَـٰكِن یَنَالُهُ ٱلتَّقۡوَىٰ مِنكُمۡۚ كَذَ ٰ⁠لِكَ سَخَّرَهَا لَكُمۡ لِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمۡۗ وَبَشِّرِ ٱلۡمُحۡسِنِینَ\n"
+    }
+  },
+  {
+    "id": 2633,
+    "surahId": 22,
+    "ayahNumber": 38,
+    "arabicText": "۞ إِنَّ ٱللَّهَ یُدَ ٰ⁠فِعُ عَنِ ٱلَّذِینَ ءَامَنُوۤا۟ۗ إِنَّ ٱللَّهَ لَا یُحِبُّ كُلَّ خَوَّانࣲ كَفُورٍ\n",
+    "translations": {
+      "en": "Verily, God will ward off [all evil] from those who attain to faith; [and,] verily, God does not love anyone who betrays his trust and is bereft of gratitude.",
+      "ms": "",
+      "id": "",
+      "ar": "۞ إِنَّ ٱللَّهَ یُدَ ٰ⁠فِعُ عَنِ ٱلَّذِینَ ءَامَنُوۤا۟ۗ إِنَّ ٱللَّهَ لَا یُحِبُّ كُلَّ خَوَّانࣲ كَفُورٍ\n"
+    }
+  },
+  {
+    "id": 2634,
+    "surahId": 22,
+    "ayahNumber": 39,
+    "arabicText": "أُذِنَ لِلَّذِینَ یُقَـٰتَلُونَ بِأَنَّهُمۡ ظُلِمُوا۟ۚ وَإِنَّ ٱللَّهَ عَلَىٰ نَصۡرِهِمۡ لَقَدِیرٌ\n",
+    "translations": {
+      "en": "PERMISSION [to fight] is given to those against whom war is being wrongfully waged and, verily, God has indeed the power to succour them -:",
+      "ms": "",
+      "id": "",
+      "ar": "أُذِنَ لِلَّذِینَ یُقَـٰتَلُونَ بِأَنَّهُمۡ ظُلِمُوا۟ۚ وَإِنَّ ٱللَّهَ عَلَىٰ نَصۡرِهِمۡ لَقَدِیرٌ\n"
+    }
+  },
+  {
+    "id": 2635,
+    "surahId": 22,
+    "ayahNumber": 40,
+    "arabicText": "ٱلَّذِینَ أُخۡرِجُوا۟ مِن دِیَـٰرِهِم بِغَیۡرِ حَقٍّ إِلَّاۤ أَن یَقُولُوا۟ رَبُّنَا ٱللَّهُۗ وَلَوۡلَا دَفۡعُ ٱللَّهِ ٱلنَّاسَ بَعۡضَهُم بِبَعۡضࣲ لَّهُدِّمَتۡ صَوَ ٰ⁠مِعُ وَبِیَعࣱ وَصَلَوَ ٰ⁠تࣱ وَمَسَـٰجِدُ یُذۡكَرُ فِیهَا ٱسۡمُ ٱللَّهِ كَثِیرࣰاۗ وَلَیَنصُرَنَّ ٱللَّهُ مَن یَنصُرُهُۥۤۚ إِنَّ ٱللَّهَ لَقَوِیٌّ عَزِیزٌ\n",
+    "translations": {
+      "en": "those who have been driven from their homelands against all right for no other reason than their saying. “Our Sustainer is God!” For, if God had not enabled people to defend themselves against one another, all] monasteries and churches and synagogues and mosques - in [all of] which Gods name is abundantly extolled - would surely have been destroyed [ere now]. And God will most certainly succour him who suc­cours His cause: for, verily, God is most powerful, almighty,",
+      "ms": "",
+      "id": "",
+      "ar": "ٱلَّذِینَ أُخۡرِجُوا۟ مِن دِیَـٰرِهِم بِغَیۡرِ حَقٍّ إِلَّاۤ أَن یَقُولُوا۟ رَبُّنَا ٱللَّهُۗ وَلَوۡلَا دَفۡعُ ٱللَّهِ ٱلنَّاسَ بَعۡضَهُم بِبَعۡضࣲ لَّهُدِّمَتۡ صَوَ ٰ⁠مِعُ وَبِیَعࣱ وَصَلَوَ ٰ⁠تࣱ وَمَسَـٰجِدُ یُذۡكَرُ فِیهَا ٱسۡمُ ٱللَّهِ كَثِیرࣰاۗ وَلَیَنصُرَنَّ ٱللَّهُ مَن یَنصُرُهُۥۤۚ إِنَّ ٱللَّهَ لَقَوِیٌّ عَزِیزٌ\n"
+    }
+  },
+  {
+    "id": 2636,
+    "surahId": 22,
+    "ayahNumber": 41,
+    "arabicText": "ٱلَّذِینَ إِن مَّكَّنَّـٰهُمۡ فِی ٱلۡأَرۡضِ أَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ وَأَمَرُوا۟ بِٱلۡمَعۡرُوفِ وَنَهَوۡا۟ عَنِ ٱلۡمُنكَرِۗ وَلِلَّهِ عَـٰقِبَةُ ٱلۡأُمُورِ\n",
+    "translations": {
+      "en": "[well aware of] those who, [even] if We firmly establish them on earth, remain constant in prayer, and give in charity, and enjoin the doing of what is right and forbid the doing of what is wrong; but with God rests the final outcome of all events.",
+      "ms": "",
+      "id": "",
+      "ar": "ٱلَّذِینَ إِن مَّكَّنَّـٰهُمۡ فِی ٱلۡأَرۡضِ أَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ وَأَمَرُوا۟ بِٱلۡمَعۡرُوفِ وَنَهَوۡا۟ عَنِ ٱلۡمُنكَرِۗ وَلِلَّهِ عَـٰقِبَةُ ٱلۡأُمُورِ\n"
+    }
+  },
+  {
+    "id": 2637,
+    "surahId": 22,
+    "ayahNumber": 42,
+    "arabicText": "وَإِن یُكَذِّبُوكَ فَقَدۡ كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحࣲ وَعَادࣱ وَثَمُودُ\n",
+    "translations": {
+      "en": "AND IF THEY [who are bent on denying the truth] give thee the lie, [O Muhammad, remember that, long] before their time, the people of Noah and [the tribes of] Ad and Thamud gave the lie [to their prophets],",
+      "ms": "",
+      "id": "",
+      "ar": "وَإِن یُكَذِّبُوكَ فَقَدۡ كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحࣲ وَعَادࣱ وَثَمُودُ\n"
+    }
+  },
+  {
+    "id": 2638,
+    "surahId": 22,
+    "ayahNumber": 43,
+    "arabicText": "وَقَوۡمُ إِبۡرَ ٰ⁠هِیمَ وَقَوۡمُ لُوطࣲ\n",
+    "translations": {
+      "en": "as did the people of Abraham, and the people of Lot,",
+      "ms": "",
+      "id": "",
+      "ar": "وَقَوۡمُ إِبۡرَ ٰ⁠هِیمَ وَقَوۡمُ لُوطࣲ\n"
+    }
+  },
+  {
+    "id": 2639,
+    "surahId": 22,
+    "ayahNumber": 44,
+    "arabicText": "وَأَصۡحَـٰبُ مَدۡیَنَۖ وَكُذِّبَ مُوسَىٰۖ فَأَمۡلَیۡتُ لِلۡكَـٰفِرِینَ ثُمَّ أَخَذۡتُهُمۡۖ فَكَیۡفَ كَانَ نَكِیرِ\n",
+    "translations": {
+      "en": "and the dwellers of Madyan; and [so, too,] Moses was given the lie [by Pharaoh]. And [in every ease] I gave rein, for a while, to the deniers of the truth: but then I took them to task - and how awesome was My denial [of them,]!",
+      "ms": "",
+      "id": "",
+      "ar": "وَأَصۡحَـٰبُ مَدۡیَنَۖ وَكُذِّبَ مُوسَىٰۖ فَأَمۡلَیۡتُ لِلۡكَـٰفِرِینَ ثُمَّ أَخَذۡتُهُمۡۖ فَكَیۡفَ كَانَ نَكِیرِ\n"
+    }
+  },
+  {
+    "id": 2640,
+    "surahId": 22,
+    "ayahNumber": 45,
+    "arabicText": "فَكَأَیِّن مِّن قَرۡیَةٍ أَهۡلَكۡنَـٰهَا وَهِیَ ظَالِمَةࣱ فَهِیَ خَاوِیَةٌ عَلَىٰ عُرُوشِهَا وَبِئۡرࣲ مُّعَطَّلَةࣲ وَقَصۡرࣲ مَّشِیدٍ\n",
+    "translations": {
+      "en": "And how many a township have We destroyed because it had been immersed in evildoing - and now they [all] lie deserted, with their roofs caved in! And how many a well lies abandoned, and how many a castle that [once] stood high!",
+      "ms": "",
+      "id": "",
+      "ar": "فَكَأَیِّن مِّن قَرۡیَةٍ أَهۡلَكۡنَـٰهَا وَهِیَ ظَالِمَةࣱ فَهِیَ خَاوِیَةٌ عَلَىٰ عُرُوشِهَا وَبِئۡرࣲ مُّعَطَّلَةࣲ وَقَصۡرࣲ مَّشِیدٍ\n"
+    }
+  },
+  {
+    "id": 2641,
+    "surahId": 22,
+    "ayahNumber": 46,
+    "arabicText": "أَفَلَمۡ یَسِیرُوا۟ فِی ٱلۡأَرۡضِ فَتَكُونَ لَهُمۡ قُلُوبࣱ یَعۡقِلُونَ بِهَاۤ أَوۡ ءَاذَانࣱ یَسۡمَعُونَ بِهَاۖ فَإِنَّهَا لَا تَعۡمَى ٱلۡأَبۡصَـٰرُ وَلَـٰكِن تَعۡمَى ٱلۡقُلُوبُ ٱلَّتِی فِی ٱلصُّدُورِ\n",
+    "translations": {
+      "en": "Have they, then, never journeyed about the earth, letting their hearts gain wisdom, and causing their ears to hear? Yet, verily, it is not their eyes that have become blind - but blind have become the hearts that are in their breasts!",
+      "ms": "",
+      "id": "",
+      "ar": "أَفَلَمۡ یَسِیرُوا۟ فِی ٱلۡأَرۡضِ فَتَكُونَ لَهُمۡ قُلُوبࣱ یَعۡقِلُونَ بِهَاۤ أَوۡ ءَاذَانࣱ یَسۡمَعُونَ بِهَاۖ فَإِنَّهَا لَا تَعۡمَى ٱلۡأَبۡصَـٰرُ وَلَـٰكِن تَعۡمَى ٱلۡقُلُوبُ ٱلَّتِی فِی ٱلصُّدُورِ\n"
+    }
+  },
+  {
+    "id": 2642,
+    "surahId": 22,
+    "ayahNumber": 47,
+    "arabicText": "وَیَسۡتَعۡجِلُونَكَ بِٱلۡعَذَابِ وَلَن یُخۡلِفَ ٱللَّهُ وَعۡدَهُۥۚ وَإِنَّ یَوۡمًا عِندَ رَبِّكَ كَأَلۡفِ سَنَةࣲ مِّمَّا تَعُدُّونَ\n",
+    "translations": {
+      "en": "And [so, O Muhammad,] they challenge thee to hasten the coming upon them of [God’s] chastisement: but God never fails to fulfill His promise - and, behold, in thy Sustainer’s sight a day is like a thousand years of your reckoning.",
+      "ms": "",
+      "id": "",
+      "ar": "وَیَسۡتَعۡجِلُونَكَ بِٱلۡعَذَابِ وَلَن یُخۡلِفَ ٱللَّهُ وَعۡدَهُۥۚ وَإِنَّ یَوۡمًا عِندَ رَبِّكَ كَأَلۡفِ سَنَةࣲ مِّمَّا تَعُدُّونَ\n"
+    }
+  },
+  {
+    "id": 2643,
+    "surahId": 22,
+    "ayahNumber": 48,
+    "arabicText": "وَكَأَیِّن مِّن قَرۡیَةٍ أَمۡلَیۡتُ لَهَا وَهِیَ ظَالِمَةࣱ ثُمَّ أَخَذۡتُهَا وَإِلَیَّ ٱلۡمَصِیرُ\n",
+    "translations": {
+      "en": "And to how many a community that was im­mersed in evildoing have I given rein for a while! But then I took it to task: for with Me is all journeys’ end!",
+      "ms": "",
+      "id": "",
+      "ar": "وَكَأَیِّن مِّن قَرۡیَةٍ أَمۡلَیۡتُ لَهَا وَهِیَ ظَالِمَةࣱ ثُمَّ أَخَذۡتُهَا وَإِلَیَّ ٱلۡمَصِیرُ\n"
+    }
+  },
+  {
+    "id": 2644,
+    "surahId": 22,
+    "ayahNumber": 49,
+    "arabicText": "قُلۡ یَـٰۤأَیُّهَا ٱلنَّاسُ إِنَّمَاۤ أَنَا۠ لَكُمۡ نَذِیرࣱ مُّبِینࣱ\n",
+    "translations": {
+      "en": "SAY [O Muhammad]: “O men! I am but a plain warner [sent by God] unto you!”",
+      "ms": "",
+      "id": "",
+      "ar": "قُلۡ یَـٰۤأَیُّهَا ٱلنَّاسُ إِنَّمَاۤ أَنَا۠ لَكُمۡ نَذِیرࣱ مُّبِینࣱ\n"
+    }
+  },
+  {
+    "id": 2645,
+    "surahId": 22,
+    "ayahNumber": 50,
+    "arabicText": "فَٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُم مَّغۡفِرَةࣱ وَرِزۡقࣱ كَرِیمࣱ\n",
+    "translations": {
+      "en": "And [know that] those who attain to faith and do righteous deeds shall be granted forgiveness of sins and a most excellent sustenance;",
+      "ms": "",
+      "id": "",
+      "ar": "فَٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُم مَّغۡفِرَةࣱ وَرِزۡقࣱ كَرِیمࣱ\n"
+    }
+  },
+  {
+    "id": 2646,
+    "surahId": 22,
+    "ayahNumber": 51,
+    "arabicText": "وَٱلَّذِینَ سَعَوۡا۟ فِیۤ ءَایَـٰتِنَا مُعَـٰجِزِینَ أُو۟لَـٰۤىِٕكَ أَصۡحَـٰبُ ٱلۡجَحِیمِ\n",
+    "translations": {
+      "en": "whereas those who strive against Our messages, seeking to defeat their purpose - they are destined for the blazing fire.",
+      "ms": "",
+      "id": "",
+      "ar": "وَٱلَّذِینَ سَعَوۡا۟ فِیۤ ءَایَـٰتِنَا مُعَـٰجِزِینَ أُو۟لَـٰۤىِٕكَ أَصۡحَـٰبُ ٱلۡجَحِیمِ\n"
+    }
+  },
+  {
+    "id": 2647,
+    "surahId": 22,
+    "ayahNumber": 52,
+    "arabicText": "وَمَاۤ أَرۡسَلۡنَا مِن قَبۡلِكَ مِن رَّسُولࣲ وَلَا نَبِیٍّ إِلَّاۤ إِذَا تَمَنَّىٰۤ أَلۡقَى ٱلشَّیۡطَـٰنُ فِیۤ أُمۡنِیَّتِهِۦ فَیَنسَخُ ٱللَّهُ مَا یُلۡقِی ٱلشَّیۡطَـٰنُ ثُمَّ یُحۡكِمُ ٱللَّهُ ءَایَـٰتِهِۦۗ وَٱللَّهُ عَلِیمٌ حَكِیمࣱ\n",
+    "translations": {
+      "en": "Yet whenever We sent forth any apostle or prophet before thee, and he was hoping [that his warnings would be heeded], Satan would cast an asper­sion on his innermost aims: but God renders null and void whatever aspersion Satan may cast; and God makes His messages clear in and by themselves for God is all-knowing, wise.",
+      "ms": "",
+      "id": "",
+      "ar": "وَمَاۤ أَرۡسَلۡنَا مِن قَبۡلِكَ مِن رَّسُولࣲ وَلَا نَبِیٍّ إِلَّاۤ إِذَا تَمَنَّىٰۤ أَلۡقَى ٱلشَّیۡطَـٰنُ فِیۤ أُمۡنِیَّتِهِۦ فَیَنسَخُ ٱللَّهُ مَا یُلۡقِی ٱلشَّیۡطَـٰنُ ثُمَّ یُحۡكِمُ ٱللَّهُ ءَایَـٰتِهِۦۗ وَٱللَّهُ عَلِیمٌ حَكِیمࣱ\n"
+    }
+  },
+  {
+    "id": 2648,
+    "surahId": 22,
+    "ayahNumber": 53,
+    "arabicText": "لِّیَجۡعَلَ مَا یُلۡقِی ٱلشَّیۡطَـٰنُ فِتۡنَةࣰ لِّلَّذِینَ فِی قُلُوبِهِم مَّرَضࣱ وَٱلۡقَاسِیَةِ قُلُوبُهُمۡۗ وَإِنَّ ٱلظَّـٰلِمِینَ لَفِی شِقَاقِۭ بَعِیدࣲ\n",
+    "translations": {
+      "en": "[And He allows doubts to arise] so that He might cause whatever aspersion Satan may cast [against His prophets] to become a trial for all in whose hearts is disease and all whose hearts are hardened: for, verily, all who are [thus] sinning [against themselves] are most deeply in the wrong.",
+      "ms": "",
+      "id": "",
+      "ar": "لِّیَجۡعَلَ مَا یُلۡقِی ٱلشَّیۡطَـٰنُ فِتۡنَةࣰ لِّلَّذِینَ فِی قُلُوبِهِم مَّرَضࣱ وَٱلۡقَاسِیَةِ قُلُوبُهُمۡۗ وَإِنَّ ٱلظَّـٰلِمِینَ لَفِی شِقَاقِۭ بَعِیدࣲ\n"
+    }
+  },
+  {
+    "id": 2649,
+    "surahId": 22,
+    "ayahNumber": 54,
+    "arabicText": "وَلِیَعۡلَمَ ٱلَّذِینَ أُوتُوا۟ ٱلۡعِلۡمَ أَنَّهُ ٱلۡحَقُّ مِن رَّبِّكَ فَیُؤۡمِنُوا۟ بِهِۦ فَتُخۡبِتَ لَهُۥ قُلُوبُهُمۡۗ وَإِنَّ ٱللَّهَ لَهَادِ ٱلَّذِینَ ءَامَنُوۤا۟ إِلَىٰ صِرَ ٰ⁠طࣲ مُّسۡتَقِیمࣲ\n",
+    "translations": {
+      "en": "And [God renders Satan’s aspersions null and void] so that they who are endowed with [innate] knowledge might know that this [divine writ] is the truth from thy Sustainer, and that they aught believe in it, and that their hearts might humbly submit unto Him. For, behold, God does guide onto a straight way those who have attained to faith –",
+      "ms": "",
+      "id": "",
+      "ar": "وَلِیَعۡلَمَ ٱلَّذِینَ أُوتُوا۟ ٱلۡعِلۡمَ أَنَّهُ ٱلۡحَقُّ مِن رَّبِّكَ فَیُؤۡمِنُوا۟ بِهِۦ فَتُخۡبِتَ لَهُۥ قُلُوبُهُمۡۗ وَإِنَّ ٱللَّهَ لَهَادِ ٱلَّذِینَ ءَامَنُوۤا۟ إِلَىٰ صِرَ ٰ⁠طࣲ مُّسۡتَقِیمࣲ\n"
+    }
+  },
+  {
+    "id": 2650,
+    "surahId": 22,
+    "ayahNumber": 55,
+    "arabicText": "وَلَا یَزَالُ ٱلَّذِینَ كَفَرُوا۟ فِی مِرۡیَةࣲ مِّنۡهُ حَتَّىٰ تَأۡتِیَهُمُ ٱلسَّاعَةُ بَغۡتَةً أَوۡ یَأۡتِیَهُمۡ عَذَابُ یَوۡمٍ عَقِیمٍ\n",
+    "translations": {
+      "en": "whereas those who are bent on denying the truth will not cease to be in doubt about Him until the Last Hour comes suddenly upon them and [supreme] suffering befalls them on a Day void of all hope.",
+      "ms": "",
+      "id": "",
+      "ar": "وَلَا یَزَالُ ٱلَّذِینَ كَفَرُوا۟ فِی مِرۡیَةࣲ مِّنۡهُ حَتَّىٰ تَأۡتِیَهُمُ ٱلسَّاعَةُ بَغۡتَةً أَوۡ یَأۡتِیَهُمۡ عَذَابُ یَوۡمٍ عَقِیمٍ\n"
+    }
+  },
+  {
+    "id": 2651,
+    "surahId": 22,
+    "ayahNumber": 56,
+    "arabicText": "ٱلۡمُلۡكُ یَوۡمَىِٕذࣲ لِّلَّهِ یَحۡكُمُ بَیۡنَهُمۡۚ فَٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فِی جَنَّـٰتِ ٱلنَّعِیمِ\n",
+    "translations": {
+      "en": "On that Day, all dominion shall [visibly] belong to God, He shall judge [all men and make a distinction] between them: thus, all who had attained to faith and did righteous deeds shall find themselves in gardens of bliss,",
+      "ms": "",
+      "id": "",
+      "ar": "ٱلۡمُلۡكُ یَوۡمَىِٕذࣲ لِّلَّهِ یَحۡكُمُ بَیۡنَهُمۡۚ فَٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فِی جَنَّـٰتِ ٱلنَّعِیمِ\n"
+    }
+  },
+  {
+    "id": 2652,
+    "surahId": 22,
+    "ayahNumber": 57,
+    "arabicText": "وَٱلَّذِینَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔایَـٰتِنَا فَأُو۟لَـٰۤىِٕكَ لَهُمۡ عَذَابࣱ مُّهِینࣱ\n",
+    "translations": {
+      "en": "whereas for those who were bent on denying the truth and gave the lie to Our messages, there shall be shameful suffering in store.",
+      "ms": "",
+      "id": "",
+      "ar": "وَٱلَّذِینَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔایَـٰتِنَا فَأُو۟لَـٰۤىِٕكَ لَهُمۡ عَذَابࣱ مُّهِینࣱ\n"
+    }
+  },
+  {
+    "id": 2653,
+    "surahId": 22,
+    "ayahNumber": 58,
+    "arabicText": "وَٱلَّذِینَ هَاجَرُوا۟ فِی سَبِیلِ ٱللَّهِ ثُمَّ قُتِلُوۤا۟ أَوۡ مَاتُوا۟ لَیَرۡزُقَنَّهُمُ ٱللَّهُ رِزۡقًا حَسَنࣰاۚ وَإِنَّ ٱللَّهَ لَهُوَ خَیۡرُ ٱلرَّ ٰ⁠زِقِینَ\n",
+    "translations": {
+      "en": "AND AS FOR those who forsake the domain of evil (and strive) in God’s cause, and then are slain or die - God will most certainly provide for them a goodly sustenance [in the life to come] for, verily, God - He alone - is the best of providers;",
+      "ms": "",
+      "id": "",
+      "ar": "وَٱلَّذِینَ هَاجَرُوا۟ فِی سَبِیلِ ٱللَّهِ ثُمَّ قُتِلُوۤا۟ أَوۡ مَاتُوا۟ لَیَرۡزُقَنَّهُمُ ٱللَّهُ رِزۡقًا حَسَنࣰاۚ وَإِنَّ ٱللَّهَ لَهُوَ خَیۡرُ ٱلرَّ ٰ⁠زِقِینَ\n"
+    }
+  },
+  {
+    "id": 2654,
+    "surahId": 22,
+    "ayahNumber": 59,
+    "arabicText": "لَیُدۡخِلَنَّهُم مُّدۡخَلࣰا یَرۡضَوۡنَهُۥۚ وَإِنَّ ٱللَّهَ لَعَلِیمٌ حَلِیمࣱ\n",
+    "translations": {
+      "en": "[and] He will most certainly cause them to enter upon a state (of being) that shall please them well: for, verily, God is all-knowing, most forbearing.",
+      "ms": "",
+      "id": "",
+      "ar": "لَیُدۡخِلَنَّهُم مُّدۡخَلࣰا یَرۡضَوۡنَهُۥۚ وَإِنَّ ٱللَّهَ لَعَلِیمٌ حَلِیمࣱ\n"
+    }
+  },
+  {
+    "id": 2655,
+    "surahId": 22,
+    "ayahNumber": 60,
+    "arabicText": "۞ ذَ ٰ⁠لِكَۖ وَمَنۡ عَاقَبَ بِمِثۡلِ مَا عُوقِبَ بِهِۦ ثُمَّ بُغِیَ عَلَیۡهِ لَیَنصُرَنَّهُ ٱللَّهُۚ إِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورࣱ\n",
+    "translations": {
+      "en": "Thus shall it be. And as for him who responds to aggression only to the extent of the attack levelled against him, and is thereupon [again] treacherously attacked - God will most certainly succour him: for, behold, God is indeed an absolver of sins, much-forgiving.",
+      "ms": "",
+      "id": "",
+      "ar": "۞ ذَ ٰ⁠لِكَۖ وَمَنۡ عَاقَبَ بِمِثۡلِ مَا عُوقِبَ بِهِۦ ثُمَّ بُغِیَ عَلَیۡهِ لَیَنصُرَنَّهُ ٱللَّهُۚ إِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورࣱ\n"
+    }
+  },
+  {
+    "id": 2656,
+    "surahId": 22,
+    "ayahNumber": 61,
+    "arabicText": "ذَ ٰ⁠لِكَ بِأَنَّ ٱللَّهَ یُولِجُ ٱلَّیۡلَ فِی ٱلنَّهَارِ وَیُولِجُ ٱلنَّهَارَ فِی ٱلَّیۡلِ وَأَنَّ ٱللَّهَ سَمِیعُۢ بَصِیرࣱ\n",
+    "translations": {
+      "en": "Thus it is, because God [is almighty the One who] makes the night grow longer by shortening the day, and makes the day grow longer by shortening the night; and because God is all-hearing, all-seeing.",
+      "ms": "",
+      "id": "",
+      "ar": "ذَ ٰ⁠لِكَ بِأَنَّ ٱللَّهَ یُولِجُ ٱلَّیۡلَ فِی ٱلنَّهَارِ وَیُولِجُ ٱلنَّهَارَ فِی ٱلَّیۡلِ وَأَنَّ ٱللَّهَ سَمِیعُۢ بَصِیرࣱ\n"
+    }
+  },
+  {
+    "id": 2657,
+    "surahId": 22,
+    "ayahNumber": 62,
+    "arabicText": "ذَ ٰ⁠لِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلۡحَقُّ وَأَنَّ مَا یَدۡعُونَ مِن دُونِهِۦ هُوَ ٱلۡبَـٰطِلُ وَأَنَّ ٱللَّهَ هُوَ ٱلۡعَلِیُّ ٱلۡكَبِیرُ\n",
+    "translations": {
+      "en": "Thus it is, because God alone is the Ultimate Truth, so that all that men invoke beside Him is sheer falsehood, and because God alone is exalted, great!",
+      "ms": "",
+      "id": "",
+      "ar": "ذَ ٰ⁠لِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلۡحَقُّ وَأَنَّ مَا یَدۡعُونَ مِن دُونِهِۦ هُوَ ٱلۡبَـٰطِلُ وَأَنَّ ٱللَّهَ هُوَ ٱلۡعَلِیُّ ٱلۡكَبِیرُ\n"
+    }
+  },
+  {
+    "id": 2658,
+    "surahId": 22,
+    "ayahNumber": 63,
+    "arabicText": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَاۤءِ مَاۤءࣰ فَتُصۡبِحُ ٱلۡأَرۡضُ مُخۡضَرَّةًۚ إِنَّ ٱللَّهَ لَطِیفٌ خَبِیرࣱ\n",
+    "translations": {
+      "en": "Art thou not aware that it’s God who sends down water from the skies, whereupon the earth becomes green? Verily, God is unfathomable [in His wisdom], all-aware.",
+      "ms": "",
+      "id": "",
+      "ar": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَاۤءِ مَاۤءࣰ فَتُصۡبِحُ ٱلۡأَرۡضُ مُخۡضَرَّةًۚ إِنَّ ٱللَّهَ لَطِیفٌ خَبِیرࣱ\n"
+    }
+  },
+  {
+    "id": 2659,
+    "surahId": 22,
+    "ayahNumber": 64,
+    "arabicText": "لَّهُۥ مَا فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَمَا فِی ٱلۡأَرۡضِۚ وَإِنَّ ٱللَّهَ لَهُوَ ٱلۡغَنِیُّ ٱلۡحَمِیدُ\n",
+    "translations": {
+      "en": "Unto Him belongs all that is in the heavens and all that is on earth; and, verily, God - He alone - is self-sufficient, the One to whom all praise is due.",
+      "ms": "",
+      "id": "",
+      "ar": "لَّهُۥ مَا فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَمَا فِی ٱلۡأَرۡضِۚ وَإِنَّ ٱللَّهَ لَهُوَ ٱلۡغَنِیُّ ٱلۡحَمِیدُ\n"
+    }
+  },
+  {
+    "id": 2660,
+    "surahId": 22,
+    "ayahNumber": 65,
+    "arabicText": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِی ٱلۡأَرۡضِ وَٱلۡفُلۡكَ تَجۡرِی فِی ٱلۡبَحۡرِ بِأَمۡرِهِۦ وَیُمۡسِكُ ٱلسَّمَاۤءَ أَن تَقَعَ عَلَى ٱلۡأَرۡضِ إِلَّا بِإِذۡنِهِۦۤۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفࣱ رَّحِیمࣱ\n",
+    "translations": {
+      "en": "Art thou not aware that it is God who has made subservient to you all that is on earth, and the ships that sail through the sea at His behest - and [that it is He who] holds the celestial bodies [in their orbits], so that they may not fall upon the earth otherwise than by His leave? Verily, God is most compassionate towards men, a dispenser of grace –",
+      "ms": "",
+      "id": "",
+      "ar": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِی ٱلۡأَرۡضِ وَٱلۡفُلۡكَ تَجۡرِی فِی ٱلۡبَحۡرِ بِأَمۡرِهِۦ وَیُمۡسِكُ ٱلسَّمَاۤءَ أَن تَقَعَ عَلَى ٱلۡأَرۡضِ إِلَّا بِإِذۡنِهِۦۤۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفࣱ رَّحِیمࣱ\n"
+    }
+  },
+  {
+    "id": 2661,
+    "surahId": 22,
+    "ayahNumber": 66,
+    "arabicText": "وَهُوَ ٱلَّذِیۤ أَحۡیَاكُمۡ ثُمَّ یُمِیتُكُمۡ ثُمَّ یُحۡیِیكُمۡۗ إِنَّ ٱلۡإِنسَـٰنَ لَكَفُورࣱ\n",
+    "translations": {
+      "en": "seeing that it is He who gave you life, and then will cause you to die, and then will bring you back to life: [but,] verily, bereft of all gratitude is man!",
+      "ms": "",
+      "id": "",
+      "ar": "وَهُوَ ٱلَّذِیۤ أَحۡیَاكُمۡ ثُمَّ یُمِیتُكُمۡ ثُمَّ یُحۡیِیكُمۡۗ إِنَّ ٱلۡإِنسَـٰنَ لَكَفُورࣱ\n"
+    }
+  },
+  {
+    "id": 2662,
+    "surahId": 22,
+    "ayahNumber": 67,
+    "arabicText": "لِّكُلِّ أُمَّةࣲ جَعَلۡنَا مَنسَكًا هُمۡ نَاسِكُوهُۖ فَلَا یُنَـٰزِعُنَّكَ فِی ٱلۡأَمۡرِۚ وَٱدۡعُ إِلَىٰ رَبِّكَۖ إِنَّكَ لَعَلَىٰ هُدࣰى مُّسۡتَقِیمࣲ\n",
+    "translations": {
+      "en": "UNTO every community have We appointed [different] ways of worship, which they ought to observe. Hence, [O believer,] do not let those [who follow ways other than thine] draw thee into disputes on this score, but summon [them all] unto thy Sustainer: for, behold, thou art indeed on the right way.",
+      "ms": "",
+      "id": "",
+      "ar": "لِّكُلِّ أُمَّةࣲ جَعَلۡنَا مَنسَكًا هُمۡ نَاسِكُوهُۖ فَلَا یُنَـٰزِعُنَّكَ فِی ٱلۡأَمۡرِۚ وَٱدۡعُ إِلَىٰ رَبِّكَۖ إِنَّكَ لَعَلَىٰ هُدࣰى مُّسۡتَقِیمࣲ\n"
+    }
+  },
+  {
+    "id": 2663,
+    "surahId": 22,
+    "ayahNumber": 68,
+    "arabicText": "وَإِن جَـٰدَلُوكَ فَقُلِ ٱللَّهُ أَعۡلَمُ بِمَا تَعۡمَلُونَ\n",
+    "translations": {
+      "en": "And if they [try to] argue with thee, say [only]: “God knows best what you are doing.”",
+      "ms": "",
+      "id": "",
+      "ar": "وَإِن جَـٰدَلُوكَ فَقُلِ ٱللَّهُ أَعۡلَمُ بِمَا تَعۡمَلُونَ\n"
+    }
+  },
+  {
+    "id": 2664,
+    "surahId": 22,
+    "ayahNumber": 69,
+    "arabicText": "ٱللَّهُ یَحۡكُمُ بَیۡنَكُمۡ یَوۡمَ ٱلۡقِیَـٰمَةِ فِیمَا كُنتُمۡ فِیهِ تَخۡتَلِفُونَ\n",
+    "translations": {
+      "en": "[For, indeed,] God will judge between you [all] on Resurrection Day with regard to all on which you were wont to differ.",
+      "ms": "",
+      "id": "",
+      "ar": "ٱللَّهُ یَحۡكُمُ بَیۡنَكُمۡ یَوۡمَ ٱلۡقِیَـٰمَةِ فِیمَا كُنتُمۡ فِیهِ تَخۡتَلِفُونَ\n"
+    }
+  },
+  {
+    "id": 2665,
+    "surahId": 22,
+    "ayahNumber": 70,
+    "arabicText": "أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ یَعۡلَمُ مَا فِی ٱلسَّمَاۤءِ وَٱلۡأَرۡضِۚ إِنَّ ذَ ٰ⁠لِكَ فِی كِتَـٰبٍۚ إِنَّ ذَ ٰ⁠لِكَ عَلَى ٱللَّهِ یَسِیرࣱ\n",
+    "translations": {
+      "en": "Dost thou not know that God knows all that occurs in heaven as well as on earth? All this, behold, is in [God’s] record: verily, [to know] all this is easy for God.",
+      "ms": "",
+      "id": "",
+      "ar": "أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ یَعۡلَمُ مَا فِی ٱلسَّمَاۤءِ وَٱلۡأَرۡضِۚ إِنَّ ذَ ٰ⁠لِكَ فِی كِتَـٰبٍۚ إِنَّ ذَ ٰ⁠لِكَ عَلَى ٱللَّهِ یَسِیرࣱ\n"
+    }
+  },
+  {
+    "id": 2666,
+    "surahId": 22,
+    "ayahNumber": 71,
+    "arabicText": "وَیَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَمۡ یُنَزِّلۡ بِهِۦ سُلۡطَـٰنࣰا وَمَا لَیۡسَ لَهُم بِهِۦ عِلۡمࣱۗ وَمَا لِلظَّـٰلِمِینَ مِن نَّصِیرࣲ\n",
+    "translations": {
+      "en": "And yet they [who claim to believe in Him often] worship [other beings or forces] beside God - something for which He has never bestoweed any warrant from on high, and [of the reality] whereof they cannot have any knowledge: and such evildoers shall have none to succour them [on Judgment Day].",
+      "ms": "",
+      "id": "",
+      "ar": "وَیَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَمۡ یُنَزِّلۡ بِهِۦ سُلۡطَـٰنࣰا وَمَا لَیۡسَ لَهُم بِهِۦ عِلۡمࣱۗ وَمَا لِلظَّـٰلِمِینَ مِن نَّصِیرࣲ\n"
+    }
+  },
+  {
+    "id": 2667,
+    "surahId": 22,
+    "ayahNumber": 72,
+    "arabicText": "وَإِذَا تُتۡلَىٰ عَلَیۡهِمۡ ءَایَـٰتُنَا بَیِّنَـٰتࣲ تَعۡرِفُ فِی وُجُوهِ ٱلَّذِینَ كَفَرُوا۟ ٱلۡمُنكَرَۖ یَكَادُونَ یَسۡطُونَ بِٱلَّذِینَ یَتۡلُونَ عَلَیۡهِمۡ ءَایَـٰتِنَاۗ قُلۡ أَفَأُنَبِّئُكُم بِشَرࣲّ مِّن ذَ ٰ⁠لِكُمُۚ ٱلنَّارُ وَعَدَهَا ٱللَّهُ ٱلَّذِینَ كَفَرُوا۟ۖ وَبِئۡسَ ٱلۡمَصِیرُ\n",
+    "translations": {
+      "en": "As it is, whenever Our messages are conveyed unto them in all their clarity, thou canst perceive utter repugnance on the faces of those who are bent on denying the truth: they would almost assault those who convey Our messages unto them! Say: “Shall I, then, tell you of something worse than what you feel at present? It is the fire [of the hereafter] that God has promised to those who are bent on denying the truth: and how vile a journey’s end!”",
+      "ms": "",
+      "id": "",
+      "ar": "وَإِذَا تُتۡلَىٰ عَلَیۡهِمۡ ءَایَـٰتُنَا بَیِّنَـٰتࣲ تَعۡرِفُ فِی وُجُوهِ ٱلَّذِینَ كَفَرُوا۟ ٱلۡمُنكَرَۖ یَكَادُونَ یَسۡطُونَ بِٱلَّذِینَ یَتۡلُونَ عَلَیۡهِمۡ ءَایَـٰتِنَاۗ قُلۡ أَفَأُنَبِّئُكُم بِشَرࣲّ مِّن ذَ ٰ⁠لِكُمُۚ ٱلنَّارُ وَعَدَهَا ٱللَّهُ ٱلَّذِینَ كَفَرُوا۟ۖ وَبِئۡسَ ٱلۡمَصِیرُ\n"
+    }
+  },
+  {
+    "id": 2668,
+    "surahId": 22,
+    "ayahNumber": 73,
+    "arabicText": "یَـٰۤأَیُّهَا ٱلنَّاسُ ضُرِبَ مَثَلࣱ فَٱسۡتَمِعُوا۟ لَهُۥۤۚ إِنَّ ٱلَّذِینَ تَدۡعُونَ مِن دُونِ ٱللَّهِ لَن یَخۡلُقُوا۟ ذُبَابࣰا وَلَوِ ٱجۡتَمَعُوا۟ لَهُۥۖ وَإِن یَسۡلُبۡهُمُ ٱلذُّبَابُ شَیۡـࣰٔا لَّا یَسۡتَنقِذُوهُ مِنۡهُۚ ضَعُفَ ٱلطَّالِبُ وَٱلۡمَطۡلُوبُ\n",
+    "translations": {
+      "en": "O MEN! A parable is set forth [herewith]; hearken, then, to it! Behold, those beings whom you invoke instead of God cannot create [as much as] a fly, even were they to join all their forces to that end! And if a fly robs them of anything, they cannot [even] rescue it from him! Weak indeed is the seeker, and [weak] the sought!",
+      "ms": "",
+      "id": "",
+      "ar": "یَـٰۤأَیُّهَا ٱلنَّاسُ ضُرِبَ مَثَلࣱ فَٱسۡتَمِعُوا۟ لَهُۥۤۚ إِنَّ ٱلَّذِینَ تَدۡعُونَ مِن دُونِ ٱللَّهِ لَن یَخۡلُقُوا۟ ذُبَابࣰا وَلَوِ ٱجۡتَمَعُوا۟ لَهُۥۖ وَإِن یَسۡلُبۡهُمُ ٱلذُّبَابُ شَیۡـࣰٔا لَّا یَسۡتَنقِذُوهُ مِنۡهُۚ ضَعُفَ ٱلطَّالِبُ وَٱلۡمَطۡلُوبُ\n"
+    }
+  },
+  {
+    "id": 2669,
+    "surahId": 22,
+    "ayahNumber": 74,
+    "arabicText": "مَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدۡرِهِۦۤۚ إِنَّ ٱللَّهَ لَقَوِیٌّ عَزِیزٌ\n",
+    "translations": {
+      "en": "No true understanding of God have they [who err in this way]: for, verily, God is most powerful, almighty!",
+      "ms": "",
+      "id": "",
+      "ar": "مَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدۡرِهِۦۤۚ إِنَّ ٱللَّهَ لَقَوِیٌّ عَزِیزٌ\n"
+    }
+  },
+  {
+    "id": 2670,
+    "surahId": 22,
+    "ayahNumber": 75,
+    "arabicText": "ٱللَّهُ یَصۡطَفِی مِنَ ٱلۡمَلَـٰۤىِٕكَةِ رُسُلࣰا وَمِنَ ٱلنَّاسِۚ إِنَّ ٱللَّهَ سَمِیعُۢ بَصِیرࣱ\n",
+    "translations": {
+      "en": "[In His almightiness,] God chooses message-bearers from among the angels as well as from among men. But, behold, God [alone] is all-hearing, all-see­ing:",
+      "ms": "",
+      "id": "",
+      "ar": "ٱللَّهُ یَصۡطَفِی مِنَ ٱلۡمَلَـٰۤىِٕكَةِ رُسُلࣰا وَمِنَ ٱلنَّاسِۚ إِنَّ ٱللَّهَ سَمِیعُۢ بَصِیرࣱ\n"
+    }
+  },
+  {
+    "id": 2671,
+    "surahId": 22,
+    "ayahNumber": 76,
+    "arabicText": "یَعۡلَمُ مَا بَیۡنَ أَیۡدِیهِمۡ وَمَا خَلۡفَهُمۡۚ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ\n",
+    "translations": {
+      "en": "[whereas their knowledge is limited,] He knows all that lies open before them and all that is hidden from them for all things go back to God [as their source].",
+      "ms": "",
+      "id": "",
+      "ar": "یَعۡلَمُ مَا بَیۡنَ أَیۡدِیهِمۡ وَمَا خَلۡفَهُمۡۚ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ\n"
+    }
+  },
+  {
+    "id": 2672,
+    "surahId": 22,
+    "ayahNumber": 77,
+    "arabicText": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ ٱرۡكَعُوا۟ وَٱسۡجُدُوا۟ وَٱعۡبُدُوا۟ رَبَّكُمۡ وَٱفۡعَلُوا۟ ٱلۡخَیۡرَ لَعَلَّكُمۡ تُفۡلِحُونَ ۩\n",
+    "translations": {
+      "en": "O YOU who have attained to faith! Bow down and prostrate yourselves, and worship your Sustainer [alone], and do good, so that you might attain to a happy state!",
+      "ms": "",
+      "id": "",
+      "ar": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ ٱرۡكَعُوا۟ وَٱسۡجُدُوا۟ وَٱعۡبُدُوا۟ رَبَّكُمۡ وَٱفۡعَلُوا۟ ٱلۡخَیۡرَ لَعَلَّكُمۡ تُفۡلِحُونَ ۩\n"
+    }
+  },
+  {
+    "id": 2673,
+    "surahId": 22,
+    "ayahNumber": 78,
+    "arabicText": "وَجَـٰهِدُوا۟ فِی ٱللَّهِ حَقَّ جِهَادِهِۦۚ هُوَ ٱجۡتَبَىٰكُمۡ وَمَا جَعَلَ عَلَیۡكُمۡ فِی ٱلدِّینِ مِنۡ حَرَجࣲۚ مِّلَّةَ أَبِیكُمۡ إِبۡرَ ٰ⁠هِیمَۚ هُوَ سَمَّىٰكُمُ ٱلۡمُسۡلِمِینَ مِن قَبۡلُ وَفِی هَـٰذَا لِیَكُونَ ٱلرَّسُولُ شَهِیدًا عَلَیۡكُمۡ وَتَكُونُوا۟ شُهَدَاۤءَ عَلَى ٱلنَّاسِۚ فَأَقِیمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱعۡتَصِمُوا۟ بِٱللَّهِ هُوَ مَوۡلَىٰكُمۡۖ فَنِعۡمَ ٱلۡمَوۡلَىٰ وَنِعۡمَ ٱلنَّصِیرُ\n",
+    "translations": {
+      "en": "And strive hard in God’s cause with all the striving that is due to Him: it is He who has elected you [to carry His message], and has laid no hardship on you in [anything that pertains to religion, [and made you follow] the creed of your forefather Abraham. It is He who has named you in bygone times as well as in this [divine writ] – “those who have surrendered themselves to God”, so that the Apostle might bear witness to the truth before you, and that you might bear witness to it before all mankind. Thus, be constant in prayer, and render the purifying dues, and hold fast unto God. He is your Lord Supreme: and how excellent is this Lord Supreme, and how excellent this Giver of Succour!",
+      "ms": "",
+      "id": "",
+      "ar": "وَجَـٰهِدُوا۟ فِی ٱللَّهِ حَقَّ جِهَادِهِۦۚ هُوَ ٱجۡتَبَىٰكُمۡ وَمَا جَعَلَ عَلَیۡكُمۡ فِی ٱلدِّینِ مِنۡ حَرَجࣲۚ مِّلَّةَ أَبِیكُمۡ إِبۡرَ ٰ⁠هِیمَۚ هُوَ سَمَّىٰكُمُ ٱلۡمُسۡلِمِینَ مِن قَبۡلُ وَفِی هَـٰذَا لِیَكُونَ ٱلرَّسُولُ شَهِیدًا عَلَیۡكُمۡ وَتَكُونُوا۟ شُهَدَاۤءَ عَلَى ٱلنَّاسِۚ فَأَقِیمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱعۡتَصِمُوا۟ بِٱللَّهِ هُوَ مَوۡلَىٰكُمۡۖ فَنِعۡمَ ٱلۡمَوۡلَىٰ وَنِعۡمَ ٱلنَّصِیرُ\n"
+    }
+  }
+]

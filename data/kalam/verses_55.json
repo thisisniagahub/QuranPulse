@@ -1,0 +1,938 @@
+[
+  {
+    "id": 4902,
+    "surahId": 55,
+    "ayahNumber": 1,
+    "arabicText": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ ٱلرَّحۡمَـٰنُ\n",
+    "translations": {
+      "en": "THE MOST GRACIOUS",
+      "ms": "",
+      "id": "",
+      "ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ ٱلرَّحۡمَـٰنُ\n"
+    }
+  },
+  {
+    "id": 4903,
+    "surahId": 55,
+    "ayahNumber": 2,
+    "arabicText": "عَلَّمَ ٱلۡقُرۡءَانَ\n",
+    "translations": {
+      "en": "has imparted this Qur’an [unto man].",
+      "ms": "",
+      "id": "",
+      "ar": "عَلَّمَ ٱلۡقُرۡءَانَ\n"
+    }
+  },
+  {
+    "id": 4904,
+    "surahId": 55,
+    "ayahNumber": 3,
+    "arabicText": "خَلَقَ ٱلۡإِنسَـٰنَ\n",
+    "translations": {
+      "en": "He has created man:",
+      "ms": "",
+      "id": "",
+      "ar": "خَلَقَ ٱلۡإِنسَـٰنَ\n"
+    }
+  },
+  {
+    "id": 4905,
+    "surahId": 55,
+    "ayahNumber": 4,
+    "arabicText": "عَلَّمَهُ ٱلۡبَیَانَ\n",
+    "translations": {
+      "en": "He has imparted unto him articulate thought and speech.",
+      "ms": "",
+      "id": "",
+      "ar": "عَلَّمَهُ ٱلۡبَیَانَ\n"
+    }
+  },
+  {
+    "id": 4906,
+    "surahId": 55,
+    "ayahNumber": 5,
+    "arabicText": "ٱلشَّمۡسُ وَٱلۡقَمَرُ بِحُسۡبَانࣲ\n",
+    "translations": {
+      "en": "[At His behest] the sun and the moon run their appointed courses;",
+      "ms": "",
+      "id": "",
+      "ar": "ٱلشَّمۡسُ وَٱلۡقَمَرُ بِحُسۡبَانࣲ\n"
+    }
+  },
+  {
+    "id": 4907,
+    "surahId": 55,
+    "ayahNumber": 6,
+    "arabicText": "وَٱلنَّجۡمُ وَٱلشَّجَرُ یَسۡجُدَانِ\n",
+    "translations": {
+      "en": "[before Him] prostrate them­selves the stars and the trees.",
+      "ms": "",
+      "id": "",
+      "ar": "وَٱلنَّجۡمُ وَٱلشَّجَرُ یَسۡجُدَانِ\n"
+    }
+  },
+  {
+    "id": 4908,
+    "surahId": 55,
+    "ayahNumber": 7,
+    "arabicText": "وَٱلسَّمَاۤءَ رَفَعَهَا وَوَضَعَ ٱلۡمِیزَانَ\n",
+    "translations": {
+      "en": "And the skies has He raised high, and has devised [for all things] a measure,",
+      "ms": "",
+      "id": "",
+      "ar": "وَٱلسَّمَاۤءَ رَفَعَهَا وَوَضَعَ ٱلۡمِیزَانَ\n"
+    }
+  },
+  {
+    "id": 4909,
+    "surahId": 55,
+    "ayahNumber": 8,
+    "arabicText": "أَلَّا تَطۡغَوۡا۟ فِی ٱلۡمِیزَانِ\n",
+    "translations": {
+      "en": "so that you [too, O men,] might never transgress the measure [of what is right]:",
+      "ms": "",
+      "id": "",
+      "ar": "أَلَّا تَطۡغَوۡا۟ فِی ٱلۡمِیزَانِ\n"
+    }
+  },
+  {
+    "id": 4910,
+    "surahId": 55,
+    "ayahNumber": 9,
+    "arabicText": "وَأَقِیمُوا۟ ٱلۡوَزۡنَ بِٱلۡقِسۡطِ وَلَا تُخۡسِرُوا۟ ٱلۡمِیزَانَ\n",
+    "translations": {
+      "en": "weigh, therefore, [your deeds] with equity, and cut not the measure short!",
+      "ms": "",
+      "id": "",
+      "ar": "وَأَقِیمُوا۟ ٱلۡوَزۡنَ بِٱلۡقِسۡطِ وَلَا تُخۡسِرُوا۟ ٱلۡمِیزَانَ\n"
+    }
+  },
+  {
+    "id": 4911,
+    "surahId": 55,
+    "ayahNumber": 10,
+    "arabicText": "وَٱلۡأَرۡضَ وَضَعَهَا لِلۡأَنَامِ\n",
+    "translations": {
+      "en": "And the earth has He spread out for all living beings,",
+      "ms": "",
+      "id": "",
+      "ar": "وَٱلۡأَرۡضَ وَضَعَهَا لِلۡأَنَامِ\n"
+    }
+  },
+  {
+    "id": 4912,
+    "surahId": 55,
+    "ayahNumber": 11,
+    "arabicText": "فِیهَا فَـٰكِهَةࣱ وَٱلنَّخۡلُ ذَاتُ ٱلۡأَكۡمَامِ\n",
+    "translations": {
+      "en": "with fruit thereon, and palm trees with sheathed clusters [of dates],",
+      "ms": "",
+      "id": "",
+      "ar": "فِیهَا فَـٰكِهَةࣱ وَٱلنَّخۡلُ ذَاتُ ٱلۡأَكۡمَامِ\n"
+    }
+  },
+  {
+    "id": 4913,
+    "surahId": 55,
+    "ayahNumber": 12,
+    "arabicText": "وَٱلۡحَبُّ ذُو ٱلۡعَصۡفِ وَٱلرَّیۡحَانُ\n",
+    "translations": {
+      "en": "and grain growing tall on its stalks, and sweet-smelling plants.",
+      "ms": "",
+      "id": "",
+      "ar": "وَٱلۡحَبُّ ذُو ٱلۡعَصۡفِ وَٱلرَّیۡحَانُ\n"
+    }
+  },
+  {
+    "id": 4914,
+    "surahId": 55,
+    "ayahNumber": 13,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4915,
+    "surahId": 55,
+    "ayahNumber": 14,
+    "arabicText": "خَلَقَ ٱلۡإِنسَـٰنَ مِن صَلۡصَـٰلࣲ كَٱلۡفَخَّارِ\n",
+    "translations": {
+      "en": "He has created man out of sounding clay, like pottery,",
+      "ms": "",
+      "id": "",
+      "ar": "خَلَقَ ٱلۡإِنسَـٰنَ مِن صَلۡصَـٰلࣲ كَٱلۡفَخَّارِ\n"
+    }
+  },
+  {
+    "id": 4916,
+    "surahId": 55,
+    "ayahNumber": 15,
+    "arabicText": "وَخَلَقَ ٱلۡجَاۤنَّ مِن مَّارِجࣲ مِّن نَّارࣲ\n",
+    "translations": {
+      "en": "whereas the invisible beings He has created out of a confusing flame of fire.",
+      "ms": "",
+      "id": "",
+      "ar": "وَخَلَقَ ٱلۡجَاۤنَّ مِن مَّارِجࣲ مِّن نَّارࣲ\n"
+    }
+  },
+  {
+    "id": 4917,
+    "surahId": 55,
+    "ayahNumber": 16,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4918,
+    "surahId": 55,
+    "ayahNumber": 17,
+    "arabicText": "رَبُّ ٱلۡمَشۡرِقَیۡنِ وَرَبُّ ٱلۡمَغۡرِبَیۡنِ\n",
+    "translations": {
+      "en": "[He is] the Sustainer of the two farthest points of sunrise, and the Sustainer of the two farthest points of sunset.",
+      "ms": "",
+      "id": "",
+      "ar": "رَبُّ ٱلۡمَشۡرِقَیۡنِ وَرَبُّ ٱلۡمَغۡرِبَیۡنِ\n"
+    }
+  },
+  {
+    "id": 4919,
+    "surahId": 55,
+    "ayahNumber": 18,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustain­er’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4920,
+    "surahId": 55,
+    "ayahNumber": 19,
+    "arabicText": "مَرَجَ ٱلۡبَحۡرَیۡنِ یَلۡتَقِیَانِ\n",
+    "translations": {
+      "en": "He has given freedom to the two great bodies of water, so that they might meet:",
+      "ms": "",
+      "id": "",
+      "ar": "مَرَجَ ٱلۡبَحۡرَیۡنِ یَلۡتَقِیَانِ\n"
+    }
+  },
+  {
+    "id": 4921,
+    "surahId": 55,
+    "ayahNumber": 20,
+    "arabicText": "بَیۡنَهُمَا بَرۡزَخࣱ لَّا یَبۡغِیَانِ\n",
+    "translations": {
+      "en": "[yet] between them is a barrier which they may not transgress.",
+      "ms": "",
+      "id": "",
+      "ar": "بَیۡنَهُمَا بَرۡزَخࣱ لَّا یَبۡغِیَانِ\n"
+    }
+  },
+  {
+    "id": 4922,
+    "surahId": 55,
+    "ayahNumber": 21,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4923,
+    "surahId": 55,
+    "ayahNumber": 22,
+    "arabicText": "یَخۡرُجُ مِنۡهُمَا ٱللُّؤۡلُؤُ وَٱلۡمَرۡجَانُ\n",
+    "translations": {
+      "en": "Out of these two [bodies of water] come forth pearls, both great and small.",
+      "ms": "",
+      "id": "",
+      "ar": "یَخۡرُجُ مِنۡهُمَا ٱللُّؤۡلُؤُ وَٱلۡمَرۡجَانُ\n"
+    }
+  },
+  {
+    "id": 4924,
+    "surahId": 55,
+    "ayahNumber": 23,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4925,
+    "surahId": 55,
+    "ayahNumber": 24,
+    "arabicText": "وَلَهُ ٱلۡجَوَارِ ٱلۡمُنشَـَٔاتُ فِی ٱلۡبَحۡرِ كَٱلۡأَعۡلَـٰمِ\n",
+    "translations": {
+      "en": "And His are the lofty ships that sail like [floating] mountains through the seas.",
+      "ms": "",
+      "id": "",
+      "ar": "وَلَهُ ٱلۡجَوَارِ ٱلۡمُنشَـَٔاتُ فِی ٱلۡبَحۡرِ كَٱلۡأَعۡلَـٰمِ\n"
+    }
+  },
+  {
+    "id": 4926,
+    "surahId": 55,
+    "ayahNumber": 25,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4927,
+    "surahId": 55,
+    "ayahNumber": 26,
+    "arabicText": "كُلُّ مَنۡ عَلَیۡهَا فَانࣲ\n",
+    "translations": {
+      "en": "All that lives on earth or in the heavens is bound to pass away:",
+      "ms": "",
+      "id": "",
+      "ar": "كُلُّ مَنۡ عَلَیۡهَا فَانࣲ\n"
+    }
+  },
+  {
+    "id": 4928,
+    "surahId": 55,
+    "ayahNumber": 27,
+    "arabicText": "وَیَبۡقَىٰ وَجۡهُ رَبِّكَ ذُو ٱلۡجَلَـٰلِ وَٱلۡإِكۡرَامِ\n",
+    "translations": {
+      "en": "but forever will abide thy Sustainer’s Self, full of majesty and glory.",
+      "ms": "",
+      "id": "",
+      "ar": "وَیَبۡقَىٰ وَجۡهُ رَبِّكَ ذُو ٱلۡجَلَـٰلِ وَٱلۡإِكۡرَامِ\n"
+    }
+  },
+  {
+    "id": 4929,
+    "surahId": 55,
+    "ayahNumber": 28,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4930,
+    "surahId": 55,
+    "ayahNumber": 29,
+    "arabicText": "یَسۡـَٔلُهُۥ مَن فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِۚ كُلَّ یَوۡمٍ هُوَ فِی شَأۡنࣲ\n",
+    "translations": {
+      "en": "On Him depends all creatures in the heavens and on earth; [and] every day He manifests Himself in yet another [wondrous] way.",
+      "ms": "",
+      "id": "",
+      "ar": "یَسۡـَٔلُهُۥ مَن فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِۚ كُلَّ یَوۡمٍ هُوَ فِی شَأۡنࣲ\n"
+    }
+  },
+  {
+    "id": 4931,
+    "surahId": 55,
+    "ayahNumber": 30,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4932,
+    "surahId": 55,
+    "ayahNumber": 31,
+    "arabicText": "سَنَفۡرُغُ لَكُمۡ أَیُّهَ ٱلثَّقَلَانِ\n",
+    "translations": {
+      "en": "[ONE DAY] We shall take you to task, O you sin-laden two!",
+      "ms": "",
+      "id": "",
+      "ar": "سَنَفۡرُغُ لَكُمۡ أَیُّهَ ٱلثَّقَلَانِ\n"
+    }
+  },
+  {
+    "id": 4933,
+    "surahId": 55,
+    "ayahNumber": 32,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4934,
+    "surahId": 55,
+    "ayahNumber": 33,
+    "arabicText": "یَـٰمَعۡشَرَ ٱلۡجِنِّ وَٱلۡإِنسِ إِنِ ٱسۡتَطَعۡتُمۡ أَن تَنفُذُوا۟ مِنۡ أَقۡطَارِ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ فَٱنفُذُوا۟ۚ لَا تَنفُذُونَ إِلَّا بِسُلۡطَـٰنࣲ\n",
+    "translations": {
+      "en": "O you who live in close communion with [evil] invisible beings and humans! If you [think that you] can pass beyond the regions of the heavens and the earth, pass beyond them! [But] you cannot pass beyond them, save by a sanction [from God]!",
+      "ms": "",
+      "id": "",
+      "ar": "یَـٰمَعۡشَرَ ٱلۡجِنِّ وَٱلۡإِنسِ إِنِ ٱسۡتَطَعۡتُمۡ أَن تَنفُذُوا۟ مِنۡ أَقۡطَارِ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ فَٱنفُذُوا۟ۚ لَا تَنفُذُونَ إِلَّا بِسُلۡطَـٰنࣲ\n"
+    }
+  },
+  {
+    "id": 4935,
+    "surahId": 55,
+    "ayahNumber": 34,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4936,
+    "surahId": 55,
+    "ayahNumber": 35,
+    "arabicText": "یُرۡسَلُ عَلَیۡكُمَا شُوَاظࣱ مِّن نَّارࣲ وَنُحَاسࣱ فَلَا تَنتَصِرَانِ\n",
+    "translations": {
+      "en": "A flash of fire will be let loose upon you, and smoke, and you will be left without succour!",
+      "ms": "",
+      "id": "",
+      "ar": "یُرۡسَلُ عَلَیۡكُمَا شُوَاظࣱ مِّن نَّارࣲ وَنُحَاسࣱ فَلَا تَنتَصِرَانِ\n"
+    }
+  },
+  {
+    "id": 4937,
+    "surahId": 55,
+    "ayahNumber": 36,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4938,
+    "surahId": 55,
+    "ayahNumber": 37,
+    "arabicText": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَاۤءُ فَكَانَتۡ وَرۡدَةࣰ كَٱلدِّهَانِ\n",
+    "translations": {
+      "en": "And when the sky is rent asunder and becomes red like [burning] oil",
+      "ms": "",
+      "id": "",
+      "ar": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَاۤءُ فَكَانَتۡ وَرۡدَةࣰ كَٱلدِّهَانِ\n"
+    }
+  },
+  {
+    "id": 4939,
+    "surahId": 55,
+    "ayahNumber": 38,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4940,
+    "surahId": 55,
+    "ayahNumber": 39,
+    "arabicText": "فَیَوۡمَىِٕذࣲ لَّا یُسۡـَٔلُ عَن ذَنۢبِهِۦۤ إِنسࣱ وَلَا جَاۤنࣱّ\n",
+    "translations": {
+      "en": "For on that Day neither man nor invisible being will be asked about his sins.",
+      "ms": "",
+      "id": "",
+      "ar": "فَیَوۡمَىِٕذࣲ لَّا یُسۡـَٔلُ عَن ذَنۢبِهِۦۤ إِنسࣱ وَلَا جَاۤنࣱّ\n"
+    }
+  },
+  {
+    "id": 4941,
+    "surahId": 55,
+    "ayahNumber": 40,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4942,
+    "surahId": 55,
+    "ayahNumber": 41,
+    "arabicText": "یُعۡرَفُ ٱلۡمُجۡرِمُونَ بِسِیمَـٰهُمۡ فَیُؤۡخَذُ بِٱلنَّوَ ٰ⁠صِی وَٱلۡأَقۡدَامِ\n",
+    "translations": {
+      "en": "All who were lost in sin shall by their marks be known, and shall by their forelocks and their feet be seized!",
+      "ms": "",
+      "id": "",
+      "ar": "یُعۡرَفُ ٱلۡمُجۡرِمُونَ بِسِیمَـٰهُمۡ فَیُؤۡخَذُ بِٱلنَّوَ ٰ⁠صِی وَٱلۡأَقۡدَامِ\n"
+    }
+  },
+  {
+    "id": 4943,
+    "surahId": 55,
+    "ayahNumber": 42,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4944,
+    "surahId": 55,
+    "ayahNumber": 43,
+    "arabicText": "هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِی یُكَذِّبُ بِهَا ٱلۡمُجۡرِمُونَ\n",
+    "translations": {
+      "en": "This will be the hell which those who are lost in sin [now] call a lie:",
+      "ms": "",
+      "id": "",
+      "ar": "هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِی یُكَذِّبُ بِهَا ٱلۡمُجۡرِمُونَ\n"
+    }
+  },
+  {
+    "id": 4945,
+    "surahId": 55,
+    "ayahNumber": 44,
+    "arabicText": "یَطُوفُونَ بَیۡنَهَا وَبَیۡنَ حَمِیمٍ ءَانࣲ\n",
+    "translations": {
+      "en": "between it and [their own] burning-hot despair will they wander to and fro!",
+      "ms": "",
+      "id": "",
+      "ar": "یَطُوفُونَ بَیۡنَهَا وَبَیۡنَ حَمِیمٍ ءَانࣲ\n"
+    }
+  },
+  {
+    "id": 4946,
+    "surahId": 55,
+    "ayahNumber": 45,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4947,
+    "surahId": 55,
+    "ayahNumber": 46,
+    "arabicText": "وَلِمَنۡ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ\n",
+    "translations": {
+      "en": "BUT FOR THOSE who of their Sustainer’s Presence stand in fear, two gardens [of paradise are readied] -",
+      "ms": "",
+      "id": "",
+      "ar": "وَلِمَنۡ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ\n"
+    }
+  },
+  {
+    "id": 4948,
+    "surahId": 55,
+    "ayahNumber": 47,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "which, then, of your Sustainer’s powers can you disavow? –",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4949,
+    "surahId": 55,
+    "ayahNumber": 48,
+    "arabicText": "ذَوَاتَاۤ أَفۡنَانࣲ\n",
+    "translations": {
+      "en": "[two gardens] of many wondrous hues.",
+      "ms": "",
+      "id": "",
+      "ar": "ذَوَاتَاۤ أَفۡنَانࣲ\n"
+    }
+  },
+  {
+    "id": 4950,
+    "surahId": 55,
+    "ayahNumber": 49,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4951,
+    "surahId": 55,
+    "ayahNumber": 50,
+    "arabicText": "فِیهِمَا عَیۡنَانِ تَجۡرِیَانِ\n",
+    "translations": {
+      "en": "In [each of] these two [gardens] two springs will flow.",
+      "ms": "",
+      "id": "",
+      "ar": "فِیهِمَا عَیۡنَانِ تَجۡرِیَانِ\n"
+    }
+  },
+  {
+    "id": 4952,
+    "surahId": 55,
+    "ayahNumber": 51,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4953,
+    "surahId": 55,
+    "ayahNumber": 52,
+    "arabicText": "فِیهِمَا مِن كُلِّ فَـٰكِهَةࣲ زَوۡجَانِ\n",
+    "translations": {
+      "en": "In [each of] these two will two kinds of every fruit be [found].",
+      "ms": "",
+      "id": "",
+      "ar": "فِیهِمَا مِن كُلِّ فَـٰكِهَةࣲ زَوۡجَانِ\n"
+    }
+  },
+  {
+    "id": 4954,
+    "surahId": 55,
+    "ayahNumber": 53,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustainer s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4955,
+    "surahId": 55,
+    "ayahNumber": 54,
+    "arabicText": "مُتَّكِـِٔینَ عَلَىٰ فُرُشِۭ بَطَاۤىِٕنُهَا مِنۡ إِسۡتَبۡرَقࣲۚ وَجَنَى ٱلۡجَنَّتَیۡنِ دَانࣲ\n",
+    "translations": {
+      "en": "[In such a paradise the blest will dwell,] reclin­ing upon carpets lined with rich brocade; and the fruit of both these gardens will be within easy reach.",
+      "ms": "",
+      "id": "",
+      "ar": "مُتَّكِـِٔینَ عَلَىٰ فُرُشِۭ بَطَاۤىِٕنُهَا مِنۡ إِسۡتَبۡرَقࣲۚ وَجَنَى ٱلۡجَنَّتَیۡنِ دَانࣲ\n"
+    }
+  },
+  {
+    "id": 4956,
+    "surahId": 55,
+    "ayahNumber": 55,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4957,
+    "surahId": 55,
+    "ayahNumber": 56,
+    "arabicText": "فِیهِنَّ قَـٰصِرَ ٰ⁠تُ ٱلطَّرۡفِ لَمۡ یَطۡمِثۡهُنَّ إِنسࣱ قَبۡلَهُمۡ وَلَا جَاۤنࣱّ\n",
+    "translations": {
+      "en": "In these [gardens] will be mates of modest gaze, whom neither man nor invisible being will have touched ere then.",
+      "ms": "",
+      "id": "",
+      "ar": "فِیهِنَّ قَـٰصِرَ ٰ⁠تُ ٱلطَّرۡفِ لَمۡ یَطۡمِثۡهُنَّ إِنسࣱ قَبۡلَهُمۡ وَلَا جَاۤنࣱّ\n"
+    }
+  },
+  {
+    "id": 4958,
+    "surahId": 55,
+    "ayahNumber": 57,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sus­tainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4959,
+    "surahId": 55,
+    "ayahNumber": 58,
+    "arabicText": "كَأَنَّهُنَّ ٱلۡیَاقُوتُ وَٱلۡمَرۡجَانُ\n",
+    "translations": {
+      "en": "[When you are promised splendours] as though [of] rubies and [of] pearls –",
+      "ms": "",
+      "id": "",
+      "ar": "كَأَنَّهُنَّ ٱلۡیَاقُوتُ وَٱلۡمَرۡجَانُ\n"
+    }
+  },
+  {
+    "id": 4960,
+    "surahId": 55,
+    "ayahNumber": 59,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4961,
+    "surahId": 55,
+    "ayahNumber": 60,
+    "arabicText": "هَلۡ جَزَاۤءُ ٱلۡإِحۡسَـٰنِ إِلَّا ٱلۡإِحۡسَـٰنُ\n",
+    "translations": {
+      "en": "Could the reward of good be aught but good?",
+      "ms": "",
+      "id": "",
+      "ar": "هَلۡ جَزَاۤءُ ٱلۡإِحۡسَـٰنِ إِلَّا ٱلۡإِحۡسَـٰنُ\n"
+    }
+  },
+  {
+    "id": 4962,
+    "surahId": 55,
+    "ayahNumber": 61,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4963,
+    "surahId": 55,
+    "ayahNumber": 62,
+    "arabicText": "وَمِن دُونِهِمَا جَنَّتَانِ\n",
+    "translations": {
+      "en": "And besides those two will be yet two [other] gardens -",
+      "ms": "",
+      "id": "",
+      "ar": "وَمِن دُونِهِمَا جَنَّتَانِ\n"
+    }
+  },
+  {
+    "id": 4964,
+    "surahId": 55,
+    "ayahNumber": 63,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "which, then, of your Sustainer’s powers can you disavow? –",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4965,
+    "surahId": 55,
+    "ayahNumber": 64,
+    "arabicText": "مُدۡهَاۤمَّتَانِ\n",
+    "translations": {
+      "en": "two [gardens] of the deepest green.",
+      "ms": "",
+      "id": "",
+      "ar": "مُدۡهَاۤمَّتَانِ\n"
+    }
+  },
+  {
+    "id": 4966,
+    "surahId": 55,
+    "ayahNumber": 65,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4967,
+    "surahId": 55,
+    "ayahNumber": 66,
+    "arabicText": "فِیهِمَا عَیۡنَانِ نَضَّاخَتَانِ\n",
+    "translations": {
+      "en": "In [each of] these two [gardens] will two springs gush forth.",
+      "ms": "",
+      "id": "",
+      "ar": "فِیهِمَا عَیۡنَانِ نَضَّاخَتَانِ\n"
+    }
+  },
+  {
+    "id": 4968,
+    "surahId": 55,
+    "ayahNumber": 67,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sus­tainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4969,
+    "surahId": 55,
+    "ayahNumber": 68,
+    "arabicText": "فِیهِمَا فَـٰكِهَةࣱ وَنَخۡلࣱ وَرُمَّانࣱ\n",
+    "translations": {
+      "en": "In both of them will be [all kinds of] fruit, and date-palms and pomegranates.",
+      "ms": "",
+      "id": "",
+      "ar": "فِیهِمَا فَـٰكِهَةࣱ وَنَخۡلࣱ وَرُمَّانࣱ\n"
+    }
+  },
+  {
+    "id": 4970,
+    "surahId": 55,
+    "ayahNumber": 69,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4971,
+    "surahId": 55,
+    "ayahNumber": 70,
+    "arabicText": "فِیهِنَّ خَیۡرَ ٰ⁠تٌ حِسَانࣱ\n",
+    "translations": {
+      "en": "In these [gardens] will be [all] things most excellent and beautiful.",
+      "ms": "",
+      "id": "",
+      "ar": "فِیهِنَّ خَیۡرَ ٰ⁠تٌ حِسَانࣱ\n"
+    }
+  },
+  {
+    "id": 4972,
+    "surahId": 55,
+    "ayahNumber": 71,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4973,
+    "surahId": 55,
+    "ayahNumber": 72,
+    "arabicText": "حُورࣱ مَّقۡصُورَ ٰ⁠تࣱ فِی ٱلۡخِیَامِ\n",
+    "translations": {
+      "en": "[There the blest will live with their] companions pure and modest, in pavilions [splendid] -",
+      "ms": "",
+      "id": "",
+      "ar": "حُورࣱ مَّقۡصُورَ ٰ⁠تࣱ فِی ٱلۡخِیَامِ\n"
+    }
+  },
+  {
+    "id": 4974,
+    "surahId": 55,
+    "ayahNumber": 73,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "which, then, of your Sustainer’s powers can you disavow? –",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4975,
+    "surahId": 55,
+    "ayahNumber": 74,
+    "arabicText": "لَمۡ یَطۡمِثۡهُنَّ إِنسࣱ قَبۡلَهُمۡ وَلَا جَاۤنࣱّ\n",
+    "translations": {
+      "en": "[companions] whom neither man nor invisible being will have touched ere then.",
+      "ms": "",
+      "id": "",
+      "ar": "لَمۡ یَطۡمِثۡهُنَّ إِنسࣱ قَبۡلَهُمۡ وَلَا جَاۤنࣱّ\n"
+    }
+  },
+  {
+    "id": 4976,
+    "surahId": 55,
+    "ayahNumber": 75,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4977,
+    "surahId": 55,
+    "ayahNumber": 76,
+    "arabicText": "مُتَّكِـِٔینَ عَلَىٰ رَفۡرَفٍ خُضۡرࣲ وَعَبۡقَرِیٍّ حِسَانࣲ\n",
+    "translations": {
+      "en": "[In such a paradise will they dwell,] reclining upon meadows green and carpets rich in beauty.",
+      "ms": "",
+      "id": "",
+      "ar": "مُتَّكِـِٔینَ عَلَىٰ رَفۡرَفٍ خُضۡرࣲ وَعَبۡقَرِیٍّ حِسَانࣲ\n"
+    }
+  },
+  {
+    "id": 4978,
+    "surahId": 55,
+    "ayahNumber": 77,
+    "arabicText": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n",
+    "translations": {
+      "en": "Which, then, of your Sustainer’s powers can you disavow?",
+      "ms": "",
+      "id": "",
+      "ar": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ\n"
+    }
+  },
+  {
+    "id": 4979,
+    "surahId": 55,
+    "ayahNumber": 78,
+    "arabicText": "تَبَـٰرَكَ ٱسۡمُ رَبِّكَ ذِی ٱلۡجَلَـٰلِ وَٱلۡإِكۡرَامِ\n",
+    "translations": {
+      "en": "HALLOWED be thy Sustainer’s name, full of majesty and glory!",
+      "ms": "",
+      "id": "",
+      "ar": "تَبَـٰرَكَ ٱسۡمُ رَبِّكَ ذِی ٱلۡجَلَـٰلِ وَٱلۡإِكۡرَامِ\n"
+    }
+  }
+]

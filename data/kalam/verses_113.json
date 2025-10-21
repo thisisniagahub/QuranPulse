@@ -1,0 +1,62 @@
+[
+  {
+    "id": 6226,
+    "surahId": 113,
+    "ayahNumber": 1,
+    "arabicText": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ\n",
+    "translations": {
+      "en": "SAY: \"I seek refuge with the Sustainer of the rising dawn,",
+      "ms": "",
+      "id": "",
+      "ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ\n"
+    }
+  },
+  {
+    "id": 6227,
+    "surahId": 113,
+    "ayahNumber": 2,
+    "arabicText": "مِن شَرِّ مَا خَلَقَ\n",
+    "translations": {
+      "en": "\"from the evil of aught that He has created,",
+      "ms": "",
+      "id": "",
+      "ar": "مِن شَرِّ مَا خَلَقَ\n"
+    }
+  },
+  {
+    "id": 6228,
+    "surahId": 113,
+    "ayahNumber": 3,
+    "arabicText": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ\n",
+    "translations": {
+      "en": "\"and from the evil of the black darkness whenever it descends,",
+      "ms": "",
+      "id": "",
+      "ar": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ\n"
+    }
+  },
+  {
+    "id": 6229,
+    "surahId": 113,
+    "ayahNumber": 4,
+    "arabicText": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِی ٱلۡعُقَدِ\n",
+    "translations": {
+      "en": "\"and from the evil of all human beings bent on occult endeavours,",
+      "ms": "",
+      "id": "",
+      "ar": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِی ٱلۡعُقَدِ\n"
+    }
+  },
+  {
+    "id": 6230,
+    "surahId": 113,
+    "ayahNumber": 5,
+    "arabicText": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ\n",
+    "translations": {
+      "en": "\"and from the evil of the envious when he envies.\"",
+      "ms": "",
+      "id": "",
+      "ar": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ\n"
+    }
+  }
+]

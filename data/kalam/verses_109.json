@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6208,
+    "surahId": 109,
+    "ayahNumber": 1,
+    "arabicText": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ قُلۡ یَـٰۤأَیُّهَا ٱلۡكَـٰفِرُونَ\n",
+    "translations": {
+      "en": "SAY: \"O you who deny the truth!",
+      "ms": "",
+      "id": "",
+      "ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ قُلۡ یَـٰۤأَیُّهَا ٱلۡكَـٰفِرُونَ\n"
+    }
+  },
+  {
+    "id": 6209,
+    "surahId": 109,
+    "ayahNumber": 2,
+    "arabicText": "لَاۤ أَعۡبُدُ مَا تَعۡبُدُونَ\n",
+    "translations": {
+      "en": "\"I do not worship that which you worship,",
+      "ms": "",
+      "id": "",
+      "ar": "لَاۤ أَعۡبُدُ مَا تَعۡبُدُونَ\n"
+    }
+  },
+  {
+    "id": 6210,
+    "surahId": 109,
+    "ayahNumber": 3,
+    "arabicText": "وَلَاۤ أَنتُمۡ عَـٰبِدُونَ مَاۤ أَعۡبُدُ\n",
+    "translations": {
+      "en": "and neither do you worship that which I worship!",
+      "ms": "",
+      "id": "",
+      "ar": "وَلَاۤ أَنتُمۡ عَـٰبِدُونَ مَاۤ أَعۡبُدُ\n"
+    }
+  },
+  {
+    "id": 6211,
+    "surahId": 109,
+    "ayahNumber": 4,
+    "arabicText": "وَلَاۤ أَنَا۠ عَابِدࣱ مَّا عَبَدتُّمۡ\n",
+    "translations": {
+      "en": "\"And I will not worship ~hat which you have [ever] worshipped,",
+      "ms": "",
+      "id": "",
+      "ar": "وَلَاۤ أَنَا۠ عَابِدࣱ مَّا عَبَدتُّمۡ\n"
+    }
+  },
+  {
+    "id": 6212,
+    "surahId": 109,
+    "ayahNumber": 5,
+    "arabicText": "وَلَاۤ أَنتُمۡ عَـٰبِدُونَ مَاۤ أَعۡبُدُ\n",
+    "translations": {
+      "en": "and neither will you [ever] worship that which I worship.",
+      "ms": "",
+      "id": "",
+      "ar": "وَلَاۤ أَنتُمۡ عَـٰبِدُونَ مَاۤ أَعۡبُدُ\n"
+    }
+  },
+  {
+    "id": 6213,
+    "surahId": 109,
+    "ayahNumber": 6,
+    "arabicText": "لَكُمۡ دِینُكُمۡ وَلِیَ دِینِ\n",
+    "translations": {
+      "en": "Unto you, your moral law, and unto me, mine!\"",
+      "ms": "",
+      "id": "",
+      "ar": "لَكُمۡ دِینُكُمۡ وَلِیَ دِینِ\n"
+    }
+  }
+]

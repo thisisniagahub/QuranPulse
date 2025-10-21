@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6194,
+    "surahId": 106,
+    "ayahNumber": 1,
+    "arabicText": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ لِإِیلَـٰفِ قُرَیۡشٍ\n",
+    "translations": {
+      "en": "SO THAT the Quraysh might remain secure,",
+      "ms": "",
+      "id": "",
+      "ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ لِإِیلَـٰفِ قُرَیۡشٍ\n"
+    }
+  },
+  {
+    "id": 6195,
+    "surahId": 106,
+    "ayahNumber": 2,
+    "arabicText": "إِۦلَـٰفِهِمۡ رِحۡلَةَ ٱلشِّتَاۤءِ وَٱلصَّیۡفِ\n",
+    "translations": {
+      "en": "secure in their winter and summer journeys,",
+      "ms": "",
+      "id": "",
+      "ar": "إِۦلَـٰفِهِمۡ رِحۡلَةَ ٱلشِّتَاۤءِ وَٱلصَّیۡفِ\n"
+    }
+  },
+  {
+    "id": 6196,
+    "surahId": 106,
+    "ayahNumber": 3,
+    "arabicText": "فَلۡیَعۡبُدُوا۟ رَبَّ هَـٰذَا ٱلۡبَیۡتِ\n",
+    "translations": {
+      "en": "Let them, therefore, worship the Sustainer of this Temple;",
+      "ms": "",
+      "id": "",
+      "ar": "فَلۡیَعۡبُدُوا۟ رَبَّ هَـٰذَا ٱلۡبَیۡتِ\n"
+    }
+  },
+  {
+    "id": 6197,
+    "surahId": 106,
+    "ayahNumber": 4,
+    "arabicText": "ٱلَّذِیۤ أَطۡعَمَهُم مِّن جُوعࣲ وَءَامَنَهُم مِّنۡ خَوۡفِۭ\n",
+    "translations": {
+      "en": "who has given them food against hunger, and made them safe from danger.",
+      "ms": "",
+      "id": "",
+      "ar": "ٱلَّذِیۤ أَطۡعَمَهُم مِّن جُوعࣲ وَءَامَنَهُم مِّنۡ خَوۡفِۭ\n"
+    }
+  }
+]

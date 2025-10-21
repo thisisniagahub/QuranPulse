@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6205,
+    "surahId": 108,
+    "ayahNumber": 1,
+    "arabicText": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ إِنَّاۤ أَعۡطَیۡنَـٰكَ ٱلۡكَوۡثَرَ\n",
+    "translations": {
+      "en": "BEHOLD, We have bestowed upon thee good in abundance:",
+      "ms": "",
+      "id": "",
+      "ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ إِنَّاۤ أَعۡطَیۡنَـٰكَ ٱلۡكَوۡثَرَ\n"
+    }
+  },
+  {
+    "id": 6206,
+    "surahId": 108,
+    "ayahNumber": 2,
+    "arabicText": "فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ\n",
+    "translations": {
+      "en": "hence, pray unto thy Sustainer [alone], and sacrifice [unto Him alone].",
+      "ms": "",
+      "id": "",
+      "ar": "فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ\n"
+    }
+  },
+  {
+    "id": 6207,
+    "surahId": 108,
+    "ayahNumber": 3,
+    "arabicText": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ\n",
+    "translations": {
+      "en": "Verily, he that hates thee has indeed been cut off [from all that is good]!",
+      "ms": "",
+      "id": "",
+      "ar": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ\n"
+    }
+  }
+]
