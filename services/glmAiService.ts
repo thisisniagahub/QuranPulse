@@ -1,10 +1,11 @@
 import Constants from 'expo-constants';
+import { logger } from './loggingService';
 
 const GLM_API_KEY = Constants.expoConfig?.extra?.glmApiKey || process.env.EXPO_PUBLIC_GLM_API_KEY;
 const GLM_API_URL = Constants.expoConfig?.extra?.glmApiUrl || process.env.EXPO_PUBLIC_GLM_API_URL || 'https://open.bigmodel.cn/api/paas/v4';
 
 if (!GLM_API_KEY) {
-  console.warn('GLM API Key not found. AI features will be disabled.');
+  logger.warn('GLM API Key not found. AI features will be disabled.');
 }
 
 export interface GLMMessage {
@@ -674,7 +675,7 @@ export async function sendChatRequest(
     const data: GLMChatResponse = await response.json();
     return data;
   } catch (error) {
-    console.error('Error sending chat request to GLM:', error);
+    logger.error('Error sending chat request to GLM:', error);
     throw error;
   }
 }
@@ -798,13 +799,13 @@ export async function sendStreamingChatRequest(
               onChunk(content);
             }
           } catch (e) {
-            console.error('Error parsing streaming chunk:', e);
+            logger.error('Error parsing streaming chunk:', e);
           }
         }
       }
     }
   } catch (error) {
-    console.error('Error in streaming chat request:', error);
+    logger.error('Error in streaming chat request:', error);
     throw error;
   }
 }

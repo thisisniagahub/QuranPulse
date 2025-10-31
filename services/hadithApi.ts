@@ -6,6 +6,7 @@
 
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { createApiClient, executeWithRetry, ApiError } from '../utils/apiClient';
+import { logger } from './loggingService';
 
 const HADITH_API_BASE = 'https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1';
 const CACHE_DURATION = 1000 * 60 * 60 * 24 * 7; // 7 days
@@ -159,7 +160,7 @@ export async function getBooks(collectionId: string): Promise<HadithBook[]> {
 
     return books;
   } catch (error) {
-    console.error('Error fetching Hadith books:', error);
+    logger.error('Error fetching Hadith books:', error);
     // Return default books for Bukhari as fallback
     return generateDefaultBooks(collectionId);
   }
@@ -221,7 +222,7 @@ export async function getHadithsByBook(
 
     return hadiths;
   } catch (error) {
-    console.error('Error fetching Hadiths:', error);
+    logger.error('Error fetching Hadiths:', error);
     return [];
   }
 }
@@ -258,7 +259,7 @@ export async function searchHadiths(
 
     return searchResults.slice(0, 20);
   } catch (error) {
-    console.error('Error searching Hadiths:', error);
+    logger.error('Error searching Hadiths:', error);
     return [];
   }
 }
@@ -283,7 +284,7 @@ export async function getRandomHadith(collectionId: string): Promise<Hadith | nu
     const randomIndex = Math.floor(Math.random() * hadiths.length);
     return hadiths[randomIndex];
   } catch (error) {
-    console.error('Error getting random Hadith:', error);
+    logger.error('Error getting random Hadith:', error);
     return null;
   }
 }
@@ -324,7 +325,7 @@ export async function getHadithOfTheDay(): Promise<Hadith | null> {
 
     return hadith;
   } catch (error) {
-    console.error('Error getting Hadith of the day:', error);
+    logger.error('Error getting Hadith of the day:', error);
     return null;
   }
 }
@@ -338,7 +339,7 @@ export async function clearHadithCache(): Promise<void> {
     const hadithKeys = keys.filter(key => key.startsWith('hadith_'));
     await AsyncStorage.multiRemove(hadithKeys);
   } catch (error) {
-    console.error('Error clearing Hadith cache:', error);
+    logger.error('Error clearing Hadith cache:', error);
   }
 }
 

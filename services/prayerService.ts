@@ -1,14 +1,14 @@
-import * as Location from 'expo-location';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import type { PrayerTime, LocationData } from '../types';
 import { getESolatPrayerTimes } from './esolatJakimApi';
 import { createApiClient, executeWithRetry, createCircuitBreaker, ApiError } from '../utils/apiClient';
 import { getValidatedEnv } from '../utils/env';
+import { getCurrentLocation } from './locationService';
+import { logger } from './loggingService';
 
 const config = getValidatedEnv();
 const PRAYER_API_BASE = config.prayerApiBase;
 const CACHE_KEY = 'prayer_times_cache';
-const LOCATION_KEY = 'last_location';
 const CACHE_DURATION = 1000 * 60 * 60 * 12; // 12 hours
 const USE_ESOLAT_JAKIM = true; // Use official JAKIM E-Solat API
 
@@ -20,59 +20,6 @@ interface PrayerTimesCache {
   data: PrayerTime;
   timestamp: number;
   location: LocationData;
-}
-
-/**
- * Get user's current location
- */
-export async function getCurrentLocation(): Promise<LocationData> {
-  try {
-    // Check for cached location first
-    const cachedLocation = await AsyncStorage.getItem(LOCATION_KEY);
-    if (cachedLocation) {
-      const parsed: LocationData = JSON.parse(cachedLocation);
-      // Use cached if less than 1 hour old
-      if (Date.now() - (parsed as any).timestamp < 3600000) {
-        return parsed;
-      }
-    }
-
-    // Request permissions
-    const { status } = await Location.requestForegroundPermissionsAsync();
-    if (status !== 'granted') {
-      throw new Error('Location permission not granted');
-    }
-
-    // Get current position
-    const position = await Location.getCurrentPositionAsync({
-      accuracy: Location.Accuracy.Balanced,
-    });
-
-    // Reverse geocode to get city/country
-    const [address] = await Location.reverseGeocodeAsync({
-      latitude: position.coords.latitude,
-      longitude: position.coords.longitude,
-    });
-
-    const locationData: LocationData = {
-      latitude: position.coords.latitude,
-      longitude: position.coords.longitude,
-      city: address?.city || address?.subregion || 'Unknown',
-      country: address?.country || 'Unknown',
-      timezone: address?.timezone || undefined,
-    };
-
-    // Cache location
-    await AsyncStorage.setItem(
-      LOCATION_KEY,
-      JSON.stringify({ ...locationData, timestamp: Date.now() })
-    );
-
-    return locationData;
-  } catch (error) {
-    console.error('Error getting location:', error);
-    throw new Error('Failed to get location. Please enable location services.');
-  }
 }
 
 /**
@@ -107,7 +54,7 @@ export async function getPrayerTimes(
     // TRY E-SOLAT JAKIM FIRST (Official Malaysia source)
     if (USE_ESOLAT_JAKIM && jakimZone) {
       try {
-        console.log('Fetching from E-Solat JAKIM (Official)...');
+        logger.info('Fetching from E-Solat JAKIM (Official)...');
         const esolatTimes = await getESolatPrayerTimes(jakimZone);
         
         // Cache the result
@@ -120,13 +67,13 @@ export async function getPrayerTimes(
         
         return esolatTimes;
       } catch (esolatError) {
-        console.warn('E-Solat JAKIM failed, falling back to Aladhan:', esolatError);
+        logger.warn('E-Solat JAKIM failed, falling back to Aladhan:', esolatError);
         // Continue to Aladhan fallback
       }
     }
 
     // FALLBACK: Fetch from Aladhan API with circuit breaker
-    console.log('Using Aladhan API (Fallback)...');
+    logger.info('Using Aladhan API (Fallback)...');
     const response = await prayerBreaker.execute(() =>
       executeWithRetry(
         () => prayerClient.get('/timings', {
@@ -169,7 +116,7 @@ export async function getPrayerTimes(
     return prayerTimes;
   } catch (error) {
     const apiError = error as ApiError;
-    console.error('Error fetching prayer times:', apiError.userMessage);
+    logger.error('Error fetching prayer times:', apiError.userMessage);
     
     // Check if circuit breaker is open
     if (apiError.code === 'CIRCUIT_OPEN') {
@@ -227,7 +174,7 @@ export function getNextPrayer(prayerTimes: PrayerTime): { name: string; time: st
       timeUntil: 'Tomorrow',
     };
   } catch (error) {
-    console.error('Error getting next prayer:', error);
+    logger.error('Error getting next prayer:', error);
     return null;
   }
 }
@@ -292,7 +239,7 @@ export async function getHijriDate(): Promise<string> {
     throw new Error('Failed to fetch Hijri date');
   } catch (error) {
     const apiError = error as ApiError;
-    console.error('Error fetching Hijri date:', apiError.userMessage);
+    logger.error('Error fetching Hijri date:', apiError.userMessage);
     return '';
   }
 }
@@ -303,8 +250,7 @@ export async function getHijriDate(): Promise<string> {
 export async function clearPrayerTimesCache(): Promise<void> {
   try {
     await AsyncStorage.removeItem(CACHE_KEY);
-    await AsyncStorage.removeItem(LOCATION_KEY);
   } catch (error) {
-    console.error('Error clearing cache:', error);
+    logger.error('Error clearing cache:', error);
   }
 }

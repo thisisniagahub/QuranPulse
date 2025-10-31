@@ -2,6 +2,8 @@ import type { Surah, Ayah, ApiResponse } from '../types';
 import { SURAHS } from '../constants/surahs';
 import { createApiClient, executeWithRetry, ApiError } from '../utils/apiClient';
 import { getValidatedEnv } from '../utils/env';
+import { logger } from './loggingService';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
 const config = getValidatedEnv();
 const QURAN_API_BASE = config.quranApiBase;
@@ -11,25 +13,33 @@ const TAFSIR_ID = 169; // Tafsir Ibn Kathir (Indonesian)
 // Create API client with retry logic
 const quranClient = createApiClient(QURAN_API_BASE, { timeout: 10000 });
 
-// Cache for API responses
-const cache = new Map<string, { data: any; timestamp: number }>();
 const CACHE_DURATION = 1000 * 60 * 60; // 1 hour
 
-function getCacheKey(endpoint: string): string {
-  return `quran_${endpoint}`;
-}
-
-function getFromCache<T>(key: string): T | null {
-  const cached = cache.get(key);
-  if (cached && Date.now() - cached.timestamp < CACHE_DURATION) {
-    return cached.data as T;
+async function getFromCache<T>(key: string): Promise<T | null> {
+  try {
+    const cached = await AsyncStorage.getItem(key);
+    if (cached) {
+      const { data, timestamp } = JSON.parse(cached);
+      if (Date.now() - timestamp < CACHE_DURATION) {
+        return data as T;
+      }
+    }
+  } catch (error) {
+    logger.error('Error getting from cache:', error);
   }
-  cache.delete(key);
   return null;
 }
 
-function setCache(key: string, data: any): void {
-  cache.set(key, { data, timestamp: Date.now() });
+async function setCache(key: string, data: any): Promise<void> {
+  try {
+    const item = {
+      data,
+      timestamp: Date.now(),
+    };
+    await AsyncStorage.setItem(key, JSON.stringify(item));
+  } catch (error) {
+    logger.error('Error setting cache:', error);
+  }
 }
 
 /**
@@ -38,8 +48,8 @@ function setCache(key: string, data: any): void {
  * @returns Promise with Surah data
  */
 export async function getSurah(surahId: number): Promise<Surah> {
-  const cacheKey = getCacheKey(`surah_${surahId}`);
-  const cached = getFromCache<Surah>(cacheKey);
+  const cacheKey = `quran_surah_${surahId}`;
+  const cached = await getFromCache<Surah>(cacheKey);
   if (cached) return cached;
 
   try {
@@ -59,11 +69,11 @@ export async function getSurah(surahId: number): Promise<Surah> {
       arabicName: data.name,
     };
 
-    setCache(cacheKey, surah);
+    await setCache(cacheKey, surah);
     return surah;
   } catch (error) {
     const apiError = error as ApiError;
-    console.error('Error fetching Surah:', apiError.userMessage);
+    logger.error('Error fetching Surah:', apiError.userMessage);
     // Fallback to constants
     const surah = SURAHS.find(s => s.number === surahId);
     if (surah) return surah;
@@ -77,8 +87,8 @@ export async function getSurah(surahId: number): Promise<Surah> {
  * @returns Promise with array of verses
  */
 export async function getSurahVerses(surahId: number): Promise<Ayah[]> {
-  const cacheKey = getCacheKey(`verses_${surahId}`);
-  const cached = getFromCache<Ayah[]>(cacheKey);
+  const cacheKey = `quran_verses_${surahId}`;
+  const cached = await getFromCache<Ayah[]>(cacheKey);
   if (cached) return cached;
 
   try {
@@ -106,11 +116,11 @@ export async function getSurahVerses(surahId: number): Promise<Ayah[]> {
       surahNumber: surahId,
     }));
 
-    setCache(cacheKey, verses);
+    await setCache(cacheKey, verses);
     return verses;
   } catch (error) {
     const apiError = error as ApiError;
-    console.error('Error fetching Surah verses:', apiError.userMessage);
+    logger.error('Error fetching Surah verses:', apiError.userMessage);
     throw new Error(apiError.userMessage || 'Failed to fetch verses. Please check your connection and try again.');
   }
 }
@@ -124,12 +134,10 @@ export async function getSurahVerses(surahId: number): Promise<Ayah[]> {
  * Get transliteration for a verse (Rumi/Latin style)
  */
 export async function getTransliteration(verseKey: string): Promise<string> {
-  const cacheKey = `transliteration_${verseKey}`;
-  const cached = cache.get(cacheKey);
+  const cacheKey = `quran_transliteration_${verseKey}`;
+  const cached = await getFromCache<string>(cacheKey);
 
-  if (cached && Date.now() - cached.timestamp < CACHE_DURATION) {
-    return cached.data;
-  }
+  if (cached) return cached;
 
   try {
     // Using en.transliteration edition from AlQuran Cloud
@@ -147,21 +155,21 @@ export async function getTransliteration(verseKey: string): Promise<string> {
       const transliteration = data.data.text || '';
 
       // Cache the result
-      cache.set(cacheKey, { data: transliteration, timestamp: Date.now() });
+      await setCache(cacheKey, transliteration);
 
       return transliteration;
     }
 
     throw new Error('Invalid response from API');
   } catch (error) {
-    console.error('Error fetching transliteration:', error);
+    logger.error('Error fetching transliteration:', error);
     return 'Transliteration unavailable';
   }
 }
 
 export async function getVerse(verseKey: string): Promise<Ayah> {
-  const cacheKey = getCacheKey(`verse_${verseKey}`);
-  const cached = getFromCache<Ayah>(cacheKey);
+  const cacheKey = `quran_verse_${verseKey}`;
+  const cached = await getFromCache<Ayah>(cacheKey);
   if (cached) return cached;
 
   try {
@@ -184,11 +192,11 @@ export async function getVerse(verseKey: string): Promise<Ayah> {
       surahNumber: surahId,
     };
 
-    setCache(cacheKey, verse);
+    await setCache(cacheKey, verse);
     return verse;
   } catch (error) {
     const apiError = error as ApiError;
-    console.error('Error fetching verse:', apiError.userMessage);
+    logger.error('Error fetching verse:', apiError.userMessage);
     throw new Error(apiError.userMessage || 'Failed to fetch verse. Please check your connection and try again.');
   }
 }
@@ -213,7 +221,7 @@ export async function getVerseAudio(verseKey: string, reciterId: number = 7): Pr
     return audioUrl;
   } catch (error) {
     const apiError = error as ApiError;
-    console.error('Error fetching verse audio:', apiError.userMessage);
+    logger.error('Error fetching verse audio:', apiError.userMessage);
     throw new Error(apiError.userMessage || 'Failed to fetch audio. Please try again.');
   }
 }
@@ -237,8 +245,8 @@ export async function getSurahAudio(surahId: number, reciterId: number = 7): Pro
  * @returns Promise with Tafsir text
  */
 export async function getTafsir(verseKey: string): Promise<string> {
-  const cacheKey = getCacheKey(`tafsir_${verseKey}`);
-  const cached = getFromCache<string>(cacheKey);
+  const cacheKey = `quran_tafsir_${verseKey}`;
+  const cached = await getFromCache<string>(cacheKey);
   if (cached) return cached;
 
   try {
@@ -258,11 +266,11 @@ export async function getTafsir(verseKey: string): Promise<string> {
       .replace(/&quot;/g, '"') // Replace &quot;
       .trim();
 
-    setCache(cacheKey, tafsirText);
+    await setCache(cacheKey, tafsirText);
     return tafsirText;
   } catch (error) {
     const apiError = error as ApiError;
-    console.error('Error fetching Tafsir:', apiError.userMessage);
+    logger.error('Error fetching Tafsir:', apiError.userMessage);
     return apiError.userMessage || 'Tafsir not available at the moment. Please try again later.';
   }
 }
@@ -281,7 +289,7 @@ export async function getRandomVerse(): Promise<{ verse: Ayah; surah: Surah }> {
 
     return { verse, surah: randomSurah };
   } catch (error) {
-    console.error('Error fetching random verse:', error);
+    logger.error('Error fetching random verse:', error);
     // Fallback to Al-Fatihah 1:1
     const verse = await getVerse('1:1');
     return { verse, surah: SURAHS[0] };
@@ -321,7 +329,7 @@ export async function searchTafsir(keyword: string): Promise<any[]> {
 
     return results;
   } catch (error) {
-    console.error('Error searching tafsir:', error);
+    logger.error('Error searching tafsir:', error);
     return [];
   }
 }
@@ -350,7 +358,7 @@ export async function searchVerses(keyword: string, language: string = 'en'): Pr
     }));
   } catch (error) {
     const apiError = error as ApiError;
-    console.error('Error searching verses:', apiError.userMessage);
+    logger.error('Error searching verses:', apiError.userMessage);
     throw new Error(apiError.userMessage || 'Search failed. Please try again.');
   }
 }
@@ -381,7 +389,7 @@ export async function downloadAudioFile(
     return response.data;
   } catch (error) {
     const apiError = error as ApiError;
-    console.error('Error downloading audio file:', apiError.userMessage);
+    logger.error('Error downloading audio file:', apiError.userMessage);
     throw new Error(apiError.userMessage || 'Failed to download audio file.');
   }
 }

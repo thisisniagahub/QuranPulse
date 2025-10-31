@@ -6,6 +6,7 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { sendMessage } from './glmAiService';
 import { transcribeAudio } from './speechToTextService';
+import { logger } from './loggingService';
 
 // Types for Mengaji Analysis
 export interface MengajiAnalysis {
@@ -205,13 +206,13 @@ export async function analyzeRecitation(
     try {
         const analysisPrompt = `
     Sebagai pakar tajwid dan qari profesional, analisis bacaan Al-Quran berikut dengan teliti:
-    
+
     AYAT ASAL: ${originalVerse}
     SURAH ${verseInfo.surah}:${verseInfo.ayah}
     TAJWID FOCUS: ${verseInfo.tajwid.join(', ')}
-    
+
     BACAAN PENGGUNA: ${userRecitation}
-    
+
     Berikan analisis TERPERINCI dalam format JSON:
     {
       "accuracy": 0-100,
@@ -232,7 +233,7 @@ export async function analyzeRecitation(
       "overall_feedback": "komen keseluruhan yang membina",
       "improvement_tips": ["tip1", "tip2", "tip3"]
     }
-    
+
     FOKUS ANALISIS:
     1. Ketepatan makhraj huruf (tempat keluar huruf)
     2. Panjang pendek bacaan (hukum mad)
@@ -240,7 +241,7 @@ export async function analyzeRecitation(
     4. Hukum nun sakinah dan mim sakinah
     5. Kualiti suara dan kelancaran
     6. Tanda waqaf dan wasal yang betul
-    
+
     Berikan skor yang realistik dan cadangan yang boleh dilaksanakan.
     `;
 
@@ -260,7 +261,7 @@ export async function analyzeRecitation(
 
         return mockAnalysis;
     } catch (error) {
-        console.error('Error analyzing recitation:', error);
+        logger.error('Error analyzing recitation:', error);
         throw new Error('Gagal menganalisis bacaan. Sila cuba lagi.');
     }
 }
@@ -377,7 +378,7 @@ export async function saveSession(session: MengajiSession): Promise<void> {
         const updatedSessions = [...existingSessions, session];
         await AsyncStorage.setItem('mengaji_sessions', JSON.stringify(updatedSessions));
     } catch (error) {
-        console.error('Error saving session:', error);
+        logger.error('Error saving session:', error);
     }
 }
 
@@ -389,7 +390,7 @@ export async function getSessions(): Promise<MengajiSession[]> {
         const sessionsData = await AsyncStorage.getItem('mengaji_sessions');
         return sessionsData ? JSON.parse(sessionsData) : [];
     } catch (error) {
-        console.error('Error getting sessions:', error);
+        logger.error('Error getting sessions:', error);
         return [];
     }
 }
@@ -432,7 +433,7 @@ export async function getProgress(): Promise<MengajiProgress> {
             lastSessionDate: sessions[sessions.length - 1]?.startTime.toISOString(),
         };
     } catch (error) {
-        console.error('Error getting progress:', error);
+        logger.error('Error getting progress:', error);
         return {
             totalSessions: 0,
             totalVerses: 0,
@@ -508,7 +509,7 @@ export async function getAchievements(): Promise<Achievement[]> {
         await AsyncStorage.setItem('mengaji_achievements', JSON.stringify(MENGAJI_ACHIEVEMENTS));
         return MENGAJI_ACHIEVEMENTS;
     } catch (error) {
-        console.error('Error getting achievements:', error);
+        logger.error('Error getting achievements:', error);
         return MENGAJI_ACHIEVEMENTS;
     }
 }
@@ -591,7 +592,7 @@ export async function updateAchievements(session: MengajiSession): Promise<Achie
 
         return achievements;
     } catch (error) {
-        console.error('Error updating achievements:', error);
+        logger.error('Error updating achievements:', error);
         return [];
     }
 }
@@ -635,7 +636,7 @@ export async function analyzeAudioRecitation(
         // Then analyze the transcribed text
         return await analyzeRecitation(transcription.text, originalVerse, verseInfo);
     } catch (error) {
-        console.error('Error analyzing audio recitation:', error);
+        logger.error('Error analyzing audio recitation:', error);
         throw new Error('Gagal menganalisis audio. Sila cuba lagi.');
     }
 }
@@ -685,7 +686,7 @@ export async function getRecommendations(): Promise<string[]> {
 
         return recommendations;
     } catch (error) {
-        console.error('Error getting recommendations:', error);
+        logger.error('Error getting recommendations:', error);
         return ['Teruskan latihan anda!'];
     }
 }
