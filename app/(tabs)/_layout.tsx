@@ -40,6 +40,15 @@ export default function TabLayout() {
           ),
         }}
       />
+      <Tabs.Screen
+        name="almathurat"
+        options={{
+          title: 'Al-Ma\'thurat',
+          tabBarIcon: ({ color, size }) => (
+            <Ionicons name="leaf" size={size} color={color} />
+          ),
+        }}
+      />
       
       {/* USTAZ AI - Central Prominent Button */}
       <Tabs.Screen

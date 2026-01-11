@@ -1,0 +1,285 @@
+{
+  "morning": {
+    "title": "Al-Ma'thurat Pagi",
+    "description": "Bacaan wirid, doa, zikir dan istighfar dari Al-Quran untuk dibaca pada waktu pagi",
+    "items": [
+      {
+        "id": "morning_1",
+        "category": "wirid",
+        "title": "Ayat Kursi",
+        "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+        "translation": {
+          "ms": "Allah, tiada Tuhan melainkan Dia, Yang Hidup kekal lagi sentiasa mentadbirkan (sekalian makhluk-Nya); tidak mengantuk dan tidak tidur. Kepunyaan-Nya apa yang ada di langit dan apa yang ada di bumi. Tiada yang dapat memberi syafaat di sisi-Nya melainkan dengan izin-Nya. Dia mengetahui apa yang di hadapan mereka dan apa yang di belakang mereka, sedang mereka tidak mengetahui sesuatu pun dari (kandungan) ilmu Allah melainkan apa yang Dia kehendaki (memberitahu kepadanya). Kerusi Allah meliputi langit dan bumi; dan Dia tidak merasa berat memelihara keduanya. Dia Yang Maha Tinggi, lagi Maha Besar.",
+          "en": "Allah - there is no deity except Him, the Ever-Living, the Sustainer of existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great."
+        },
+        "reference": "Surah Al-Baqarah (2:255)",
+        "surahNumber": 2,
+        "ayahNumber": 255,
+        "repetition": 1,
+        "benefits": "Perlindungan dari segala kejahatan sepanjang hari"
+      },
+      {
+        "id": "morning_2",
+        "category": "wirid",
+        "title": "Surah Al-Ikhlas",
+        "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ ۝ اللَّهُ الصَّمَدُ ۝ لَمْ يَلِدْ وَلَمْ يُولَدْ ۝ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+        "translation": {
+          "ms": "Katakanlah (wahai Muhammad): \"Dialah Allah, Yang Maha Esa; Allah Yang menjadi tumpuan sekalian makhluk untuk memohon sebarang hajat; Dia tiada beranak, dan Dia pula tidak diperanakkan; Dan tidak ada sesiapa pun yang serupa dengan-Nya\".",
+          "en": "Say, He is Allah, [who is] One, Allah, the Eternal Refuge. He neither begets nor is born, Nor is there to Him any equivalent."
+        },
+        "reference": "Surah Al-Ikhlas (112:1-4)",
+        "surahNumber": 112,
+        "ayahNumber": 1,
+        "repetition": 3,
+        "benefits": "Bersamaan dengan 1/3 Al-Quran"
+      },
+      {
+        "id": "morning_3",
+        "category": "wirid",
+        "title": "Surah Al-Falaq",
+        "arabic": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ۝ مِن شَرِّ مَا خَلَقَ ۝ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ۝ وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ۝ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+        "translation": {
+          "ms": "Katakanlah (wahai Muhammad): \"Aku berlindung kepada (Allah) Tuhan yang menguasai waktu subuh, Dari kejahatan makhluk-makhluk-Nya; Dan dari kejahatan malam yang gelap gelita apabila ia meliputi; Dan dari kejahatan ahli-ahli sihir yang menghembus pada buhul-buhul (talinya); Dan dari kejahatan orang yang hasad dengki apabila ia melakukan hasad dengkinya\".",
+          "en": "Say, I seek refuge in the Lord of daybreak, From the evil of that which He created, And from the evil of darkness when it settles, And from the evil of the blowers in knots, And from the evil of an envier when he envies."
+        },
+        "reference": "Surah Al-Falaq (113:1-5)",
+        "surahNumber": 113,
+        "ayahNumber": 1,
+        "repetition": 3,
+        "benefits": "Perlindungan dari sihir dan hasad dengki"
+      },
+      {
+        "id": "morning_4",
+        "category": "wirid",
+        "title": "Surah An-Nas",
+        "arabic": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ ۝ مَلِكِ النَّاسِ ۝ إِلَٰهِ النَّاسِ ۝ مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ۝ الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ ۝ مِنَ الْجِنَّةِ وَالنَّاسِ",
+        "translation": {
+          "ms": "Katakanlah (wahai Muhammad): \"Aku berlindung kepada (Allah) Tuhan yang mentadbirkan manusia, Raja yang memerintah manusia, Tuhan yang berhak disembah oleh manusia, Dari kejahatan (bisikan syaitan) yang timbul tenggelam (yang biasa bersembunyi), Yang melemparkan bisikan jahat ke dalam hati manusia, Dari kalangan jin dan manusia\".",
+          "en": "Say, I seek refuge in the Lord of mankind, The Sovereign of mankind, The God of mankind, From the evil of the retreating whisperer - Who whispers [evil] into the breasts of mankind - From among the jinn and mankind."
+        },
+        "reference": "Surah An-Nas (114:1-6)",
+        "surahNumber": 114,
+        "ayahNumber": 1,
+        "repetition": 3,
+        "benefits": "Perlindungan dari bisikan syaitan dan jin"
+      },
+      {
+        "id": "morning_5",
+        "category": "doa",
+        "title": "Doa Nabi Yunus",
+        "arabic": "لَّا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ",
+        "translation": {
+          "ms": "Tiada Tuhan (yang berhak disembah) melainkan Engkau, Maha Suci Engkau, sesungguhnya aku adalah dari orang-orang yang zalim.",
+          "en": "There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers."
+        },
+        "reference": "Surah Al-Anbiya (21:87)",
+        "surahNumber": 21,
+        "ayahNumber": 87,
+        "repetition": 3,
+        "benefits": "Doa untuk melepaskan dari kesusahan"
+      },
+      {
+        "id": "morning_6",
+        "category": "doa",
+        "title": "Doa Memohon Ilmu",
+        "arabic": "رَبِّ زِدْنِي عِلْمًا",
+        "translation": {
+          "ms": "Ya Tuhanku, tambahkanlah kepadaku ilmu pengetahuan.",
+          "en": "My Lord, increase me in knowledge."
+        },
+        "reference": "Surah Taha (20:114)",
+        "surahNumber": 20,
+        "ayahNumber": 114,
+        "repetition": 3,
+        "benefits": "Memohon penambahan ilmu"
+      },
+      {
+        "id": "morning_7",
+        "category": "zikir",
+        "title": "Tasbih, Tahmid, Takbir",
+        "arabic": "سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَاللَّهُ أَكْبَرُ",
+        "translation": {
+          "ms": "Maha Suci Allah, segala puji bagi Allah, dan Allah Maha Besar.",
+          "en": "Glory be to Allah, all praise is due to Allah, and Allah is the Greatest."
+        },
+        "reference": "Disebutkan dalam banyak ayat Al-Quran",
+        "surahNumber": null,
+        "ayahNumber": null,
+        "repetition": 33,
+        "benefits": "Zikir yang paling dicintai Allah"
+      },
+      {
+        "id": "morning_8",
+        "category": "istighfar",
+        "title": "Istighfar Nabi Adam",
+        "arabic": "رَبَّنَا ظَلَمْنَا أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ",
+        "translation": {
+          "ms": "Wahai Tuhan kami! Kami telah menganiaya diri kami sendiri. Dan jika Engkau tidak mengampunkan kami, serta tidak merahmati kami, nescaya menjadilah kami dari orang-orang yang rugi.",
+          "en": "Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers."
+        },
+        "reference": "Surah Al-A'raf (7:23)",
+        "surahNumber": 7,
+        "ayahNumber": 23,
+        "repetition": 3,
+        "benefits": "Istighfar yang diajarkan kepada Nabi Adam"
+      },
+      {
+        "id": "morning_9",
+        "category": "istighfar",
+        "title": "Sayyidul Istighfar",
+        "arabic": "اللَّهُمَّ أَنتَ رَبِّي لَا إِلَٰهَ إِلَّا أَنتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ وَأَنَا عَلَىٰ عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ أَعُوذُ بِكَ مِن شَرِّ مَا صَنَعْتُ أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنتَ",
+        "translation": {
+          "ms": "Ya Allah, Engkau adalah Tuhanku, tiada Tuhan melainkan Engkau. Engkau telah menciptakan aku dan aku adalah hamba-Mu. Aku berada di atas janji dan ikatan-Mu semampuku. Aku berlindung kepada-Mu dari kejahatan apa yang aku perbuat. Aku mengakui nikmat-Mu kepadaku dan aku mengakui dosaku, maka ampunilah aku. Sesungguhnya tiada yang mengampuni dosa-dosa melainkan Engkau.",
+          "en": "O Allah, You are my Lord, there is no deity except You. You created me and I am Your servant, and I am upon Your covenant and promise as much as I can be. I seek refuge in You from the evil of what I have done. I acknowledge Your favor upon me and I acknowledge my sin, so forgive me, for indeed none forgives sins except You."
+        },
+        "reference": "Berdasarkan hadith, dengan kandungan dari Al-Quran",
+        "surahNumber": null,
+        "ayahNumber": null,
+        "repetition": 1,
+        "benefits": "Penghulu istighfar, jaminan syurga jika dibaca dengan yakin"
+      },
+      {
+        "id": "morning_10",
+        "category": "doa",
+        "title": "Doa Kebaikan Dunia dan Akhirat",
+        "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+        "translation": {
+          "ms": "Wahai Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan peliharalah kami dari azab neraka.",
+          "en": "Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire."
+        },
+        "reference": "Surah Al-Baqarah (2:201)",
+        "surahNumber": 2,
+        "ayahNumber": 201,
+        "repetition": 3,
+        "benefits": "Doa yang mencakup kebaikan dunia dan akhirat"
+      }
+    ]
+  },
+  "evening": {
+    "title": "Al-Ma'thurat Petang",
+    "description": "Bacaan wirid, doa, zikir dan istighfar dari Al-Quran untuk dibaca pada waktu petang",
+    "items": [
+      {
+        "id": "evening_1",
+        "category": "wirid",
+        "title": "Ayat Kursi",
+        "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+        "translation": {
+          "ms": "Allah, tiada Tuhan melainkan Dia, Yang Hidup kekal lagi sentiasa mentadbirkan (sekalian makhluk-Nya); tidak mengantuk dan tidak tidur. Kepunyaan-Nya apa yang ada di langit dan apa yang ada di bumi. Tiada yang dapat memberi syafaat di sisi-Nya melainkan dengan izin-Nya. Dia mengetahui apa yang di hadapan mereka dan apa yang di belakang mereka, sedang mereka tidak mengetahui sesuatu pun dari (kandungan) ilmu Allah melainkan apa yang Dia kehendaki (memberitahu kepadanya). Kerusi Allah meliputi langit dan bumi; dan Dia tidak merasa berat memelihara keduanya. Dia Yang Maha Tinggi, lagi Maha Besar.",
+          "en": "Allah - there is no deity except Him, the Ever-Living, the Sustainer of existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great."
+        },
+        "reference": "Surah Al-Baqarah (2:255)",
+        "surahNumber": 2,
+        "ayahNumber": 255,
+        "repetition": 1,
+        "benefits": "Perlindungan dari segala kejahatan sepanjang malam"
+      },
+      {
+        "id": "evening_2",
+        "category": "wirid",
+        "title": "Surah Al-Ikhlas",
+        "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ ۝ اللَّهُ الصَّمَدُ ۝ لَمْ يَلِدْ وَلَمْ يُولَدْ ۝ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+        "translation": {
+          "ms": "Katakanlah (wahai Muhammad): \"Dialah Allah, Yang Maha Esa; Allah Yang menjadi tumpuan sekalian makhluk untuk memohon sebarang hajat; Dia tiada beranak, dan Dia pula tidak diperanakkan; Dan tidak ada sesiapa pun yang serupa dengan-Nya\".",
+          "en": "Say, He is Allah, [who is] One, Allah, the Eternal Refuge. He neither begets nor is born, Nor is there to Him any equivalent."
+        },
+        "reference": "Surah Al-Ikhlas (112:1-4)",
+        "surahNumber": 112,
+        "ayahNumber": 1,
+        "repetition": 3,
+        "benefits": "Bersamaan dengan 1/3 Al-Quran"
+      },
+      {
+        "id": "evening_3",
+        "category": "wirid",
+        "title": "Surah Al-Falaq",
+        "arabic": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ۝ مِن شَرِّ مَا خَلَقَ ۝ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ۝ وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ۝ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+        "translation": {
+          "ms": "Katakanlah (wahai Muhammad): \"Aku berlindung kepada (Allah) Tuhan yang menguasai waktu subuh, Dari kejahatan makhluk-makhluk-Nya; Dan dari kejahatan malam yang gelap gelita apabila ia meliputi; Dan dari kejahatan ahli-ahli sihir yang menghembus pada buhul-buhul (talinya); Dan dari kejahatan orang yang hasad dengki apabila ia melakukan hasad dengkinya\".",
+          "en": "Say, I seek refuge in the Lord of daybreak, From the evil of that which He created, And from the evil of darkness when it settles, And from the evil of the blowers in knots, And from the evil of an envier when he envies."
+        },
+        "reference": "Surah Al-Falaq (113:1-5)",
+        "surahNumber": 113,
+        "ayahNumber": 1,
+        "repetition": 3,
+        "benefits": "Perlindungan dari sihir dan hasad dengki"
+      },
+      {
+        "id": "evening_4",
+        "category": "wirid",
+        "title": "Surah An-Nas",
+        "arabic": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ ۝ مَلِكِ النَّاسِ ۝ إِلَٰهِ النَّاسِ ۝ مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ۝ الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ ۝ مِنَ الْجِنَّةِ وَالنَّاسِ",
+        "translation": {
+          "ms": "Katakanlah (wahai Muhammad): \"Aku berlindung kepada (Allah) Tuhan yang mentadbirkan manusia, Raja yang memerintah manusia, Tuhan yang berhak disembah oleh manusia, Dari kejahatan (bisikan syaitan) yang timbul tenggelam (yang biasa bersembunyi), Yang melemparkan bisikan jahat ke dalam hati manusia, Dari kalangan jin dan manusia\".",
+          "en": "Say, I seek refuge in the Lord of mankind, The Sovereign of mankind, The God of mankind, From the evil of the retreating whisperer - Who whispers [evil] into the breasts of mankind - From among the jinn and mankind."
+        },
+        "reference": "Surah An-Nas (114:1-6)",
+        "surahNumber": 114,
+        "ayahNumber": 1,
+        "repetition": 3,
+        "benefits": "Perlindungan dari bisikan syaitan dan jin"
+      },
+      {
+        "id": "evening_5",
+        "category": "doa",
+        "title": "Doa Perlindungan",
+        "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+        "translation": {
+          "ms": "Cukuplah Allah bagi kami dan Dia adalah sebaik-baik Pelindung.",
+          "en": "Sufficient for us is Allah, and [He is] the best Disposer of affairs."
+        },
+        "reference": "Surah Ali Imran (3:173)",
+        "surahNumber": 3,
+        "ayahNumber": 173,
+        "repetition": 7,
+        "benefits": "Perlindungan dan ketenteraman hati"
+      },
+      {
+        "id": "evening_6",
+        "category": "istighfar",
+        "title": "Istighfar Sederhana",
+        "arabic": "أَسْتَغْفِرُ اللَّهَ الْعَظِيمَ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْحَيَّ الْقَيُّومَ وَأَتُوبُ إِلَيْهِ",
+        "translation": {
+          "ms": "Aku memohon ampun kepada Allah Yang Maha Agung, yang tiada Tuhan melainkan Dia, Yang Hidup kekal lagi sentiasa mentadbirkan, dan aku bertaubat kepada-Nya.",
+          "en": "I seek forgiveness from Allah the Almighty, there is no deity except Him, the Ever-Living, the Sustainer, and I repent to Him."
+        },
+        "reference": "Berdasarkan sifat Allah dalam Al-Quran",
+        "surahNumber": null,
+        "ayahNumber": null,
+        "repetition": 3,
+        "benefits": "Penghapusan dosa"
+      },
+      {
+        "id": "evening_7",
+        "category": "zikir",
+        "title": "Tasbih Fatimah",
+        "arabic": "سُبْحَانَ اللَّهِ (33x) ۝ الْحَمْدُ لِلَّهِ (33x) ۝ اللَّهُ أَكْبَرُ (34x)",
+        "translation": {
+          "ms": "Maha Suci Allah (33x), Segala puji bagi Allah (33x), Allah Maha Besar (34x)",
+          "en": "Glory be to Allah (33x), All praise is due to Allah (33x), Allah is the Greatest (34x)"
+        },
+        "reference": "Diajarkan Rasulullah kepada Fatimah",
+        "surahNumber": null,
+        "ayahNumber": null,
+        "repetition": 1,
+        "benefits": "Menghilangkan keletihan dan memberi kekuatan"
+      },
+      {
+        "id": "evening_8",
+        "category": "doa",
+        "title": "Doa Penutup Hari",
+        "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ الْوَهَّابُ",
+        "translation": {
+          "ms": "Wahai Tuhan kami, janganlah Engkau sesatkan hati kami sesudah Engkau beri petunjuk kepada kami, dan kurniakanlah kepada kami rahmat dari sisi-Mu; sesungguhnya Engkau jualah Tuhan Yang Melimpah-limpah pemberian-Nya.",
+          "en": "Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower."
+        },
+        "reference": "Surah Ali Imran (3:8)",
+        "surahNumber": 3,
+        "ayahNumber": 8,
+        "repetition": 1,
+        "benefits": "Memohon istiqamah dan rahmat Allah"
+      }
+    ]
+  }
+}
+

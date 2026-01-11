@@ -27,6 +27,7 @@ function RootLayoutContent() {
       <Stack screenOptions={{ headerShown: false }}>
         <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
         <Stack.Screen name="profile" options={{ title: 'Profile' }} />
+        <Stack.Screen name="almathurat" options={{ title: 'Al-Ma\'thurat' }} />
       </Stack>
       <AudioWidget />
       <GlobalLoadingOverlay />
